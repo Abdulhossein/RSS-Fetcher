@@ -32,6 +32,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Sync with latest branch tip
+        run: |
+          # This run may have been queued behind a previous one that already
+          # pushed; start from the latest tip so the final push never conflicts.
+          git fetch origin "${GITHUB_REF_NAME}"
+          git reset --hard "origin/${GITHUB_REF_NAME}"
+
       - name: Fetch feeds
         run: python rss_fetcher.py
 
@@ -59,9 +66,15 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # feeds/ is gitignored for local dev; force-add so the bot can publish it
           git add -f feeds/
+          git add README.md
           if git diff --cached --quiet; then
             echo "No feed changes to commit."
           else
             git commit -m "chore: update RSS feeds ($(date -u +%Y-%m-%d)) [skip ci]"
-            git push
+            # If the branch moved while this run was executing, replay on top and retry once
+            git push || {
+              git fetch origin
+              git rebase -X theirs "origin/${GITHUB_REF_NAME}"
+              git push
+            }
           fi
