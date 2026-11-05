@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# Generated feeds (regenerated on each run)
+feeds/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,48 @@
+name: Update RSS feeds
+
+on:
+  schedule:
+    # Daily at 05:00 UTC (GitHub cron is always UTC)
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feeds
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch feeds
+        run: python rss_fetcher.py
+
+      - name: Commit and push feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # feeds/ is gitignored for local dev; force-add so the bot can publish it
+          git add -f feeds/
+          if git diff --cached --quiet; then
+            echo "No feed changes to commit."
+          else
+            git commit -m "chore: update RSS feeds ($(date -u +%Y-%m-%d)) [skip ci]"
+            git push
+          fi

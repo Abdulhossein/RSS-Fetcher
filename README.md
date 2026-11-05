@@ -239,7 +239,10 @@ Already supported by the design:
 - Podcast-specific fields via `enclosures` + `extra`
 - Media RSS tags
 - Caching layer in `rss_fetcher.py`
-- Scheduled runs via GitHub Actions
+
+### Scheduled runs
+
+A GitHub Action (`.github/workflows/update-feeds.yml`) regenerates all feeds **once per day at 05:00 UTC** and commits any changes back to the repo, so raw feed URLs on GitHub can be subscribed to directly. It can also be triggered manually via the *Run workflow* button on the Actions tab.
 
 ---
 
