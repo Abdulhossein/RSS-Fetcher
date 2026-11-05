@@ -12,7 +12,7 @@ Features:
 - Rich item support (title, link, description, content, author, categories,
   image, enclosures, extra, ...)
 - Standards-compliant RSS 2.0 output (dc:creator, multiple categories, guid, etc.)
-- Overwrite strategy (keeps latest \~100 items per site)
+- Overwrite strategy (keeps latest ~100 items per site)
 
 Usage:
     python rss_fetcher.py
@@ -24,6 +24,7 @@ Requirements:
 from __future__ import annotations
 
 import importlib
+import inspect
 import pkgutil
 import sys
 import traceback
@@ -189,6 +190,18 @@ def discover_plugins() -> List[BasePlugin]:
     # Make sure the package is importable
     sys.path.insert(0, str(BASE_DIR))
 
+    # When this script is run directly it is loaded as "__main__", while plugins
+    # import "rss_fetcher" as a separate module copy. That makes issubclass()
+    # fail on identity grounds, so accept any concrete class that quacks like
+    # a plugin instead of relying on strict inheritance from this BasePlugin.
+    def _is_plugin_class(attr: Any) -> bool:
+        return (
+            isinstance(attr, type)
+            and hasattr(attr, "get_items")
+            and callable(getattr(attr, "get_items", None))
+            and not inspect.isabstract(attr)
+        )
+
     for finder, module_name, ispkg in pkgutil.iter_modules([str(PLUGINS_DIR)]):
         if module_name.startswith("_"):
             continue
@@ -197,11 +210,7 @@ def discover_plugins() -> List[BasePlugin]:
             module = importlib.import_module(f"plugins.{module_name}")
             for attr_name in dir(module):
                 attr = getattr(module, attr_name)
-                if (
-                    isinstance(attr, type)
-                    and issubclass(attr, BasePlugin)
-                    and attr is not BasePlugin
-                ):
+                if _is_plugin_class(attr):
                     instance = attr()
                     if not instance.name or instance.name == "unnamed":
                         print(f"⚠ Plugin in {module_name} has no valid name – skipped")
@@ -322,6 +331,14 @@ def run() -> None:
 # Entry point
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
+    # Windows consoles often use a legacy code page (e.g. cp1256) that cannot
+    # encode the symbols used in the log output; force UTF-8 when possible.
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+        sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, ValueError):
+        pass
+
     if len(sys.argv) > 1 and sys.argv[1] in ("--help", "-h"):
         print(__doc__)
         sys.exit(0)
