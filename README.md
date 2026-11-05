@@ -16,15 +16,15 @@ Aggregated across all plugins that declare the category, deduplicated by link:
 
 | Feed | Sources | Items |
 |------|---------|-------|
-| [categories/tech.xml](feeds/categories/tech.xml) | juejin, sample_site | 50 |
-| [categories/programming.xml](feeds/categories/programming.xml) | juejin | 50 |
-| [categories/news.xml](feeds/categories/news.xml) | sample_site *(once its URL is fixed)* | — |
+| [categories/tech.xml][feed-tech] | juejin, sample_site | 50 |
+| [categories/programming.xml][feed-programming] | juejin | 50 |
+| [categories/news.xml][feed-news] | sample_site *(once its URL is fixed)* | — |
 
 ### Master Feed
 
 | Feed | Description | Items |
 |------|-------------|-------|
-| [feeds/all.xml](feeds/all.xml) | Master aggregate of all sources (deduplicated by link, capped at 800) | 50 |
+| [feeds/all.xml][feed-all] | Master aggregate of all sources (deduplicated by link, capped at 800) | 50 |
 
 ### Per-Site Feeds (`feeds/sites/`)
 
@@ -35,8 +35,8 @@ Aggregated across all plugins that declare the category, deduplicated by link:
 
 | Feed | Source | Language | Categories | Items |
 |------|--------|----------|------------|-------|
-| [sites/juejin.xml](feeds/sites/juejin.xml) | 稀土掘金 (juejin.cn) | zh-cn | tech, programming | 50 |
-| [sites/sample_site.xml](feeds/sites/sample_site.xml) | Sample News Site *(template — placeholder URL, currently 404s)* | en | news, tech | — |
+| [sites/juejin.xml][feed-juejin] | 稀土掘金 (juejin.cn) | zh-cn | tech, programming | 50 |
+| [sites/sample_site.xml][feed-sample] | Sample News Site *(template — placeholder URL, currently 404s)* | en | news, tech | — |
 
 </div>
 
@@ -258,3 +258,13 @@ A GitHub Action (`.github/workflows/update-feeds.yml`) regenerates all feeds **o
 | Feed quality | RSS 2.0 + dc:creator + enclosures | Compatibility with all readers |
 | Extraction freedom | Full freedom inside `get_items()` | Can handle any website |
 | Error handling | Per-plugin isolation | One bad site never breaks the run |
+
+<!-- Feed link targets (invisible in the rendered README).
+     The GitHub Action rewrites owner/repo/branch in these URLs automatically,
+     so they stay correct on forks and renames. -->
+[feed-juejin]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/sites/juejin.xml
+[feed-sample]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/sites/sample_site.xml
+[feed-tech]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/tech.xml
+[feed-programming]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/programming.xml
+[feed-news]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/news.xml
+[feed-all]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/all.xml

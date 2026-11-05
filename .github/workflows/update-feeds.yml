@@ -34,6 +34,24 @@ jobs:
       - name: Fetch feeds
         run: python rss_fetcher.py
 
+      - name: Update feed URLs in README (owner/repo/branch)
+        run: |
+          OWNER="${GITHUB_REPOSITORY%%/*}"
+          REPO="${GITHUB_REPOSITORY#*/}"
+          BRANCH="${GITHUB_REF#refs/heads/}"
+          python - "$OWNER" "$REPO" "$BRANCH" <<'PY'
+          import re, sys
+          owner, repo, branch = sys.argv[1:4]
+          path = "README.md"
+          text = open(path, encoding="utf-8").read()
+          pattern = re.compile(
+              r"(https://raw\.githubusercontent\.com/)[^/]+/[^/]+/(?:refs/heads/)?[^/\s]+/"
+          )
+          new_text, n = pattern.subn(rf"\g<1>{owner}/{repo}/refs/heads/{branch}/", text)
+          open(path, "w", encoding="utf-8", newline="\n").write(new_text)
+          print(f"Rewrote {n} feed URL(s) -> {owner}/{repo}@{branch}")
+          PY
+
       - name: Commit and push feeds
         run: |
           git config user.name "github-actions[bot]"
