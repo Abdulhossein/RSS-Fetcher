@@ -2,394 +2,12 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>All Feeds</title>
-    <link>https://example.com</link>
+    <link>https://github.com/Abdulhossein/RSS-Fetcher</link>
     <description>Master aggregate of all sources</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 13:20:23 +0000</lastBuildDate>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    <dc:creator>Kevin666</dc:creator>
-    <dc:creator>金銀銅鐵</dc:creator>
-    <dc:creator>阿橙的百宝箱</dc:creator>
-    <dc:creator>ikoala</dc:creator>
-    <dc:creator>Android童话镇</dc:creator>
-    <dc:creator>Kevin666</dc:creator>
-    <dc:creator>ikoala</dc:creator>
-    <dc:creator>Flynt</dc:creator>
-    <dc:creator>Kevin666</dc:creator>
-    <dc:creator>freejackman</dc:creator>
-    <dc:creator>用户94325475837</dc:creator>
-    <dc:creator>好的佩奇</dc:creator>
-    <dc:creator>miofly</dc:creator>
-    <dc:creator>Kevin666</dc:creator>
-    <dc:creator>Kevin666</dc:creator>
-    <dc:creator>程序员阿晟</dc:creator>
-    <dc:creator>有点饿了</dc:creator>
-    <dc:creator>潜龙勿用之化骨龙</dc:creator>
-    <dc:creator>去伪存真</dc:creator>
-    <dc:creator>好的佩奇</dc:creator>
-    <dc:creator>罗西的思考</dc:creator>
-    <dc:creator>泯泷</dc:creator>
-    <dc:creator>minorcell</dc:creator>
-    <dc:creator>后端小肥肠</dc:creator>
-    <dc:creator>isboyjc</dc:creator>
-    <dc:creator>量化分析码农</dc:creator>
-    <dc:creator>ZzT</dc:creator>
-    <dc:creator>小小张说故事</dc:creator>
-    <dc:creator>草履虫AI课</dc:creator>
-    <dc:creator>Kevin666</dc:creator>
-    <dc:creator>Kevin666</dc:creator>
-    <dc:creator>演艺大赏</dc:creator>
-    <dc:creator>用户299142219680</dc:creator>
-    <dc:creator>天天被压力</dc:creator>
-    <dc:creator>天天被压力</dc:creator>
-    <dc:creator>用户299142219680</dc:creator>
-    <dc:creator>miofly</dc:creator>
-    <dc:creator>用户299142219680</dc:creator>
-    <dc:creator>量化分析码农</dc:creator>
-    <dc:creator>金銀銅鐵</dc:creator>
-    <dc:creator>特立独行的猫A</dc:creator>
-    <dc:creator>用户07236706660</dc:creator>
-    <dc:creator>疯华整猫</dc:creator>
-    <dc:creator>ruanno_top</dc:creator>
-    <dc:creator>小郎君658</dc:creator>
-    <dc:creator>weirong</dc:creator>
-    <dc:creator>追逐时光者</dc:creator>
-    <dc:creator>追逐时光者</dc:creator>
-    <dc:creator>茶底世界之下</dc:creator>
-    <dc:creator>是2的10次方啊</dc:creator>
-    <item>
-      <title>设计模式与生活⑮：看到哪儿了，得有个地方替你记着</title>
-      <link>https://juejin.cn/post/7705228164603068431</link>
-      <description>周日，睡到自然醒。 没有闹钟，也没什么事催着。醒了先躺着听一会儿窗外的声音，楼下有人遛狗，远处有车经过。 起来做了个早餐。煎两个蛋，热一杯牛奶。吃完出门散了会儿步。 下午窝在沙发上看电影。看到一半，起</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7705228164603068431</guid>
-      <category>tech</category>
-      <category>programming</category>
-      <category>设计模式</category>
-      <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/04615d229ec248e48bf7e9bc0664ab95~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5pivMueahDEw5qyh5pa55ZWK:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748821&amp;x-signature=XrOngXHnHnJi7azx6T5b3CC2YX4%3D" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 08 Nov 2026 01:33:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>雨后街口的斑马线：用 Awaking 把颜色让给光与步伐</title>
-      <link>https://juejin.cn/post/7705240185218826275</link>
-      <description>雨后街口的颜色很丰富，但黑白能让斑马线、倒影和撑伞人的步伐先被看见。用 Awaking「街影硬银」正式导出一版，比较轮廓与生活色彩的取舍，并给出适合自己照片的尝试路径。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7705240185218826275</guid>
-      <category>tech</category>
-      <category>programming</category>
-      <category>iOS</category>
-      <category>APP</category>
-      <category>产品</category>
-      <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/59c1bfc248ee47e68e15d27c415ba41c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6Iy25bqV5LiW55WM5LmL5LiL:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748821&amp;x-signature=di6U89RWi4le%2BUxbB21dQTqOTCA%3D" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 08 Nov 2026 01:47:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>让 GitHub Copilot 更懂你的 .NET 代码风格：一份精简实用的 Copilot Instructions</title>
-      <link>https://juejin.cn/post/7705367939444457514</link>
-      <description>前言 使用 GitHub Copilot 开发 .NET 项目时，你是否也遇到过这样的情况：生成的代码基本符合需求，但异步方法、注释、命名和文件编码，总需要再调整一遍？ 这些要求单独看都不复杂，但每次</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7705367939444457514</guid>
-      <category>tech</category>
-      <category>programming</category>
-      <category>后端</category>
-      <category>.NET</category>
-      <category>juejin</category>
-      <pubDate>Sun, 08 Nov 2026 01:54:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>一款基于 .NET 开源、免费的数据库自治诊断平台</title>
-      <link>https://juejin.cn/post/7705311269238784042</link>
-      <description>前言 今天大姚给大家分享一款基于 .NET 开源、免费的数据库自治诊断平台：DBPilot。 它解决的是 DBA 日常工作中最耗时的痛点：性能趋势分析、Top SQL 定位、阻塞与死锁排查，原本散落在</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7705311269238784042</guid>
-      <category>tech</category>
-      <category>programming</category>
-      <category>后端</category>
-      <category>.NET</category>
-      <category>juejin</category>
-      <pubDate>Sun, 08 Nov 2026 02:04:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Operator 上生产前补的 6 件事，和 5 件我明确不做的</title>
-      <link>https://juejin.cn/post/7705069722370326562</link>
-      <description>上生产前补的 6 件事：RBAC 逐条收敛、distroless、CI 六道门、镜像签名、可观测性、Helm 交付；5 件明确不做；以及写这篇时自查出的 Kyverno 策略结构错误。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7705069722370326562</guid>
-      <category>tech</category>
-      <category>programming</category>
-      <category>Kubernetes</category>
-      <category>juejin</category>
-      <pubDate>Sat, 07 Nov 2026 13:08:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>注解式脱敏：用 Jackson 的 ContextualSerializer 做字段级策略（一）</title>
-      <link>https://juejin.cn/post/7705271482867499071</link>
-      <description>这篇文章讲怎么把脱敏挂到 JSON 序列化这个唯一出口上，以及为什么 `@JacksonAnnotationsInside` 和 `ContextualSerializer` 是方案能成立的两个前提</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7705271482867499071</guid>
-      <category>tech</category>
-      <category>programming</category>
-      <category>Spring Cloud</category>
-      <category>Spring Boot</category>
-      <category>juejin</category>
-      <pubDate>Sat, 07 Nov 2026 13:22:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>点全选，已选的被清空了：Transfer 三态复选框的三个 bug</title>
-      <link>https://juejin.cn/post/7705237951458099254</link>
-      <description>点全选，已选的反而被清空。给 Transfer 补边界用例时挖出三个选择态 bug：部分选中被当成全选、半选分母算进禁用项、搜索后全选丢掉隐藏项。附修复前后代码、ARIA 三态与 14 个用例。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7705237951458099254</guid>
-      <category>tech</category>
-      <category>programming</category>
-      <category>Vue.js</category>
-      <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/143b0fe02f414d72aa66ea8011b3e9a5~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgcnVhbm5vX3RvcA==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748821&amp;x-signature=q92Rq0YWX5FbC2bHnTiJArLQfGc%3D" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 07 Nov 2026 11:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>被杀掉之后：我把 Android 的「唤起 + 常驻」重做了一遍</title>
-      <link>https://juejin.cn/post/7705419801828573234</link>
-      <description>从一条短信链接点进来，到锁屏十分钟之后进程还在不在，中间其实是一整套东西。这篇把它从头拆到尾，顺带把我用 Trae 落地时发过的提示词原样贴出来。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7705419801828573234</guid>
-      <category>tech</category>
-      <category>programming</category>
-      <category>前端</category>
-      <category>架构</category>
-      <category>面试</category>
-      <category>juejin</category>
-      <pubDate>Sat, 07 Nov 2026 13:26:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>接口测试场景编排：把 N 个请求串成一条能定位问题的链路</title>
-      <link>https://juejin.cn/post/7705419801829359666</link>
-      <description>&gt; 稍微复杂一点的业务，验证时都不是"调一个接口"：注册、进件、下单、查单，后一步要用前一步返回的客</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7705419801829359666</guid>
-      <category>tech</category>
-      <category>programming</category>
-      <category>测试</category>
-      <category>juejin</category>
-      <pubDate>Sun, 08 Nov 2026 01:36:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 时代，我为什么推荐用 cj-tauri 开发桌面应用</title>
-      <link>https://juejin.cn/post/7705441553598890010</link>
-      <description>写代码的方式变了：以前是我敲，现在是我描述、AI 落笔、编译器裁决。这个流程里最贵的三样成本是编译等待、构建垃圾、和产物体积。cj-tauri 是仓颉版的 Tauri，实测单个工具 4.7~10MB、零非系统 DLL、全量冷编译 50 秒。这篇讲</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7705441553598890010</guid>
-      <category>tech</category>
-      <category>programming</category>
-      <category>后端</category>
-      <category>Java</category>
-      <category>Python</category>
-      <category>juejin</category>
-      <pubDate>Sun, 08 Nov 2026 02:30:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>从一个类名到一张类图：用 Class 对象自动生成 PlantUML</title>
-      <link>https://juejin.cn/post/7705314576863248447</link>
-      <description>一条命令，把任意 Java 类变成 PlantUML 类图。289 行反射代码、单文件零依赖；正文讲清递归收集父类与接口的原理，以及泛型、字段为什么画不出来。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7705314576863248447</guid>
-      <category>tech</category>
-      <category>programming</category>
-      <category>后端</category>
-      <category>Java</category>
-      <category>UML</category>
-      <category>juejin</category>
-      <pubDate>Sun, 08 Nov 2026 02:34:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Python量化波动率实战 01】波动率是怎么算的：年化、滚动与区间估计一次讲清</title>
-      <link>https://juejin.cn/post/7705367939444572202</link>
-      <description>做量化的人天天把"波动率"挂在嘴边，但真让你写代码算一个，十有八九会卡在三个问题上：日收益率怎么转年化？为什么要用 20 日滚动而不是全样本？除了收盘价标准差，还有别的算法吗？ 这篇文章把波动率的计算</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7705367939444572202</guid>
-      <category>tech</category>
-      <category>programming</category>
-      <category>后端</category>
-      <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/37d6caa327d14e30b0888c08a7f39416~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6YeP5YyW5YiG5p6Q56CB5Yac:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748819&amp;x-signature=uXWo45GuK4p4MMhYwFVaGroiTkM%3D" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 08 Nov 2026 02:34:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 日报（2026年11月8日）</title>
-      <link>https://juejin.cn/post/7705240185218957347</link>
-      <description>今日主题：Anthropic推进千亿美元IPO，谷歌接盘大型算力中心，前沿智能体基准暴露虚构与虚警缺陷 本期精选 23 条 算力硬件 1. Crusoe将怀俄明州未完工大型数据中心项目转售给谷歌 算力</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7705240185218957347</guid>
-      <category>tech</category>
-      <category>programming</category>
-      <category>人工智能</category>
-      <category>juejin</category>
-      <pubDate>Sun, 08 Nov 2026 02:36:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA 开源 Cosmos 3 四款模型，用于交互式世界模拟与自动驾驶场景生成</title>
-      <link>https://juejin.cn/post/7705257674057564187</link>
-      <description>NVIDIA 为 Cosmos 3 模型家族新增四个开放权重检查点，覆盖多视角驾驶数据生成、流式仿真、物理控制转视频和双臂机器人动作预测，均为 160 亿参数的 Cosmos 3 Nano 后训练版本</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7705257674057564187</guid>
-      <category>tech</category>
-      <category>programming</category>
-      <category>人工智能</category>
-      <category>juejin</category>
-      <pubDate>Sun, 08 Nov 2026 02:44:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub 热榜项目：日榜（2026-11-08）</title>
-      <link>https://juejin.cn/post/7705224878019772431</link>
-      <description>本期共收录 15 个热门开源项目，合计新增 ⭐ 10,433 stars，热门语言：Python、TypeScript、Rust。 📋 本期概览 排名 项目 语言 ⭐ 总星数 本期新增 1 agent</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7705224878019772431</guid>
-      <category>tech</category>
-      <category>programming</category>
-      <category>人工智能</category>
-      <category>GitHub</category>
-      <category>开源</category>
-      <category>juejin</category>
-      <pubDate>Sun, 08 Nov 2026 02:57:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Nov 2026 16:20:08 +0000</lastBuildDate>
     <item>
       <title>【A股分钟级高频数据完全手册 #07】北交所历史分钟K线接口：京市Pro版分时批量</title>
       <link>https://juejin.cn/post/7705299006125473830</link>
@@ -401,8 +19,9 @@
       <category>人工智能</category>
       <category>Python</category>
       <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/53b87b5fddcc472385f521f69207a578~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5aSp5aSp6KKr5Y6L5Yqb:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748819&amp;x-signature=b7ysJ6FP0uNMXbZP5bcIn4ExTGw%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/53b87b5fddcc472385f521f69207a578~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5aSp5aSp6KKr5Y6L5Yqb:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759605&amp;x-signature=675lX1Gd0WYma6rbH9apdKe5U0Y%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 02:57:58 +0000</pubDate>
+      <dc:creator>天天被压力</dc:creator>
     </item>
     <item>
       <title>【A股分钟级高频数据完全手册 #08】股票日、分时数据接口对比：普通分时与Pro版差异实测</title>
@@ -415,8 +34,9 @@
       <category>人工智能</category>
       <category>Python</category>
       <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/acbe242efa33461381c4c796a1792658~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5aSp5aSp6KKr5Y6L5Yqb:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748819&amp;x-signature=WuamBkJWgbB1%2FsSh5nAxFE3058M%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/acbe242efa33461381c4c796a1792658~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5aSp5aSp6KKr5Y6L5Yqb:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759605&amp;x-signature=Gaus2ab22bKGiw%2B19brVshLS3ho%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 02:58:49 +0000</pubDate>
+      <dc:creator>天天被压力</dc:creator>
     </item>
     <item>
       <title>GitHub 热榜项目：周榜（2026-11-08）</title>
@@ -430,6 +50,7 @@
       <category>开源</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 02:59:51 +0000</pubDate>
+      <dc:creator>用户299142219680</dc:creator>
     </item>
     <item>
       <title>NiFi 数据流实战：FTP→HDFS 与 CSV→Parquet，附坏数据、漏文件与双写</title>
@@ -441,6 +62,7 @@
       <category>大数据</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 02:46:36 +0000</pubDate>
+      <dc:creator>演艺大赏</dc:creator>
     </item>
     <item>
       <title>《Go 后端开发者学 TypeScript：typescript 类型断言》</title>
@@ -452,6 +74,7 @@
       <category>JavaScript</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 03:21:25 +0000</pubDate>
+      <dc:creator>Kevin666</dc:creator>
     </item>
     <item>
       <title>《Go 后端开发者学 TypeScript：Symbol》</title>
@@ -463,6 +86,7 @@
       <category>JavaScript</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 03:22:20 +0000</pubDate>
+      <dc:creator>Kevin666</dc:creator>
     </item>
     <item>
       <title>强化学习从零到一 03｜算法地图：基于模型 vs 不基于模型</title>
@@ -473,8 +97,9 @@
       <category>programming</category>
       <category>强化学习</category>
       <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/18fe127214374169a0edb662589e1b87~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6I2J5bGl6JmrQUnor74=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748819&amp;x-signature=8WtxPzbsXLHc3aVVqAKsiupWzvI%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/18fe127214374169a0edb662589e1b87~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6I2J5bGl6JmrQUnor74=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759605&amp;x-signature=EFVXnK8CTW4VnpViH%2BCoZOzPwiE%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 03:19:49 +0000</pubDate>
+      <dc:creator>草履虫AI课</dc:creator>
     </item>
     <item>
       <title>Python 的 class 语句到底执行了什么？拆开 __prepare__、metaclass.__new__ 和那个被讲反的 __set_name__ 顺序</title>
@@ -485,8 +110,9 @@
       <category>programming</category>
       <category>Python</category>
       <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/1ab9f738fcda4c78928e864850006aa2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5bCP5bCP5byg6K-05pWF5LqL:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748819&amp;x-signature=sV5j2hnHkyaMLGrF9qZ4XMY8oIg%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/1ab9f738fcda4c78928e864850006aa2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5bCP5bCP5byg6K-05pWF5LqL:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759605&amp;x-signature=EGbRj%2B76PogBLtlV33P1V3SEbTM%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 04:38:49 +0000</pubDate>
+      <dc:creator>小小张说故事</dc:creator>
     </item>
     <item>
       <title>AI-SDLC 实践 04｜方案设计：把 Spec 转化为技术方案，并拆解为多 SubAgent 可执行的任务</title>
@@ -498,8 +124,9 @@
       <category>AI编程</category>
       <category>Claude</category>
       <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/9ff2c43b0b424001a4779760d80ed1b8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgWnpU:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748819&amp;x-signature=QV9KARtGKLxCoJNSZpSiyBrndT8%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/9ff2c43b0b424001a4779760d80ed1b8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgWnpU:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759605&amp;x-signature=ZnsB6eZlG3fn5QzlpEE3y5915OQ%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 05:36:35 +0000</pubDate>
+      <dc:creator>ZzT</dc:creator>
     </item>
     <item>
       <title>【Python量化波动率实战 02】波动率会传染：EWMA 指数加权给近期行情更大话语权</title>
@@ -510,8 +137,9 @@
       <category>programming</category>
       <category>后端</category>
       <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/43c84d3496b4402e95500b8954dfb99b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6YeP5YyW5YiG5p6Q56CB5Yac:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748819&amp;x-signature=%2FMpez1cndjDD8J2Uz8eLljt7vvk%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/43c84d3496b4402e95500b8954dfb99b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6YeP5YyW5YiG5p6Q56CB5Yac:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759605&amp;x-signature=9fw899yZYaIEPe6rTGo0SQmNJaQ%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 05:45:13 +0000</pubDate>
+      <dc:creator>量化分析码农</dc:creator>
     </item>
     <item>
       <title>Lomo Agent：面向创作型、持续协作 Agent 的架构设计与工程实践</title>
@@ -524,8 +152,9 @@
       <category>架构</category>
       <category>人工智能</category>
       <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/10cb1461d7194b8595be7e9e06a035a7~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgaXNib3lqYw==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748819&amp;x-signature=EpOD%2BdGaNZ1dNnhJyDTeMr5gDR8%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/10cb1461d7194b8595be7e9e06a035a7~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgaXNib3lqYw==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759604&amp;x-signature=zYT8uqw1CbMJiQYDEFSGjlN9ys8%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 05:46:54 +0000</pubDate>
+      <dc:creator>isboyjc</dc:creator>
     </item>
     <item>
       <title>漫画工坊上线用户破百：公众号漫画从需求到变现全复盘</title>
@@ -538,8 +167,9 @@
       <category>AIGC</category>
       <category>人工智能</category>
       <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/9eed8cc345854fff89f4c5dd2eb648a6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5ZCO56uv5bCP6IKl6IKg:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748819&amp;x-signature=DO4NBS1Vh9P6rXQRHcUOlTiPcR0%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/9eed8cc345854fff89f4c5dd2eb648a6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5ZCO56uv5bCP6IKl6IKg:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759604&amp;x-signature=OwfB%2B4NVgT%2B32kG5buq5hxyPcOk%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 06:13:13 +0000</pubDate>
+      <dc:creator>后端小肥肠</dc:creator>
     </item>
     <item>
       <title>AI 时代，我为什么开始追求 100% 的测试覆盖率？</title>
@@ -552,8 +182,9 @@
       <category>AI编程</category>
       <category>LLM</category>
       <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8fb3b17518a04072a2f9f957b4779431~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgbWlub3JjZWxs:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748819&amp;x-signature=s7yrU6eI%2BtcgNj4YpeL9DAYmDUM%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8fb3b17518a04072a2f9f957b4779431~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgbWlub3JjZWxs:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759604&amp;x-signature=9kibx8d0hdqCyttXuL2mVe5Zr0o%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 06:18:22 +0000</pubDate>
+      <dc:creator>minorcell</dc:creator>
     </item>
     <item>
       <title>别再死磕提示词了:Anthropic 说,AI Agent 真正的胜负手是“上下文工程”</title>
@@ -566,8 +197,9 @@
       <category>Agent</category>
       <category>AIGC</category>
       <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e2c4c25c6bc141a29053d5284a9c4f94~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rOv5rO3:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748819&amp;x-signature=l%2Bo2nVadq1PkNSEImpL7DGWjpYg%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e2c4c25c6bc141a29053d5284a9c4f94~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rOv5rO3:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759604&amp;x-signature=Mm7cqMLGfyEaGj5cw2dPEXkW2q4%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 06:21:41 +0000</pubDate>
+      <dc:creator>泯泷</dc:creator>
     </item>
     <item>
       <title>【轻量化复刻大模型 / KIMI K3】Serve 模块交互式演示</title>
@@ -581,6 +213,7 @@
       <category>机器学习</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 07:08:58 +0000</pubDate>
+      <dc:creator>罗西的思考</dc:creator>
     </item>
     <item>
       <title>蓝牙之经典蓝牙</title>
@@ -594,6 +227,7 @@
       <category>Flutter</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 07:13:08 +0000</pubDate>
+      <dc:creator>好的佩奇</dc:creator>
     </item>
     <item>
       <title>AI Agent Harness 深度测评与技术选型实战</title>
@@ -605,8 +239,9 @@
       <category>前端</category>
       <category>Agent</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/04b6f9981df548ffad9222c7b7198072~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Y675Lyq5a2Y55yf:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748817&amp;x-signature=oVQswxtIwRdV8v2QuxwOfgPUlIo%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/04b6f9981df548ffad9222c7b7198072~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Y675Lyq5a2Y55yf:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759604&amp;x-signature=FDDE4ubkb2dFLDItzW4SuuQlrqs%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 07:56:14 +0000</pubDate>
+      <dc:creator>去伪存真</dc:creator>
     </item>
     <item>
       <title>换个思路理解：非阻塞挂起</title>
@@ -617,8 +252,9 @@
       <category>programming</category>
       <category>Android</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/5e42c745a01f4705b07214b64fee0c4e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5r2c6b6Z5Yu_55So5LmL5YyW6aqo6b6Z:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748817&amp;x-signature=bNyHNvPsNxEjDWRqDenH0pAuvLE%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/5e42c745a01f4705b07214b64fee0c4e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5r2c6b6Z5Yu_55So5LmL5YyW6aqo6b6Z:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759604&amp;x-signature=swpmKB65r7PIVdnP85pFODlLXTE%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 07:56:22 +0000</pubDate>
+      <dc:creator>潜龙勿用之化骨龙</dc:creator>
     </item>
     <item>
       <title>ChatMemory 要被弃用了？Spring AI 2.1 用事件溯源重做 Agent 记忆</title>
@@ -630,8 +266,9 @@
       <category>Agent</category>
       <category>LLM</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/bd13bb179a18478eb59d7a2681593587~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5pyJ54K56aW_5LqG:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748817&amp;x-signature=q4d3WykM2XPgbNpLPAgvkuU4nK0%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/bd13bb179a18478eb59d7a2681593587~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5pyJ54K56aW_5LqG:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759604&amp;x-signature=hMdUVTYz9EaB9qaf2aPI5NEfZHg%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 06:55:25 +0000</pubDate>
+      <dc:creator>有点饿了</dc:creator>
     </item>
     <item>
       <title>10 分钟搭一套自己的智能客服系统：果唯云客服 + Hermes Agent 实战</title>
@@ -642,8 +279,9 @@
       <category>programming</category>
       <category>Agent</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0f555cc68ad8481eade0003309cead81~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY6Zi_5pmf:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748817&amp;x-signature=X8YQqznd02OZNXww%2Fvr%2Bq9LGAlE%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0f555cc68ad8481eade0003309cead81~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY6Zi_5pmf:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759604&amp;x-signature=uNHgGGp5RA0lGfQAMrATCCk7FEU%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 07:47:21 +0000</pubDate>
+      <dc:creator>程序员阿晟</dc:creator>
     </item>
     <item>
       <title>《Go 后端开发者学 TypeScript：extends关键字》</title>
@@ -655,6 +293,7 @@
       <category>JavaScript</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 08:41:19 +0000</pubDate>
+      <dc:creator>Kevin666</dc:creator>
     </item>
     <item>
       <title>《Go 后端开发者学 TypeScript：keyof关键字》</title>
@@ -666,6 +305,7 @@
       <category>JavaScript</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 08:47:33 +0000</pubDate>
+      <dc:creator>Kevin666</dc:creator>
     </item>
     <item>
       <title>Nous Research微调Qwen3.8-27B，宣称可剥离中国官方立场内容</title>
@@ -678,6 +318,7 @@
       <category>开源</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 09:01:37 +0000</pubDate>
+      <dc:creator>miofly</dc:creator>
     </item>
     <item>
       <title>Dart 之扩展方法</title>
@@ -691,6 +332,7 @@
       <category>Android</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 09:28:12 +0000</pubDate>
+      <dc:creator>好的佩奇</dc:creator>
     </item>
     <item>
       <title>你的 Agent 会重复扣钱吗？我给 LangGraph 加了一层"步骤日志"</title>
@@ -701,8 +343,9 @@
       <category>programming</category>
       <category>Agent</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b8e51ca090354c6191bfe7b3d9079cac~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3OTQzMjU0NzU4Mzc=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748817&amp;x-signature=uqKtDhwtQw1i0KBg%2FcsOE4Zt80w%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b8e51ca090354c6191bfe7b3d9079cac~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3OTQzMjU0NzU4Mzc=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759604&amp;x-signature=KtQxDhJ95LT0OdUdO4RF%2FUviMAY%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 09:10:38 +0000</pubDate>
+      <dc:creator>用户94325475837</dc:creator>
     </item>
     <item>
       <title>【实战二】字段级血缘追踪：拆解 AST 迷局，精准穿透函数链与子查询</title>
@@ -715,8 +358,9 @@
       <category>数据库</category>
       <category>SQL</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/003d308e4bf14d088bfc4e2e5c7b8f90~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgZnJlZWphY2ttYW4=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748817&amp;x-signature=4br%2BlFIYllX0qhwxx3KxUPSi2Xk%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/003d308e4bf14d088bfc4e2e5c7b8f90~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgZnJlZWphY2ttYW4=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759604&amp;x-signature=RVSqqP31sra9Y9hQeHR1pFS1N%2Fg%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 09:26:07 +0000</pubDate>
+      <dc:creator>freejackman</dc:creator>
     </item>
     <item>
       <title>《Go 后端开发者学 TypeScript：从零搭建与运行》</title>
@@ -728,6 +372,7 @@
       <category>JavaScript</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 10:02:47 +0000</pubDate>
+      <dc:creator>Kevin666</dc:creator>
     </item>
     <item>
       <title>一夜涨近2000星的"开源Grok Bot"，我在1核2GB小机上装了一遍：壳是真的，脑子得自备</title>
@@ -741,6 +386,7 @@
       <category>开源</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 10:05:19 +0000</pubDate>
+      <dc:creator>Flynt</dc:creator>
     </item>
     <item>
       <title>AI 写页面像说明书，修 Bug 像贴膏药？把这两句话写进 AGENTS.md</title>
@@ -753,8 +399,9 @@
       <category>JavaScript</category>
       <category>AI编程</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/127cece0a9d2450bb2a8a2ac6fa46b25~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgaWtvYWxh:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748817&amp;x-signature=liKD58V8EoPuR7gCK1nL71Bpy8E%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/127cece0a9d2450bb2a8a2ac6fa46b25~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgaWtvYWxh:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759604&amp;x-signature=ypbCL2qzLKgke0DMw750aRVWZcU%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 10:06:57 +0000</pubDate>
+      <dc:creator>ikoala</dc:creator>
     </item>
     <item>
       <title>《Go 后端开发者学 TypeScript：ES Module了解》</title>
@@ -766,6 +413,7 @@
       <category>JavaScript</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 10:09:03 +0000</pubDate>
+      <dc:creator>Kevin666</dc:creator>
     </item>
     <item>
       <title>大模型是怎么"看"图、跑命令、调 MCP 的?我把 gemini-cli 源码扒了个底朝天</title>
@@ -777,6 +425,7 @@
       <category>Agent</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 09:55:35 +0000</pubDate>
+      <dc:creator>Android童话镇</dc:creator>
     </item>
     <item>
       <title>让 Codex 自己查账：一个省 token 的小技巧</title>
@@ -789,8 +438,9 @@
       <category>后端</category>
       <category>AI编程</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4b6485bef2ab4796bdd94c125ce3e536~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgaWtvYWxh:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794748817&amp;x-signature=GPtdXu1erHLT%2FtJY5P93bh4f6FE%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4b6485bef2ab4796bdd94c125ce3e536~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgaWtvYWxh:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759602&amp;x-signature=PuF1SdWLrEjSxcy6ZWMmcRnIkFM%3D" length="0" type="image/jpeg"/>
       <pubDate>Sun, 08 Nov 2026 10:23:09 +0000</pubDate>
+      <dc:creator>ikoala</dc:creator>
     </item>
     <item>
       <title>Redis内存暴涨，没想到是AOF重写捣的鬼</title>
@@ -804,6 +454,7 @@
       <category>人工智能</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 10:30:54 +0000</pubDate>
+      <dc:creator>阿橙的百宝箱</dc:creator>
     </item>
     <item>
       <title>同一个 Hello World，Kotlin 和 Java 在字节码层面差在哪</title>
@@ -817,6 +468,7 @@
       <category>JVM</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 13:10:19 +0000</pubDate>
+      <dc:creator>金銀銅鐵</dc:creator>
     </item>
     <item>
       <title>《Go 后端开发者学 React：数据渲染》</title>
@@ -828,6 +480,208 @@
       <category>JavaScript</category>
       <category>juejin</category>
       <pubDate>Sun, 08 Nov 2026 13:17:00 +0000</pubDate>
+      <dc:creator>Kevin666</dc:creator>
+    </item>
+    <item>
+      <title>Agent 面试为什么几乎不聊高并发：从瓶颈转移到考察维度的真相</title>
+      <link>https://juejin.cn/post/7705457731822026788</link>
+      <description>Agent 面试几乎不聊高并发，因为瓶颈不在并发而在单任务正确率。本文拆解真正考察的 P0 能力清单：认知、规划-执行-验证闭环、工具可靠性，并给出可跑代码。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7705457731822026788</guid>
+      <category>tech</category>
+      <category>programming</category>
+      <category>Agent</category>
+      <category>juejin</category>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3d16aa2ad7c04096874617b281561cc2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRU5DSQ==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759602&amp;x-signature=PPLk1ZJyXJd5ASf%2Bhjb%2FgdzClbI%3D" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 08 Nov 2026 13:31:37 +0000</pubDate>
+      <dc:creator>ENCI</dc:creator>
+    </item>
+    <item>
+      <title>《Go 后端开发者学 React：useState》</title>
+      <link>https://juejin.cn/post/7705441553615945778</link>
+      <description>React useState 完全指南：从基础用法到实际开发 React + TypeScript 学习笔记 · Hooks · 状态管理 一、useState 是什么？ useState 是 Rea</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7705441553615945778</guid>
+      <category>tech</category>
+      <category>programming</category>
+      <category>JavaScript</category>
+      <category>juejin</category>
+      <pubDate>Sun, 08 Nov 2026 13:38:08 +0000</pubDate>
+      <dc:creator>Kevin666</dc:creator>
+    </item>
+    <item>
+      <title>Agent 工具怎么折叠海量输出才「爽」：Trae、Claude Code 的渐进式披露设计原理</title>
+      <link>https://juejin.cn/post/7705443340624085055</link>
+      <description>Agent 工具把输出全平铺，用户刷十屏看不到答案。渐进式披露用三层架构：结论面、证据面、原始轨迹，配时间/工具/思考/结果四种折叠，附可跑 HTML 代码。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7705443340624085055</guid>
+      <category>tech</category>
+      <category>programming</category>
+      <category>Agent</category>
+      <category>前端</category>
+      <category>juejin</category>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/71bcc2f76b8d43bf8babb21e75463fad~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRU5DSQ==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759602&amp;x-signature=9oQ%2B3zzCq%2B2jyoGwKluG%2F1MJUZE%3D" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 08 Nov 2026 13:43:33 +0000</pubDate>
+      <dc:creator>ENCI</dc:creator>
+    </item>
+    <item>
+      <title>从工具到代理：一张图看懂 2026–2030 年 AI 如何重构 11 个行业</title>
+      <link>https://juejin.cn/post/7705724434518917161</link>
+      <description>最近一张信息图在科技圈刷屏。它用三列时间线，把 2026 → 2028 → 2030 这四年间，11 个领域的主流工具如何被 AI 一步步"接管"画得清清楚楚。 乍一看只是工具替换的盘点，但仔细读会发</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7705724434518917161</guid>
+      <category>tech</category>
+      <category>programming</category>
+      <category>程序员</category>
+      <category>人工智能</category>
+      <category>产品</category>
+      <category>juejin</category>
+      <pubDate>Sun, 08 Nov 2026 13:49:54 +0000</pubDate>
+      <dc:creator>怕浪猫</dc:creator>
+    </item>
+    <item>
+      <title>OLTP、OLAP、数据湖、数据集市、湖仓一体到底是什么关系？</title>
+      <link>https://juejin.cn/post/7705330413947093007</link>
+      <description>OLTP负责记录业务，OLAP负责分析业务；数据仓库负责整合和组织可信分析数据，数据湖负责承载大规模/多类型数据，数据集市负责向业务领域交付数据，湖仓一体则在开放湖存储上统一可靠表管理、分析与AI负载</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7705330413947093007</guid>
+      <category>tech</category>
+      <category>programming</category>
+      <category>大数据</category>
+      <category>juejin</category>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/1cf200735e2b413e89e8689e3d8c35ab~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5aSn5aSn5aSn5aSn5pm05aSp:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759602&amp;x-signature=QFtKWswBfuSSQuadNVcSwgiif%2FM%3D" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 08 Nov 2026 13:51:21 +0000</pubDate>
+      <dc:creator>大大大大晴天</dc:creator>
+    </item>
+    <item>
+      <title>C++26 草案被否，二十八年来头一回</title>
+      <link>https://juejin.cn/post/7705316753005674511</link>
+      <description>C++26 的国际标准草案，在 10 月 23 日的国家代表团投票里没过。 这是这门语言 1998 年标准化以来，第一次走到最后一步又被退回来。 标准要走好几轮投票，前面是委员会内部的技术表决，最后一</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7705316753005674511</guid>
+      <category>tech</category>
+      <category>programming</category>
+      <category>前端</category>
+      <category>后端</category>
+      <category>程序员</category>
+      <category>juejin</category>
+      <pubDate>Sun, 08 Nov 2026 14:09:03 +0000</pubDate>
+      <dc:creator>前端之虎陈随易</dc:creator>
+    </item>
+    <item>
+      <title>自报提效 12 倍，模型进步加速 1.9 倍：METR 报告到底量了什么</title>
+      <link>https://juejin.cn/post/7705810144508067855</link>
+      <description>把员工自报的提效倍数，直接当成整个团队研发速度的倍数，是读这份报告最容易犯的错。 METR 在 11 月 5 日公布对 Anthropic 的评估，同一份材料既写到员工自报提效达到 12 倍，也写到模</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7705810144508067855</guid>
+      <category>tech</category>
+      <category>programming</category>
+      <category>人工智能</category>
+      <category>程序员</category>
+      <category>juejin</category>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/dccdbe4c012943bd9410ef218b6249e3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rex6JOdQUk=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759602&amp;x-signature=el%2FLcjmxn%2FRX2SGDyAQXRKgJ5OU%3D" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 08 Nov 2026 14:41:09 +0000</pubDate>
+      <dc:creator>深蓝AI</dc:creator>
+    </item>
+    <item>
+      <title>我给女儿写了个打字练习：一边敲键盘，一边把小学英语单词记牢</title>
+      <link>https://juejin.cn/post/7705434765213892634</link>
+      <description>用仓颉 + cj-tauri 写的桌面打字练习：敲对一个字母亮一个，打完整个词浮出中文释义。讲它为什么长成这样、背后那套框架是什么，以及哪些地方还没验证。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7705434765213892634</guid>
+      <category>tech</category>
+      <category>programming</category>
+      <category>后端</category>
+      <category>Java</category>
+      <category>Python</category>
+      <category>juejin</category>
+      <pubDate>Sun, 08 Nov 2026 14:47:24 +0000</pubDate>
+      <dc:creator>特立独行的猫A</dc:creator>
+    </item>
+    <item>
+      <title>《Go 后端开发者学 React：组件通信与插槽》</title>
+      <link>https://juejin.cn/post/7705376708413587483</link>
+      <description>React 组件通信与插槽完全指南：从 Props、Children 到组件设计实战 React + TypeScript 学习笔记 · 组件通信 · 组件复用 · 由浅入深 前言 学习 React</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7705376708413587483</guid>
+      <category>tech</category>
+      <category>programming</category>
+      <category>JavaScript</category>
+      <category>juejin</category>
+      <pubDate>Sun, 08 Nov 2026 14:54:02 +0000</pubDate>
+      <dc:creator>Kevin666</dc:creator>
+    </item>
+    <item>
+      <title>DeepSeek-V4.1-Flash-1017 官方许愿案例太吸睛，我也复刻了一个</title>
+      <link>https://juejin.cn/post/7705412224672366627</link>
+      <description>DeepSeek-V4.1-Flash-1017 实测：跑分大涨之外，更值得关注的是性能–费用的帕累托改进。两次许愿复刻赛车游戏，看许愿式编程是否真的到来。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7705412224672366627</guid>
+      <category>tech</category>
+      <category>programming</category>
+      <category>人工智能</category>
+      <category>juejin</category>
+      <pubDate>Sun, 08 Nov 2026 15:11:55 +0000</pubDate>
+      <dc:creator>飞哥数智谈</dc:creator>
+    </item>
+    <item>
+      <title>谁说终端只能敲键盘？我用 Rust 给小说阅读器加上了鼠标</title>
+      <link>https://juejin.cn/post/7705403629532282889</link>
+      <description>终端也能点击、悬停和拖拽！本文从 Rust 小说阅读器 TRNovel 出发，图解 ratatui-kit 的鼠标事件实现，聊聊命中检测、事件分发与拖拽捕获，以及滚轮误翻章、弹窗吞事件背后的坑。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7705403629532282889</guid>
+      <category>tech</category>
+      <category>programming</category>
+      <category>前端</category>
+      <category>后端</category>
+      <category>Rust</category>
+      <category>juejin</category>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/639b9bdd61de4ad284eb7d22b6fffee0~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg57qi5bCY5pWj5LuZ:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759602&amp;x-signature=YbUWW6CCRr6aODtQOVK%2BEqO6%2BbM%3D" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 08 Nov 2026 15:17:42 +0000</pubDate>
+      <dc:creator>红尘散仙</dc:creator>
+    </item>
+    <item>
+      <title>认识 Nginx</title>
+      <link>https://juejin.cn/post/7705621037060390927</link>
+      <description>1. 先跑起来（5 分钟实验） 四条命令拿到「版本 + 进程树 + 响应头」，不用任何配置文件： 预期输出（本机实测，worker 行按 CPU 数展开，此处截断）： 对着输出读三件事，这就是本章的全</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7705621037060390927</guid>
+      <category>tech</category>
+      <category>programming</category>
+      <category>后端</category>
+      <category>Nginx</category>
+      <category>juejin</category>
+      <pubDate>Sun, 08 Nov 2026 15:24:46 +0000</pubDate>
+      <dc:creator>前端阿凡</dc:creator>
+    </item>
+    <item>
+      <title>XXL-AI v1.5.0 发布｜AI应用开发平台</title>
+      <link>https://juejin.cn/post/7705621037060423695</link>
+      <description>XXL-AI 是一个「**云本结合**」的 AI Agent 开发平台，提供两种同源同品牌、能力互补的交付形态，可按团队规模与使用场景独立选用，也可组合使用。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7705621037060423695</guid>
+      <category>tech</category>
+      <category>programming</category>
+      <category>Agent</category>
+      <category>AI编程</category>
+      <category>juejin</category>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c78e50d7d2754a539d24262f23a1e40b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6K646Zuq6YeM:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759602&amp;x-signature=N4sTb%2B8jkg8qYxev5Ib1jfz8Sz0%3D" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 08 Nov 2026 15:27:56 +0000</pubDate>
+      <dc:creator>许雪里</dc:creator>
+    </item>
+    <item>
+      <title>09-01-生态-YooAsset+HybridCLR热更新方案</title>
+      <link>https://juejin.cn/post/7705618278807273526</link>
+      <description>生态-YooAsset+HybridCLR热更新方案 一、引言 1.1 本章在系列中的定位 在 YooAsset 单独使用时，它能解决资源热更新（美术、UI、关卡、配置等），但无法解决代码热更新（C#</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7705618278807273526</guid>
+      <category>tech</category>
+      <category>programming</category>
+      <category>游戏开发</category>
+      <category>Unity3D</category>
+      <category>juejin</category>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/556eee0c51fb433eb5c0f07343c72aba~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgU21hbEJveA==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759602&amp;x-signature=GyftixfW3F3I%2FQuBpo5IVqrkdlE%3D" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 08 Nov 2026 15:57:27 +0000</pubDate>
+      <dc:creator>SmalBox</dc:creator>
+    </item>
+    <item>
+      <title>你的能力正在被重新定价：AI 时代程序员资产重估指南</title>
+      <link>https://juejin.cn/post/7705618278807289910</link>
+      <description>你的能力正在被重新定价：AI 时代程序员资产重估指南 关于 AI 和程序员，市面上有两种声音。 一种说：AI 什么都能写，程序员要完了。 另一种说：AI 只是工具，该写的代码还得人写。 这两种说法都太</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7705618278807289910</guid>
+      <category>tech</category>
+      <category>programming</category>
+      <category>程序员</category>
+      <category>juejin</category>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/47fee1847e5646a592fb23cf13ad01a9~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oCV5rWq54yr:q75.awebp?rk3s=f64ab15b&amp;x-expires=1794759602&amp;x-signature=eV1es2ETIws%2Bv839PjpwBfAY3Og%3D" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 08 Nov 2026 16:06:40 +0000</pubDate>
+      <dc:creator>怕浪猫</dc:creator>
     </item>
     <item>
       <title>Depressive Rumination: The Root Of Depression</title>
@@ -841,6 +695,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/01/rumination-root-of-depression_527682186-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Where To Find Happiness</title>
@@ -854,6 +709,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/03/blog_spontaneous-happiness_where-to-find-happiness_73945603-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Brain Aging: The Brain-Food Connection</title>
@@ -867,6 +723,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/02/Brain-Food-Connection_825855446-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Friends, Family And Your Health</title>
@@ -880,6 +737,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/03/blog_spontaneous-happiness_friends-family-and-your-health_88030893-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Staying Connected Means Staying Happy</title>
@@ -893,6 +751,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/02/Stay-Connected-Stay-Happy_858148424-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Good News For Guys</title>
@@ -906,6 +765,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/04/blog_spontaneous-happiness_good-news-for-guys_629354576-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Achieving Resilience And Accepting Change</title>
@@ -919,6 +779,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/03/Achieving-Resilience_497519770-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>How To Become Happier</title>
@@ -932,6 +793,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/04/blog_spontaneous-happiness_how-to-become-happier_72357291-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of Aspiration</title>
@@ -945,6 +807,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/04/The-Legacy-of-Aspiration_527044638-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Food As Magic: Natural, Biologically Active Foods</title>
@@ -958,6 +821,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/02/Food-As-Magic_577641242-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Legacies Of Celebration</title>
@@ -971,6 +835,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/04/Legacies-of-Celebration_525351836-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Fail Well To Live Well And Be Well</title>
@@ -984,6 +849,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/05/fail-well-to-live-well-and-be-well_843530348-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Significance Of Writing Legacy Letters, Part 1</title>
@@ -997,6 +863,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/06/Significance-Of-Writing-Legacy-Letters_660648226-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>What Legacy Letters Give To Its Writers, Part 2</title>
@@ -1010,6 +877,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/07/What-Legacy-Letters-Give-To-Its-Writers_802107542-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>What Legacy Letters Give To Its Writers, Part 3</title>
@@ -1023,6 +891,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/08/What-Legacy-Letters-Give-To-Its-Writers-Part-2_-175384249-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>What Legacy Letters Give To Its Writers, Part 4</title>
@@ -1036,6 +905,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/09/What-Legacy-Letters-Give-To-Its-Writers_827846478-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>What Legacy Letters Give To Its Writers, Part 5</title>
@@ -1049,6 +919,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/10/What-Legacy-Letters-Give-To-Its-Writers_858144226-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>What Legacy Letters Give To Its Writers, Part 6</title>
@@ -1062,6 +933,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/10/legacy-writing-part_6-846086786-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>What Legacy Letters Give To Its Writers, Part 7</title>
@@ -1075,6 +947,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/11/legacyletters-part_7-857853968-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of Our Voices</title>
@@ -1088,6 +961,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/12/legacy-of-voice-blog-SH2-681229946-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of Reading</title>
@@ -1101,6 +975,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2019/01/legacy-of-reading-freed-SH-520552220-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of Living "Yes"</title>
@@ -1114,6 +989,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2019/02/legacy-of-living-yes-SH-blog-876519588-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of Immigration</title>
@@ -1127,6 +1003,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2019/04/legacy-of-immigration-spontaneous-happiness-ART-637527206-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacies Of Spring</title>
@@ -1140,6 +1017,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2019/05/legacies-of-spring-SH-ART-1126842267-600x400.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of Acts Of Kindness</title>
@@ -1153,6 +1031,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2019/05/legacy-act-of-kindness-SH.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Inviting Freshness Through Not Knowing</title>
@@ -1166,6 +1045,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2019/06/Wholehearted_KoshinPaleyEllison_Inviting-Freshness-496675938-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of Future Dreams</title>
@@ -1179,6 +1059,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2019/07/legacy-of-future-dreams-SH2-519192278-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>A Very Important Legacy Letter</title>
@@ -1192,6 +1073,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2019/07/a-very-important-legacy-letter-SH2-684020248-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Getting In Touch With And Speaking The Truth</title>
@@ -1205,6 +1087,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2019/08/13130042/speaking-the-truth-ART-SHblog-637229166-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Legacy: Connecting The Past And The Future</title>
@@ -1218,6 +1101,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2019/08/26112531/connecting-the-past-and-the-future-legacy-SH-1080174848-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of Forgiveness</title>
@@ -1231,6 +1115,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2019/10/24144416/legacy-of-forgiveness-ART-SH-1043597068-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of Silence &amp; Moral Injury</title>
@@ -1244,6 +1129,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2019/10/29104405/summer-meadow-field-of-dandelions-166182594-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of Light In Dark Times</title>
@@ -1257,6 +1143,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2019/12/02093310/legacy-light-dark-times-SH-812896714-600x400.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Lofty Legacy Of Trees</title>
@@ -1270,6 +1157,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2020/01/07093109/lofty-legacy-of-trees-SH-ART-498548086-600x401.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of February Light</title>
@@ -1283,6 +1171,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2020/02/03133817/legacy-of-february-lightight_ART-1048222356-600x416.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of Water</title>
@@ -1296,6 +1185,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2020/02/26125511/legacy-of-water-SH-155380802-600x397.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Legacy Of This: Our Moment In Time</title>
@@ -1309,6 +1199,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2020/04/01143432/legacy-of-our-moment-in-time2-ART-SH-623426792-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>COVID-19: About Reading &amp; Writing The Virus</title>
@@ -1322,6 +1213,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2020/04/14082850/journaling-the-covid-19-virus-SH-1002929472-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Sheltering At Home</title>
@@ -1335,6 +1227,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2016/12/health-wellness_balanced-living_healthy-home_2716x1811_000066281043.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Making Hard Choices</title>
@@ -1348,6 +1241,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2020/04/29113655/desicions-slb_2020-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of Building Community In A Pandemic</title>
@@ -1361,6 +1255,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2020/05/06111727/legacy-of-building-a-community-during-pandemic-SH-1132265686-copy-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of Wonder</title>
@@ -1374,6 +1269,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2020/07/31094721/legacy-of-wonder-ART-SH-137546695-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of Hearth And Home</title>
@@ -1387,6 +1283,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2020/08/31103858/hearht-home-list-SH-532334752-600x400.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of Community</title>
@@ -1400,6 +1297,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2020/09/30113822/legacy-of-community-SH-1208283946-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Self-Care As Legacy</title>
@@ -1413,6 +1311,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2020/11/04153451/self-care-legacy-SH-1175010909-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of January’s Renewal</title>
@@ -1426,6 +1325,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2021/01/21140251/legacy-of-January-renewal-SH-479566489-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Legacy: Love Is All We Need</title>
@@ -1439,6 +1339,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2021/02/08163818/legacy_love_is_all_we_need_SH_11755286861-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Legacy Of Blessings &amp; Curses</title>
@@ -1452,6 +1353,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2021/03/09161624/legacy-blessings-curses-SH_533925648-600x436.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Legacy: Linking The Past &amp; Future Through Story</title>
@@ -1465,6 +1367,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2021/04/02120623/linking-the_past-through-storytelling-SH-1094833346-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Legacy For The Celebrations Of The Spring Season</title>
@@ -1478,6 +1381,7 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2021/05/13155114/legacy-celebration-spring-flowers-SH-1209756653-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Breathing To Help Manage Holiday Stress</title>
@@ -1491,6 +1395,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/10/blog_health-tips_Want-To-Help-Manage-Holiday-Stress-This-Year-Try-This_600057480-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>A Dr. Weil Favorite: Turmeric Tea</title>
@@ -1504,6 +1409,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/10/blog_health-tips_A-Dr.-Weil-Favorite-Turmeric-Tea_74045889-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Concerned About Mid-Life Transition?</title>
@@ -1517,6 +1423,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/11/blog_health-tip_Worried-You-Are-Having-A-Mid-Life-Transition_24749609-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Wondering What Dr. Weil Eats On Holidays?</title>
@@ -1530,6 +1437,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/11/blog_health-tips_Wondering-What-Dr.-Weil-Eats-On-Holidays-Find-Out_-175509394-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Perfect Guest Breakfast: Antioxidant-Rich Muffins!</title>
@@ -1543,6 +1451,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/11/blog_health-tips_The-Perfect-Guest-Breakfast-Antioxidant-Rich-Muffins_85247773-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Brussels Sprouts For Your Holiday Meal</title>
@@ -1556,6 +1465,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/11/blog_health-tips_Hearty-Holiday-Side-Suggestion-Hashed-Brussels-Sprouts_51573848-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>4 Healthy Tips For A Tasty Thanksgiving Meal</title>
@@ -1569,6 +1479,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/11/blog_health-tips_4-Tips-For-A-Tasty-Thanksgiving-Meal_862306744-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Being Thankful Is Good For Mental Health</title>
@@ -1582,6 +1493,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/11/blog_health-tips_Being-Thankful-For-Your-Family-And-Friends-Is-Healthy-For-You_72006003-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Got Leftovers? Try These Meal Suggestions!</title>
@@ -1595,6 +1507,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/11/blog_health-tips_Got-Leftovers-Try-These-Meal-Suggestions_-525893369-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>5 Ideas For Radiant Skin At Any Age</title>
@@ -1608,6 +1521,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/10/blog_health-tips_Tired-Of-Problem-Skin-Try-This-For-Radiant-Skin-At-Any-Age_43526590-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>How To Take The Perfect Nap</title>
@@ -1621,6 +1535,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/11/GettyImages-1297781515-600x338.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Airplane Air!</title>
@@ -1634,6 +1549,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/11/blog_health-tips_Airplane-Air-Just-How-Unhealthy-Is-It_87492471-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Creating Holiday Rituals</title>
@@ -1647,6 +1563,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2022/12/Holiday-Rituals-DT-1273719858-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Minimize Inflammation With These 2 Spices</title>
@@ -1660,6 +1577,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/11/blog_health-tips_Can-Certain-Spices-Help-Manage-Inflammation_82774779-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>4 Beverages To Add To Your Healthy Drink List</title>
@@ -1673,6 +1591,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/12/blog_health-tips_Best-Of-2017-4-Beverages-To-Add-To-Your-Healthy-Drink-List_56867228-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Feeling Stressed Out? 6 Ways To Fix That, ASAP</title>
@@ -1686,6 +1605,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/11/blog_health-tips_Feeling-Stressed-Out-See-6-Ways-To-Fix-That-ASAP_77387935-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Stroke: 6 Signs To Recognize</title>
@@ -1699,6 +1619,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/11/blog_health-tips_Worried-About-A-Stroke-Know-These-6-Signs_86773769-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>3 Ways To Use Eucalyptus</title>
@@ -1712,6 +1633,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/12/blog_health-tips_Is-Eucalyptus-Healthy-Try-These-3-Ways-To-Use-It_88050677-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Try These 9 Green Teas To Warm You Up</title>
@@ -1725,6 +1647,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/11/blog_health-tips_Want-To-Warm-Up-In-A-Healthy-Way-Try-These-9-Green-Teas_96014495-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Minimize Calories With These Holiday Drink Choices</title>
@@ -1738,6 +1661,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/11/blog_health-tips_Keep-Calories-Counts-Down-With-These-4-Healthier-Holiday-Drink-Options_459384865-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>5 Ways To Minimize Cold Feet</title>
@@ -1751,6 +1675,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/12/blog_health-tips_5-Ways-To-Minimize-Cold-Feet_76468191-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>What Is Better For Your Body – Walking Or Running?</title>
@@ -1764,6 +1689,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/12/blog_health-tips_Best-Of-2017-What-Has-More-Benefit-Running-Or-Walking-Find-Out_64386453.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Feeling Bloated? Try These 5 Suggestions</title>
@@ -1777,6 +1703,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2017/11/blog_health-tips_Feeling-Bloated-Try-These-4-Suggestions_-622210478-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>How Often Are You Washing Your Sheets?</title>
@@ -1790,6 +1717,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/12/GettyImages-1165263708-600x398.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Three Must-Have Bedding Layers For Warmer Sleep</title>
@@ -1803,6 +1731,7 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/01/Img_DrWeil_Chair_Bundle_1_Purecare-copy-600x431.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>New Warnings For Common Sweetener</title>
@@ -1815,6 +1744,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/08/erithertol-wb-2208276680-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Calories vs. Inactivity: What Drives Obesity Rates?</title>
@@ -1827,6 +1757,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/08/calories-vs-inativity-wb-2196789700-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Faster Walking, Greater Health Benefits?</title>
@@ -1839,6 +1770,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/08/fast-walking-wb-2197585401-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>French Fries: Bad News For Diabetes Risk</title>
@@ -1851,6 +1783,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/09/French-Fries-WB-1218213212-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Omega-3 Fats May Help Guard Against Alzheimer’s In Women</title>
@@ -1863,6 +1796,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/09/Omega-3-Women-WB-1346447978-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Unpacking The Benefits Of A Plant-Based Diet</title>
@@ -1875,6 +1809,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/09/Plant-Based-Diet-WB-1186938002-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Could Common Pain Relievers Drive Antibiotic Resistance?</title>
@@ -1887,6 +1822,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/09/Pain-Killer-WB-2170864041-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Walk Away From Chronic Back Pain</title>
@@ -1899,6 +1835,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/10/walking-for-back-pain-wb-1127940594-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Eating “Green” Protects The Brain</title>
@@ -1911,6 +1848,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/10/greens-and-brain-aging-wb-2215994123-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>When It Comes To Breakfast, Timing Matters</title>
@@ -1923,6 +1861,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/10/breakfast-timing-wb-1263879052-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Artificial Sweeteners May Be Harmful To Brain Health</title>
@@ -1935,6 +1874,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/11/artificial-sweeteners-wb-642032560-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Could Caffeine Contribute To Antibiotic Resistance?</title>
@@ -1947,6 +1887,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/11/caffiene-antibiotics-wb-2200892658-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Industrial Solvent Linked To Parkinson’s Disease</title>
@@ -1959,6 +1900,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/11/Parkinsons-wb-1062243688-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Poor Sleep Could Age The Brain</title>
@@ -1971,6 +1913,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/11/poor-sleep-wb-2165679777-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Modified Mediterranean Diet Wards Off Type 2 Diabetes</title>
@@ -1983,6 +1926,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/11/mediterranean-diet-wb-685801370-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Study Sheds Light On Omega-3 Fatty Acids</title>
@@ -1995,6 +1939,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/11/omega-3-wb-2175690801-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Could Gum Disease Trigger Brain Damage?</title>
@@ -2007,6 +1952,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/11/gum-disease-wb-1483018496-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Engaging With Music May Protect Memory</title>
@@ -2019,6 +1965,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/12/music-wb-1076487422-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Chronic Pain Linked To High Blood Pressure</title>
@@ -2031,6 +1978,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/12/Chronic-Pain-1486147836-600x437.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Could Flavanol-Rich Foods Protect Against Prolonged Sitting?</title>
@@ -2043,6 +1991,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/12/flavanol-rich-foods-wb-1430813535-600x437.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>How Fructose Increases Inflammation And Harms Immunity</title>
@@ -2055,6 +2004,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/12/fructos-inflammation-wb-1931548659-600x437.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Common Pesticides Linked To Fertility Concerns</title>
@@ -2067,6 +2017,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/12/pesticides-wb-185254270-600x437.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Coffee Or Tea: What’s Better For Your Bones?</title>
@@ -2079,6 +2030,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/01/Coffee-or-tea-Whats-better-for-your-bones-wb-1327091626-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Processing Affects Benefits Of Plant-Based Diets</title>
@@ -2091,6 +2043,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/01/Processing-affects-benefits-of-plant-based-diets-WB-2201068820-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Compound In Dark Chocolate May Have A Sweet Perk</title>
@@ -2103,6 +2056,7 @@
       <category>drweil_bulletins</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/01/Compound-in-dark-chocolate-may-have-a-sweet-perk-wb-1400452697-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Multivitamins &amp; Blood Pressure: Who Benefits?</title>
@@ -2115,6 +2069,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/01/Multivitamins-and-blood-pressure-Who-benefits-wb-2178527715-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>How Sharing A Bed Impacts Your Sleep</title>
@@ -2127,6 +2082,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/02/Couple_Hug_Bed_Grayblankets-600x400.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Synthetic Cannabinoids May Help Ease Chronic Pain</title>
@@ -2139,6 +2095,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/01/Synthetic-cannabinoids-may-help-ease-chronic-pain2-wb-1214379860-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>How Fitness Changes As We Age</title>
@@ -2151,6 +2108,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/03/How-fitness-changes-as-we-age-2149054029-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Caring For Grandkids May Protect Against Memory Loss</title>
@@ -2163,6 +2121,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/03/Caring-for-grandkids-may-protect-against-memory-loss-2156490698-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Blood Sugar Spikes Linked To Alzheimer’s Disease</title>
@@ -2175,6 +2134,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/03/Blood-sugar-spikes-linked-to-Alzheimers-disease-1208572879-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Ten Reasons You Should Use A Mattress Protector</title>
@@ -2187,6 +2147,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/03/Img_Dog_DailyTip_March2026_Purecare-600x506.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Where You Store Fat May Influence Brain Health</title>
@@ -2199,6 +2160,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/03/Where-you-store-fat-may-influence-brain-health-1498835905-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Exercise Helps Ease Depression And Anxiety</title>
@@ -2211,6 +2173,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/03/Exercise-Anxiety-WB-1845393760-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>To Lower Blood Pressure, Avoid Eating Before Bed</title>
@@ -2223,6 +2186,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/04/Eat-Before-Bed-WB-945953942-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>“Forever Chemicals” May Speed Aging</title>
@@ -2235,6 +2199,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/04/PFAS-WB-2163629966-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Synthetic, Semi-Synthetic, Or All-Natural Bedding: Which Is Best for You?</title>
@@ -2247,6 +2212,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/04/Img_Cotton-600x400.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Could Sugary Drinks Increase Anxiety?</title>
@@ -2259,6 +2225,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/04/Sweet-Drinks-WB-2268938459-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Microplastics Linked To Neurodegenerative Disease</title>
@@ -2271,6 +2238,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/04/Microplastics-Nuero-Disease-WB-1296176595-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Mediterranean Diet May Help Reduce Stroke Risk</title>
@@ -2283,6 +2251,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/04/Med-Diet-Stroke-WB-1483473842-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>This Body Composition Could Raise Your Risk Of Dying</title>
@@ -2295,6 +2264,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/04/Body-Comp-Risk-WB-1445417525-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>3 Easy Steps Towards Cooler Sleep</title>
@@ -2307,6 +2277,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/05/Img_TucsonPhotoshoot_DrWeil_Bedroom2_Sleeping_WoolPillow_Purecare-600x400.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>EVOO Supports The Brain — And Gut</title>
@@ -2319,6 +2290,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/05/Olive-Oil-Brain-Gut-WB-1176912780-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Take Steps To Counteract Risks Of Sitting</title>
@@ -2331,6 +2303,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/05/steps-sitting-WB-1466420588-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Clues To Depression May Be Found In The Gut</title>
@@ -2343,6 +2316,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/05/Depression-Gut-WB-1423455058-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Mix Of Pesticides Linked To Higher Cancer Risk</title>
@@ -2355,6 +2329,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/05/Pesticides-Cancer-WB-2235609787-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Low B Vitamins, Low Energy?</title>
@@ -2367,6 +2342,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/06/Low-B-WB-2159611786-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Is Your Pillow Impacting Your Sleep?</title>
@@ -2379,6 +2355,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/06/Img_Pillows_DrWeil_AllSeasonsWool_ModelHug_Purecare-600x400.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Gain Strength With “Eccentric” Exercises</title>
@@ -2391,6 +2368,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/06/Exercise-WB-1293503739-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Irregular Sleep Schedule Could Double Heart Risk</title>
@@ -2403,6 +2381,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/06/Heart-Risk-WB-1447306544-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Study Identifies The Best Form Of Exercise For OA</title>
@@ -2415,6 +2394,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/06/OA-Exercise-WB-1395530804-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Summer Sinus Issues Becoming A Nuisance? Try These 5 Ideas</title>
@@ -2427,6 +2407,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/07/blog_health-tips_Summer-Sinus-Issues-Bugging-You-Try-These-5-Suggestions_-482561024-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Got Allergies? These Foods May Help Symptoms</title>
@@ -2439,6 +2420,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/07/blog_health-tips_Got-Allergies-Try-Eating-More-of-This_87891139-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Mental Decline Isn’t An Inevitable Part Of Aging</title>
@@ -2451,6 +2433,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/07/Mental-decline-isnt-an-inevitable-part-of-aging-WB-2182295764-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>6 Ways To Address Dry Skin Irritations This Summer</title>
@@ -2463,6 +2446,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/07/blog_health-tips_6-Ways-To-Address-Itchy-Skin-This-Summer_91342627-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Impress Your Guests: 5 Simple Ways To Tastier Grilling</title>
@@ -2475,6 +2459,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/06/blog_health-tips_5-Simple-Ways-To-Tastier-Grilling_816295582-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Gentle Yoga: A Natural Idea For Chronic Back Pain</title>
@@ -2487,6 +2472,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2019/07/10155439/gentle-yoga-for-chronic-back-pain-DT-942580016-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Looking For A Healthy Protein Idea? Try This Salad!</title>
@@ -2499,6 +2485,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/07/diet-nutrition_recipes_salmon-nicoise_3066x1852_000046977590-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Probiotics May Benefit Mental Health</title>
@@ -2511,6 +2498,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/07/Probiotics-may-benefit-mental-health-wb-1485140382-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Turmeric: The Healthiest Of Spices?</title>
@@ -2523,6 +2511,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/01/blog_health-tips_Is-The-Hype-About-Turmeric-Really-True-Get-Dr.-Weil_s-Take_94468827.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>What’s The Healthiest Wine To Sip On?</title>
@@ -2535,6 +2524,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/07/blog_health-tips_What_s-The-Healthiest-Wine-To-Sip-On_-966474618.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>5 Ways To Achieve A Restful Summer Vacation</title>
@@ -2547,6 +2537,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/07/Img_Stock_Family_Travel-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Migraine Headaches? Try These Natural Ideas</title>
@@ -2559,6 +2550,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2019/06/migraine-headach-pain-natural-ideas-DT-938919394-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Not Using Mint? Find Out What You Are Missing</title>
@@ -2571,6 +2563,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/06/blog_health-tips_Find-Out-What-You-Are-Missing-Out-On-By-Not-Eating-Mint_529665994-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>10 Must-Know Sleep Terms</title>
@@ -2583,6 +2576,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2025/07/Img_Woman_ReadingIpad_Relaxing-600x400.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Are You Allergic to Your Bedding? 5 Signs to Look For</title>
@@ -2595,6 +2589,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2023/07/Bed-Allergens-DT-1351347603-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Want To Eat Anti-Inflammatory? Start Here!</title>
@@ -2607,6 +2602,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/06/blog_health-tips_Want-To-Eat-Anti-Inflammatory-Start-Here_88088727-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Wondering About Sleep Apnea? 4 Symptoms To Recognize</title>
@@ -2619,6 +2615,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/07/blog_health-tips_Worried-About-Sleep-Apnea-4-Symptoms-That-May-Put-You-At-Risk_91256005-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>5 Suggestions To Manage High Triglyceride Levels</title>
@@ -2631,6 +2628,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/06/blog_health-tips_Worried-About-Triglyceride-Levels-Try-These-5-Suggestions_67697479-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>6 Ways To Treat Poison Ivy</title>
@@ -2643,6 +2641,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/07/blog_health-tips_6-Ways-To-Treat-Poison-Ivy_187078038-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Pinpointing The Strength Training Sweet Spot</title>
@@ -2655,6 +2654,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/07/Pinpointing-the-strength-training-sweet-spot-WB-2212443785-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>The Promise Of The Placebo Effect</title>
@@ -2667,6 +2667,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/07/The-promise-of-the-placebo-effect-wb-1637685934-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>4 Solutions to Better Sleep Support</title>
@@ -2679,6 +2680,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/08/Img_Pillows_DrWeil_Collection_Stacked_TableTop_Purecare-600x400.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>5 Things that May be Keeping You Awake (and how to address them)</title>
@@ -2691,6 +2693,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/09/Woman_AwakeInBed_AdobeStock_2031007592-600x400.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
       <title>Time Change Preparation: Adjusting Your Sleep as Daylight Saving Time Ends</title>
@@ -2703,6 +2706,7 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/10/GettyImages-1165075919-600x400.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
   </channel>
 </rss>
