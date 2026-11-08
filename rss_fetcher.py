@@ -51,6 +51,8 @@ CATEGORIES_DIR = FEEDS_DIR / "categories"
 # ---------------------------------------------------------------------------
 # Base Plugin
 # ---------------------------------------------------------------------------
+
+
 class BasePlugin(ABC):
     """
     Base class that every plugin should inherit from.
@@ -213,7 +215,8 @@ def discover_plugins() -> List[BasePlugin]:
                 if _is_plugin_class(attr):
                     instance = attr()
                     if not instance.name or instance.name == "unnamed":
-                        print(f"⚠ Plugin in {module_name} has no valid name – skipped")
+                        print(
+                            f"⚠ Plugin in {module_name} has no valid name – skipped")
                         continue
                     plugins.append(instance)
         except Exception as e:
@@ -258,7 +261,8 @@ def run() -> None:
                 cats.append(plugin.name)
                 # unique while preserving order
                 seen = set()
-                item["categories"] = [c for c in cats if c and not (c in seen or seen.add(c))]
+                item["categories"] = [
+                    c for c in cats if c and not (c in seen or seen.add(c))]
 
             # Write individual site feed
             rss_content = build_rss(
