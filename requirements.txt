@@ -2,3 +2,7 @@ feedgen
 requests
 beautifulsoup4
 lxml
+python-dateutil
+curl_cffi
+cloudscraper
+playwright

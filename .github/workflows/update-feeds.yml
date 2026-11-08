@@ -2,7 +2,7 @@ name: Update RSS feeds
 
 on:
   schedule:
-    # Daily at 05:00 UTC (GitHub cron is always UTC)
+    # Daily at 05:00 UTC
     - cron: "0 5 * * *"
   workflow_dispatch: {}
 
@@ -15,9 +15,9 @@ concurrency:
 
 jobs:
   fetch:
-    # Pinned to avoid the ubuntu-latest -> Ubuntu 26 migration notice
     runs-on: ubuntu-24.04
-    timeout-minutes: 15
+    # Bumped from 15 → 20 min: Playwright install + browser boot + slow fetches
+    timeout-minutes: 20
 
     steps:
       - name: Checkout
@@ -32,14 +32,28 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # Cache ~150 MB Chromium bundle across runs so we don't re-download daily
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            playwright-${{ runner.os }}-
+
+      - name: Install Playwright Chromium
+        run: python -m playwright install --with-deps chromium
+
       - name: Sync with latest branch tip
         run: |
-          # This run may have been queued behind a previous one that already
-          # pushed; start from the latest tip so the final push never conflicts.
           git fetch origin "${GITHUB_REF_NAME}"
           git reset --hard "origin/${GITHUB_REF_NAME}"
 
       - name: Fetch feeds
+        # PYTHONUNBUFFERED makes antibot_bypass prints appear live in the log,
+        # which is essential for seeing *which* method succeeded/failed.
+        env:
+          PYTHONUNBUFFERED: "1"
         run: python rss_fetcher.py
 
       - name: Update feed URLs in README (owner/repo/branch)
@@ -64,14 +78,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # feeds/ is gitignored for local dev; force-add so the bot can publish it
           git add -f feeds/
           git add README.md
           if git diff --cached --quiet; then
             echo "No feed changes to commit."
           else
             git commit -m "chore: update RSS feeds ($(date -u +%Y-%m-%d)) [skip ci]"
-            # If the branch moved while this run was executing, replay on top and retry once
             git push || {
               git fetch origin
               git rebase -X theirs "origin/${GITHUB_REF_NAME}"
