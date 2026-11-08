@@ -13,13 +13,14 @@ Subscribe to the master feed or a category. Tables below are rewritten on every 
 <!-- AUTO:FEEDS:START -->
 | Feed | Items |
 |------|-------|
-| [all.xml][feed-all] | 200 |
+| [all.xml][feed-all] | 250 |
 | [categories/happiness.xml][feed-cat-happiness] | 50 |
-| [categories/health.xml][feed-cat-health] | 150 |
+| [categories/health.xml][feed-cat-health] | 200 |
+| [categories/nutrition.xml][feed-cat-nutrition] | 50 |
 | [categories/programming.xml][feed-cat-programming] | 50 |
 | [categories/tech.xml][feed-cat-tech] | 50 |
 | [categories/tips.xml][feed-cat-tips] | 50 |
-| [categories/wellness.xml][feed-cat-wellness] | 150 |
+| [categories/wellness.xml][feed-cat-wellness] | 200 |
 <!-- AUTO:FEEDS:END -->
 
 ---
@@ -46,6 +47,7 @@ A GitHub Action regenerates feeds daily at 05:00 UTC.
 [feed-all]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/all.xml
 [feed-cat-happiness]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/happiness.xml
 [feed-cat-health]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/health.xml
+[feed-cat-nutrition]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/nutrition.xml
 [feed-cat-programming]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/programming.xml
 [feed-cat-tech]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/tech.xml
 [feed-cat-tips]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/tips.xml
