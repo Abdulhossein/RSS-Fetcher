@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 17:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 13:31:49 +0000</lastBuildDate>
     <item>
       <title>Depressive Rumination: The Root Of Depression</title>
       <link>https://www.drweil.com/blog/spontaneous-happiness/rumination-the-root-of-depression/</link>
@@ -2034,21 +2034,6 @@
       <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
-      <title>Matcha Coconut Popsicles</title>
-      <link>https://drhyman.com/blogs/content/matcha-coconut-popsicles</link>
-      <description>Desserts · Recipes</description>
-      <guid isPermaLink="true">https://drhyman.com/blogs/content/matcha-coconut-popsicles</guid>
-      <category>health</category>
-      <category>wellness</category>
-      <category>nutrition</category>
-      <category>Desserts</category>
-      <category>Recipes</category>
-      <category>drhyman_content</category>
-      <enclosure url="https://drhyman.com/cdn/shop/articles/Matcha_Pops_MK1_1.png?v=1786972788&amp;width=533" length="0" type="image/png"/>
-      <pubDate>Fri, 14 Aug 2026 20:00:02 +0000</pubDate>
-      <dc:creator>Mark Hyman, MD</dc:creator>
-    </item>
-    <item>
       <title>The Most Underrated Organ for Longevity</title>
       <link>https://drhyman.com/blogs/content/the-most-underrated-organ-for-longevity</link>
       <description>7 min read · Lifestyle · Longevity</description>
@@ -2779,6 +2764,21 @@
       <category>drhyman_content</category>
       <enclosure url="https://drhyman.com/cdn/shop/articles/mandies_Editorial_beverage_photograph_of_sparkling_pomegranate-_6a8c9492-ed2f-46cd-a65c-0948e7c856fd_2.png?v=1793985286&amp;width=533" length="0" type="image/png"/>
       <pubDate>Fri, 06 Nov 2026 22:14:32 +0000</pubDate>
+      <dc:creator>Mark Hyman, MD</dc:creator>
+    </item>
+    <item>
+      <title>The Blood Sugar Problem You Might Not Know You Have—and 7 Ways to Turn It Around</title>
+      <link>https://drhyman.com/blogs/content/the-blood-sugar-problem-you-might-not-know-you-have-and-7-ways-to-turn-it-around</link>
+      <description>5 min read · Diet &amp; Nutrition · Longevity</description>
+      <guid isPermaLink="true">https://drhyman.com/blogs/content/the-blood-sugar-problem-you-might-not-know-you-have-and-7-ways-to-turn-it-around</guid>
+      <category>health</category>
+      <category>wellness</category>
+      <category>nutrition</category>
+      <category>Diet &amp; Nutrition</category>
+      <category>Longevity</category>
+      <category>drhyman_content</category>
+      <enclosure url="https://drhyman.com/cdn/shop/articles/LJ_blog_11_9.png?v=1793981549&amp;width=533" length="0" type="image/png"/>
+      <pubDate>Sun, 08 Nov 2026 20:00:03 +0000</pubDate>
       <dc:creator>Mark Hyman, MD</dc:creator>
     </item>
   </channel>
