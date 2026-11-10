@@ -18,7 +18,7 @@ class DrWeilBlogPlugin(_drweil_base.DrWeilBasePlugin):
     title = "Dr. Weil's Blog"
     description = "All articles from DrWeil.com — integrative medicine, healthy living and more."
     language = "en"
-    categories = ["health", "wellness"]
+    categories = ["English", "health", "wellness"]
     max_items = 50
     headers = {
         "User-Agent": (

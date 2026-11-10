@@ -2,8 +2,6 @@
 
 Plugin-based RSS 2.0 generator. Drop a `.py` file in `plugins/`; `rss_fetcher.py` discovers it, pulls items, and writes feeds.
 
-**Version:** 1.2 · **Date:** 2026-11-08
-
 ---
 
 ## RSS Feeds
@@ -13,15 +11,14 @@ Subscribe to the master feed or a category. Tables below are rewritten on every 
 <!-- AUTO:FEEDS:START -->
 | Feed | Items |
 |------|-------|
-| [all.xml][feed-all] | 300 |
+| [all.xml][feed-all] | 340 |
+| [categories/chinese.xml][feed-cat-chinese] | 90 |
+| [categories/english.xml][feed-cat-english] | 250 |
 | [categories/fitness.xml][feed-cat-fitness] | 50 |
 | [categories/happiness.xml][feed-cat-happiness] | 50 |
 | [categories/health.xml][feed-cat-health] | 250 |
-| [categories/nutrition.xml][feed-cat-nutrition] | 50 |
-| [categories/programming.xml][feed-cat-programming] | 50 |
-| [categories/tech.xml][feed-cat-tech] | 50 |
-| [categories/tips.xml][feed-cat-tips] | 50 |
-| [categories/wellness.xml][feed-cat-wellness] | 200 |
+| [categories/tech.xml][feed-cat-tech] | 90 |
+| [categories/wellness.xml][feed-cat-wellness] | 150 |
 <!-- AUTO:FEEDS:END -->
 
 ---
@@ -46,12 +43,11 @@ A GitHub Action regenerates feeds daily at 05:00 UTC.
 <!-- AUTO:FEED-LINKS:START -->
 <!-- Feed link targets. GitHub Action rewrites owner/repo/branch. -->
 [feed-all]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/all.xml
+[feed-cat-chinese]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/chinese.xml
+[feed-cat-english]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/english.xml
 [feed-cat-fitness]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/fitness.xml
 [feed-cat-happiness]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/happiness.xml
 [feed-cat-health]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/health.xml
-[feed-cat-nutrition]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/nutrition.xml
-[feed-cat-programming]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/programming.xml
 [feed-cat-tech]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/tech.xml
-[feed-cat-tips]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/tips.xml
 [feed-cat-wellness]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/wellness.xml
 <!-- AUTO:FEED-LINKS:END -->

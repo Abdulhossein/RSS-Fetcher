@@ -19,7 +19,7 @@ class DrWeilSpontaneousHappinessPlugin(_drweil_base.DrWeilBasePlugin):
     title = "Dr. Weil's Spontaneous Happiness"
     description = "Insights on happiness, well-being and integrative mental health from Dr. Weil."
     language = "en"
-    categories = ["health", "happiness", "wellness"]
+    categories = ["English", "happiness", "health"]
     max_items = 50
     headers = {
         "User-Agent": (

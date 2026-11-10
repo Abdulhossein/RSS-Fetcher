@@ -81,7 +81,7 @@ class JuejinPlugin(BasePlugin):
     title = "稀土掘金"
     description = "稀土掘金 - 一个帮助开发者成长的社区"
     language = "zh-cn"
-    categories = ["tech", "programming"]
+    categories = ["chinese", "tech"]
     max_items = 50
 
     # -------------------- Configuration --------------------
@@ -205,10 +205,12 @@ class JuejinPlugin(BasePlugin):
 
         # -------------------- Date --------------------
         pub_date = datetime.now(timezone.utc)
-        timestamp = article.get("ctime") or article.get("rtime") or article.get("mtime")
+        timestamp = article.get("ctime") or article.get(
+            "rtime") or article.get("mtime")
         if timestamp:
             try:
-                pub_date = datetime.fromtimestamp(int(timestamp), tz=timezone.utc)
+                pub_date = datetime.fromtimestamp(
+                    int(timestamp), tz=timezone.utc)
             except (ValueError, TypeError, OSError):
                 pass
 
@@ -303,7 +305,8 @@ def interactive_test():
 
     # Show the first 3 articles so we can verify images & stats
     for idx, item in enumerate(items[:3], start=1):
-        print(f"─── Article #{idx} ──────────────────────────────────────────────")
+        print(
+            f"─── Article #{idx} ──────────────────────────────────────────────")
         print(f"Title       : {item.get('title')}")
         print(f"Link        : {item.get('link')}")
         print(f"Author      : {item.get('author')}")

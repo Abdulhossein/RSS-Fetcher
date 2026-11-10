@@ -138,8 +138,13 @@ def _is_http_url(value: Any) -> bool:
 
 
 def safe_feed_name(name: str) -> Optional[str]:
-    """Return a filename-safe token, or None if it cannot be used as a feed id."""
-    text = (name or "").strip()
+    """Return a filename-safe token, or None if it cannot be used as a feed id.
+
+    The result is lowercased so that names differing only by case (e.g.
+    "Chinese" vs "chinese") map to the same feed file on case-insensitive
+    filesystems instead of colliding.
+    """
+    text = (name or "").strip().lower()
     if not text or ".." in text or "/" in text or "\\" in text:
         return None
     if _SAFE_NAME.fullmatch(text):

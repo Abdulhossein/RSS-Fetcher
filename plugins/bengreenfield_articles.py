@@ -116,7 +116,7 @@ class BenGreenfieldArticlesPlugin(BasePlugin):
         "articles by Ben Greenfield."
     )
     language = "en"
-    categories = ["health", "fitness"]
+    categories = ["English", "health", "fitness"]
     max_items = 50
 
     # Only grab cards from the loop grid, not other posts rendered in

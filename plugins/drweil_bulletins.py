@@ -18,7 +18,7 @@ class DrWeilBulletinsPlugin(_drweil_base.DrWeilBasePlugin):
     title = "Dr. Weil's Weekly Bulletin"
     description = "Current health news, insights and healthy recipes from Andrew Weil, M.D."
     language = "en"
-    categories = ["health", "wellness"]
+    categories = ["English", "health", "wellness"]
     max_items = 50
     headers = {
         "User-Agent": (
