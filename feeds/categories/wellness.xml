@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 13:31:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:40:26 +0000</lastBuildDate>
     <item>
       <title>Depressive Rumination: The Root Of Depression</title>
       <link>https://www.drweil.com/blog/spontaneous-happiness/rumination-the-root-of-depression/</link>
@@ -2034,21 +2034,6 @@
       <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
-      <title>The Most Underrated Organ for Longevity</title>
-      <link>https://drhyman.com/blogs/content/the-most-underrated-organ-for-longevity</link>
-      <description>7 min read · Lifestyle · Longevity</description>
-      <guid isPermaLink="true">https://drhyman.com/blogs/content/the-most-underrated-organ-for-longevity</guid>
-      <category>health</category>
-      <category>wellness</category>
-      <category>nutrition</category>
-      <category>Lifestyle</category>
-      <category>Longevity</category>
-      <category>drhyman_content</category>
-      <enclosure url="https://drhyman.com/cdn/shop/articles/LJ_Overlooked_2.png?v=1786647572&amp;width=533" length="0" type="image/png"/>
-      <pubDate>Sun, 16 Aug 2026 19:00:03 +0000</pubDate>
-      <dc:creator>Mark Hyman, MD</dc:creator>
-    </item>
-    <item>
       <title>Office Hours: Your Skin's Worst Enemy Isn't the Sun – It's Your Metabolism</title>
       <link>https://drhyman.com/blogs/content/podcast-ep1169</link>
       <description>Episode 1169 · Lifestyle · Metabolic Health · Skin Health</description>
@@ -2779,6 +2764,23 @@
       <category>drhyman_content</category>
       <enclosure url="https://drhyman.com/cdn/shop/articles/LJ_blog_11_9.png?v=1793981549&amp;width=533" length="0" type="image/png"/>
       <pubDate>Sun, 08 Nov 2026 20:00:03 +0000</pubDate>
+      <dc:creator>Mark Hyman, MD</dc:creator>
+    </item>
+    <item>
+      <title>Office Hours: If Your Body Does THIS, Your Cells Could Be Failing — And You’d Never Know</title>
+      <link>https://drhyman.com/blogs/content/podcast-ep1193</link>
+      <description>Episode 1193 · Diet &amp; Nutrition · Hormone Health · Lifestyle · Metabolic Health</description>
+      <guid isPermaLink="true">https://drhyman.com/blogs/content/podcast-ep1193</guid>
+      <category>health</category>
+      <category>wellness</category>
+      <category>nutrition</category>
+      <category>Diet &amp; Nutrition</category>
+      <category>Hormone Health</category>
+      <category>Lifestyle</category>
+      <category>Metabolic Health</category>
+      <category>drhyman_content</category>
+      <enclosure url="https://drhyman.com/cdn/shop/articles/Frame_1000007163.png?v=1794174159&amp;width=533" length="0" type="image/png"/>
+      <pubDate>Mon, 09 Nov 2026 15:06:35 +0000</pubDate>
       <dc:creator>Mark Hyman, MD</dc:creator>
     </item>
   </channel>
