@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Latest AI News — AIBase</title>
+    <link>https://news.aibase.com/news</link>
+    <description>Comprehensive coverage of AI headlines: model releases, product updates, research breakthroughs, and industry shifts.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Custom RSS Fetcher</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 10 Nov 2026 18:14:13 +0000</lastBuildDate>
+    <item>
+      <title>Law Professor Asks Claude to Update Page Numbers: Comes Back from Lunch to Find a Full Year of Class Notes Completely Deleted</title>
+      <link>https://news.aibase.com/news/32195</link>
+      <description>Behind the convenience of AI-assisted work, the risks of directly operating on local files are drawing attention again. On November 9, news emerged that William Baude, a professor at the University of Chicago Law School and an American constitutional law scholar, shared an AI mishap: he asked an AI under Anthropic to perform the simple task of updating page numbers, but it instead caused widespread file loss, leaving one unsure whether to laugh or cry. The incident sparked heated discussion in the tech and education communities, highlighting the hidden risks of AI automated operations on local files.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32195</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202607311440204282_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 01:34:23 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Wall Street Pours Cold Water on AI Hype: Anthropic's Sprint for the Largest IPO in History Faces a Cooldown</title>
+      <link>https://news.aibase.com/news/32196</link>
+      <description>Amid peak AI hype, Anthropic pushes the biggest tech IPO ever. WSJ says the Claude maker targets a Nasdaq listing on Nov 19 or 20 under ANT, with valuation and pricing due early this week. Once near $2T, its expected valuation has cooled to $1.5T as AI stocks fell.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32196</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 01:39:34 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>MiniMax Increases Investment in Large Model Industry: New Technology Company Established in Hengqin, Zhuhai with Registered Capital of 5 Million</title>
+      <link>https://news.aibase.com/news/32197</link>
+      <description>MiniMax has established Zhuhai Xiyu Jizhi Technology Co., Ltd., with Yan Yijun as legal representative and RMB5 million registered capital. Focused on full-stack AI software and hardware, it advances MiniMax's strategic layout in South China. More details pending.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32197</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202501150943267809_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 01:39:43 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Disney Partners with Adobe to Develop Proprietary AI Models, Expanding Across Theme Parks, Film/TV and Sports Businesses</title>
+      <link>https://news.aibase.com/news/32198</link>
+      <description>Disney and Adobe have entered a multi-year strategic partnership to jointly develop customized generative AI models tailored to Disney's businesses, and will gradually introduce AI tools into areas such as theme parks, film and television production, and sports media, exploring content creation, project development, and user engagement. In the initial phase of the collaboration, the focus will be on accelerating project development for Disney Experiences, which operates theme parks, resorts, and cruise line businesses worldwide; the two sides will also continue to use AI technology to advance related applications.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32198</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202307061550005544_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 01:43:10 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Your Ultimate Gaming Companion Is Online: Tencent's First AI Game Companion Agent Eciyuan Opens Closed Beta</title>
+      <link>https://news.aibase.com/news/32199</link>
+      <description>Tencent has officially kicked off the Yuanqi first test of Eciyuan, its first exclusive AI game companion Agent. Targeting PC players, the product focuses on real-time companionship in gaming scenarios, marking Tencent's substantive move into the vertical field of game AI interaction and anthropomorphic companionship. Its core technology is real-time screen-based game scene perception; the AI can read and understand game scenes and provide instant Q&amp;A support for players' questions. The original text did not elaborate on its functional ecosystem.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32199</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1110/6392990181021528634027091.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 02:04:00 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Qwen4 Benchmark Scores Outperform Opus 5.5, Extremely High Cost-Effectiveness Shows Strong Competitiveness</title>
+      <link>https://news.aibase.com/news/32200</link>
+      <description>In a new wave of domestic AI large model releases, Alibaba's Qwen4 series is the first to demonstrate strong technical strength. Leaked benchmark data shows that it performed impressively on the GameFeel Bench benchmark, which evaluates creativity in game development, with some metrics surpassing the top overseas model Opus5.5, becoming the first domestic large model to overtake it in this benchmark. Its core benchmark scores beat overseas rivals, and its locally deployed version is also closely catching up with the mainstream.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32200</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202504151007244729_5.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 02:11:18 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Putting Emergency Brakes on Runaway AI Agents: OpenAI's 35-Second Circuit Breaker Mechanism Goes Live</title>
+      <link>https://news.aibase.com/news/32201</link>
+      <description>On Nov 10, OpenAI launched Control Room, now live in internal research facilities. It actively cuts off risky AI tasks, stopping runaway agents in as little as 35 seconds. Connecting training, evaluation, and data processing to a central service, it upgrades safety from alerts to shutdown.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32201</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1110/6392990413713767446171153.png" length="0" type="image/png"/>
+      <pubDate>Tue, 10 Nov 2026 02:42:25 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Tencent's First Dedicated AI Gaming Companion, Goose Dimension, Enters Closed Beta: Letting AI Dive Into the Game Screen to Team Up With You</title>
+      <link>https://news.aibase.com/news/32202</link>
+      <description>Tencent’s first AI game companion agent, Eciyuan, began beta on Nov 10 for PC players. It offers anthropomorphic, real-time voice companionship and can 'see' the game being played, extending AI from customer service/tools to players’ screens.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32202</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1110/6392990587697501989644915.png" length="0" type="image/png"/>
+      <pubDate>Tue, 10 Nov 2026 03:11:43 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Anthropic Reclaims the World's Strongest: Claude Fable 5.2 Takes the Top Spot and Also Had a Thousand Agents Build a System</title>
+      <link>https://news.aibase.com/news/32205</link>
+      <description>Anthropic simultaneously launched Claude Fable 5.2 and Mythos 5.2 on November 10. The company said the new models made comprehensive advances in coding, reasoning, scientific research, cybersecurity, and robotics, with output speed increased by up to 30% and costs reduced by 20%. Fable 5.2 leads GPT-6 Astra, Gemini 4 Carbon, and Opus 5.5 on FrontierCode 2.0 with 49.1%; on</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32205</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1110/6392991667270907874726364.png" length="0" type="image/png"/>
+      <pubDate>Tue, 10 Nov 2026 06:11:22 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Meituan Open-Sources LongCat-2.5: Long-Sequence SFT Single-GPU Throughput Up 86% vs. DDP</title>
+      <link>https://news.aibase.com/news/32206</link>
+      <description>On November 10, Meituan open-sourced LongCat-2.5 under the MIT license, enabling commercial inference deployment and further training. The model targets long-horizon agents and is natively multimodal, with 1.6 trillion total parameters and about 48 billion activated per token. It supports a one-million-token context and significantly improves end-to-end delivery in complex codebase development, complete project construction, Visual Coding, and professional office work. The weights are available on HuggingFace, along with a technical blog and API. The capability improvements come from scaling the training pipeline.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32206</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1110/6392991832946161471491328.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 06:39:20 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Smallest Multimodal Model in History, Muse Ember, Released: 1M Ultra-Long Context Focused on High-Frequency Agent Tasks</title>
+      <link>https://news.aibase.com/news/32209</link>
+      <description>Competition in open-source AI and commercialization continues to intensify. Meta Superintelligence Labs has officially released Muse Ember, the fourth model under the Muse brand and the smallest efficient multimodal reasoning model to date. The model is designed for the repetitive subtasks that AI agents handle with high frequency in daily operations, with its core positioning being to focus on high-frequency agent subtasks and achieve refined division of labor. In Meta's product matrix, each model plays a different role; flagship models such as Muse form a layered layout, using differentiated capabilities to cover</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32209</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202405161743122232_2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 07:27:03 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Film and Television Industry Accelerates Embrace of Generative AI as Golden Rooster and Hundred Flowers Film Festival Establishes AI Section for the First Time</title>
+      <link>https://news.aibase.com/news/32210</link>
+      <description>The Golden Rooster and Hundred Flowers Film Festival has established a film AI section for the first time and presented it in Xiamen, marking AI's deep involvement in mainstream film and television creation. The core event, the AI Hackathon, attracted 287 teams to register; 20 shortlisted teams took part in a 72-hour timed creation around an assigned theme, using AI tools to complete the entire process from story conception and creative planning to video production. AI is lowering the threshold for film and television production and driving efficient transformation from hand-drawn storyboards to dynamic imagery.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32210</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/201908161723227958_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 07:35:56 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Meta Strikes Again: Muse Ember, the Smallest Multimodal Model Ever, Officially Released, with 1M Ultra-Long Context Focused on High-Frequency Agent Tasks</title>
+      <link>https://news.aibase.com/news/32211</link>
+      <description>Competition in open-source AI and commercialization continues to intensify. Meta Superintelligence Labs has officially released Muse Ember, the fourth model under the Muse brand and the smallest multimodal reasoning model to date. It is built for the daily, high-frequency, repetitive subtasks of AI agents, with a core positioning of focusing on high-frequency agent subtasks and enabling refined division of labor. In Meta's product matrix, each model plays a different role, with flagship-level models such as Muse forming a tiered layout.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32211</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202305091556155027_7.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 07:41:00 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Former Toutiao CEO Chen Lin Officially Announces Departure: Teams Up with Xiaolu Aixue to Pursue AI Education Entrepreneurship</title>
+      <link>https://news.aibase.com/news/32212</link>
+      <description>On November 9, Chen Lin, former CEO of Toutiao and Dali Education, published a long article titled "Why Do I Still Want to Do Education?", publicly acknowledging for the first time that he has left ByteDance and started an AI education venture. He is now the founder of Xiaolu Aixue (Galaxy Zhixue). In the article, he reviewed the contraction of Dali Education and the shift in his mindset during his two-and-a-half-year recovery period, marking his formal transition from the front line to a new track in AI education.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32212</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202305301503482001_2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 07:47:58 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Golden Rooster and Hundred Flowers Launches AI Section for the First Time: 287 Teams Take On 72-Hour Extreme Creation</title>
+      <link>https://news.aibase.com/news/32214</link>
+      <description>On Nov 10, 2026 China Golden Rooster &amp; Hundred Flowers Film Festival held its first Film AI Unit presentation in Xiamen, aiming to explore AI's practical use in film/TV creation and give creators a platform to showcase and exchange. 287 teams competed in 72 hours.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32214</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202508221731210922_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 08:11:57 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Google Adds a Delete Button to Gemini: The Privacy AI Remembers — Now You Can View, Edit, and Delete It</title>
+      <link>https://news.aibase.com/news/32215</link>
+      <description>Google is rolling out a "memory summary" feature for Gemini, letting users view, edit, or delete personal info the AI stores about them. Memories are organized into categorized ledgers, seen as Google redrawing the line between personalization and privacy.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32215</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202605061415496310_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 08:28:49 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>KFC's Japan fail: AI-generated product images even tinted the ice cubes</title>
+      <link>https://news.aibase.com/news/32216</link>
+      <description>KFC Japan faces a trust crisis: ITmedia reported Nov 10 that promo images for test-sold ice-cream cola and melon soda were intentionally AI-generated, not real. AI-tinted green ice exposed the flaw, raising doubts over ad authenticity and consumer trust.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32216</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1110/6392992785504563202036477.png" length="0" type="image/png"/>
+      <pubDate>Tue, 10 Nov 2026 09:17:43 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>ByteDance's Seedream 5.5 Officially Launches on Doubao: Image Design Capabilities Receive a Comprehensive Upgrade</title>
+      <link>https://news.aibase.com/news/32217</link>
+      <description>On November 10, ByteDance's AI app Doubao announced a comprehensive upgrade to its image design capabilities, officially integrating the new-generation image creation model Seedream5.5. This upgrade brings users a more professional and efficient visual generation and editing experience, and rolls out three core features, breaking through the pain points of traditional AI drawing. With Seedream5.5, Doubao has achieved multi-dimensional technological breakthroughs in image creation and post-processing, supporting stable continuous editing for hundreds of rounds.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32217</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1110/6392992848748289359231319.png" length="0" type="image/png"/>
+      <pubDate>Tue, 10 Nov 2026 09:28:21 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Primitive Rhythm Releases NeoHorse-1.5-Flash Preview, Opens Limited Beta</title>
+      <link>https://news.aibase.com/news/32218</link>
+      <description>Primitive Rhythm releases the Agent-native model NeoHorse-1.5-Flash Preview, trained on Qwen3.8-Flash, with 180B total parameters and 6B active parameters. It focuses on improving Agent task execution and software engineering capabilities, and is now open for limited beta testing. Evaluations show that compared with the base model, its score on Agents’ Last Exam improved by 9.23 points, and Natural Language to Repository improved by 5.92 points.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32218</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202308211451227019_1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 09:35:04 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>iPhone Duo Has Been on Sale for Two Weeks: DeepSeek and Bilibili Fill the Gap as Apple Brings Out 100,000 Adapted Apps to Bolster Support</title>
+      <link>https://news.aibase.com/news/32219</link>
+      <description>Two weeks after Apple's first foldable went on sale, ecosystem adaptation has become a barrier to switching devices. In the Chinese market, QQ, Tencent Meeting, DeepSeek, ERNIE, Bilibili, Qidian, Meitu, JD.com, Dewu, Alipay, and others are already compatible with iPhone Duo; miHoYo announced that Zenless Zone Zero will be compatible starting from version 3.3.1. However, WeChat still leaves black bars, and iOS 27 can only let apps basically use the inner and outer screens. Experiences such as the vertical frame of the Dock on WeChat's inner screen still need improvement.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32219</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202105261143226742_7.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Nov 2026 10:02:18 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AI Daily Brief — AIBase</title>
+    <link>https://news.aibase.com/daily</link>
+    <description>Daily digest of AI industry news in 3 minutes: model releases, product updates, and market trends.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Custom RSS Fetcher</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 10 Nov 2026 18:14:07 +0000</lastBuildDate>
+    <item>
+      <title>AI Daily: Douyin Adds a New Dedicated Report Channel for Voice Impersonation; Grok Build Launches Long-Term Memory Feature; Doubao Collaborates with Volcano Engine to Develop AI-Native Assistant</title>
+      <link>https://news.aibase.com/daily/31136</link>
+      <description>Welcome to the [AI Daily] section! This is your daily guide to exploring the world of artificial intelligence. Every day, we present you with the latest updates in the AI field, focusing on developers to help you understand technological trends and innovative AI product applications. Discover new AI products: https://app.aibase.com/zh1. Douyin has launched a new dedicated report channel for voice impersonation, introducing a verification and rights protection mechanism to counter AI-generated infringement. Douyin has introduced a dedicated report channel for voice impersonation, upgrading the rights protection mechanism to address new challenges brought by AI generation technology.</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/31136</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202111142108386634_5.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 17 Sep 2026 08:22:24 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Qwen3.8-Omni-Flash Launches; Google's Strongest Gemini 4 Pro Testing Begins; Zhipu Releases GLM-5.3-FlashX</title>
+      <link>https://news.aibase.com/daily/31167</link>
+      <description>Welcome to the [AI Daily] section! This is your guide to exploring the world of artificial intelligence every day. Every day we present you with the latest content in the AI field, focusing on developers, helping you understand technical trends and learn about innovative AI product applications. Click to learn more about new AI products: https://app.aibase.com/zh1. Qwen launches Qwen3.8-Omni-Flash: 1M context, an average improvement of over 26% across 30 evaluations. Qwen introduces a new multimodal model, Qwen3.8-Omni-</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/31167</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://upload.chinaz.com/2026/0918/6392532749350141188755656.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 18 Sep 2026 07:28:12 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: WeChat AI Team Opensources WeKnora; ChatGPT Officially Joins Word; Jieque Star Launches Step5Preview</title>
+      <link>https://news.aibase.com/daily/31202</link>
+      <description>Welcome to the [AI Daily] segment! This is your guide to exploring the world of artificial intelligence every day. Every day, we present you with the latest content in the AI field, focusing on developers, helping you understand technology trends and innovative AI product applications. Click to learn more about new AI products: https://app.aibase.com/zh1. WeChat AI Team Opensources WeKnora: 'Knowledge bases are no longer just talk'; now you can 'operate in a sandbox'. The WeChat AI team has open-sourced the knowledge management framework WeKnora, with its latest 0.8.0 version fully</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/31202</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202308291638475569_2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 20 Sep 2026 08:30:57 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Qwen-Image-2.1 Open Sourced by Tongyi; Claude Opus5.5 Suspected to Be Leaked During Internal Testing; Zhipu MaaS to Launch Data-Not-Stored Mechanism</title>
+      <link>https://news.aibase.com/daily/31235</link>
+      <description>Welcome to the [AI Daily] section! Here is your guide to exploring the world of artificial intelligence every day. Every day, we present you with the latest content in the AI field, focusing on developers, helping you understand technology trends and innovative AI product applications. Discover new AI products: https://app.aibase.com/zh1. Tongyi Qianwen Open Sources Qwen-Image-2.1: A 7B-parameter model achieving integrated text-to-image and image editing. The Tongyi Qianwen team has open-sourced the new generation image model Qwen-Image-2.</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/31235</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://upload.chinaz.com/2026/0921/6392557855531739316736037.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 21 Sep 2026 07:36:51 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Tencent Hunyuan Image 3.5 is here; Grok4.7 is launched; Moonlight推出Kimi Code Desktop Version</title>
+      <link>https://news.aibase.com/daily/31274</link>
+      <description>Welcome to the [AI Daily] section! Here is your guide to exploring the world of artificial intelligence every day. Every day we present you with the latest content in the AI field, focusing on developers, helping you understand technological trends and innovative AI product applications. Click to learn more about fresh AI products: https://app.aibase.com/zh1. SpaceXAI's strongest model Grok4.7 is launched: full capability for long tasks, with a price only half of the flagship model. SpaceXAI推出的Grok4.7模型在长任务处理、专业</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/31274</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202311060852081809_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Sep 2026 08:28:14 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Anthropic launches Claude Opus 5.5; Seedance 2.5 launches Draft mode; OpenAI introduces GPT-6 Sol and Luna</title>
+      <link>https://news.aibase.com/daily/31307</link>
+      <description>Welcome to the [AI Daily] section! Here is your guide to exploring the world of artificial intelligence every day. Every day, we present you with the latest content in the AI field, focusing on developers to help you grasp technical trends and understand innovative AI product applications. Click to learn more about new AI products: https://app.aibase.com/zh1, Claude Opus 5.5 by Anthropic, which reduces task costs by 40% in most tasks</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/31307</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202605070947057219_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 23 Sep 2026 08:03:12 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Google Launches Gemini 3.8 Flash TTS; Kimi K3.1 May Conclude in October; Doupo Offers All Users 30 Days of Subscription Benefits</title>
+      <link>https://news.aibase.com/daily/31355</link>
+      <description>Welcome to the [AI Daily] column! This is your guide to explore the world of artificial intelligence every day. Every day, we present you with the latest content in the AI field, focusing on developers, helping you understand technological trends and innovative AI product applications. Discover new AI products: https://app.aibase.com/zh1 Google Launches Gemini 3.8 Flash TTS: Supports Customizing Voices with Natural Language and 30-Second Voice Replication Google launches Gemini 3.8 Flash TTS and Gemin</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/31355</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202604171655124578_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 24 Sep 2026 08:12:31 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: MiniMax New Model M3.1-Flash-Preview Launches; OpenAI to Introduce a Permanent AI Assistant; Claude Sonnet 5.5 Begins Beta Testing</title>
+      <link>https://news.aibase.com/daily/31385</link>
+      <description>Welcome to the [AI Daily] section! This is your daily guide to exploring the world of artificial intelligence. Every day, we present you with the latest content in the AI field, focusing on developers, helping you understand technology trends and learn about innovative AI product applications. Click to learn more about new AI products: https://app.aibase.com/zh1. OpenAI may launch a permanent AI assistant codenamed "O," expected to be officially released on September 29th. OpenAI plans to introduce a new product codenamed "O" at the OpenAIDevDay.</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/31385</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202405110933330041_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 28 Sep 2026 07:55:54 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Kling4.0 Will Be Released; Doubao to Launch an Independent Personal Assistant App; Tencent Secretly Explores Digital Human Game Partner 'Egg' Dimension</title>
+      <link>https://news.aibase.com/daily/31418</link>
+      <description>Welcome to the [AI Daily] column! This is your daily guide to exploring the world of artificial intelligence. Every day, we present you with the latest content in the AI field, focusing on developers, helping you understand technological trends and innovative AI product applications. Click to learn more about new AI products: https://app.aibase.com/zh1. Kling4.0 Will Be Released: Supports 8000 Tokens and Stereophonic Lip Sync. The comprehensive upgrade of Kling4.0 provides creators with more powerful features, including realistic visuals,</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/31418</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://upload.chinaz.com/2026/0929/6392627309283250503404090.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 29 Sep 2026 07:53:30 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: DouBao Launches Independent AI Personal Assistant App, Xiao Dou; Gemini Skills Open to Free Users; OpenAI Releases Autonomous Agent Dots</title>
+      <link>https://news.aibase.com/daily/31441</link>
+      <description>Welcome to the [AI Daily] section! This is your guide to exploring the world of artificial intelligence every day. Every day, we present you with the latest content in the AI field, focusing on developers, helping you understand technological trends and innovative AI product applications. Discover new AI products: https://app.aibase.com/zh1. The independent AI personal assistant app "Xiao Dou" for DouBao has been confirmed: aiming to build a comprehensive intelligent ecosystem. The launch of DouBao's independent AI personal assistant app "Xiao Dou" marks its deep layout in the personal assistant field, and</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/31441</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202405160815252726_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 08:34:50 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Anthropic Launches Claude Haiku 5.5; WorkBuddy Launches Independent File Browser; Muse Now Available on iPad</title>
+      <link>https://news.aibase.com/daily/31477</link>
+      <description>Welcome to the [AI Daily] section! This is your guide to exploring the world of artificial intelligence every day. Each day, we present you with the latest content in the AI field, focusing on developers to help you understand technical trends and innovative AI product applications. Discover new AI products: https://app.aibase.com/zh1. Anthropic launches Claude Haiku 5.5: The cost of small models is reduced by 75%, and the reasoning intensity can now be adjusted by itself. Anthropic has launched Claude Ha</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/31477</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202310180948538535_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 08 Oct 2026 08:51:03 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Google Cloud Launches General Gemini Agent; Doupo App Launches Life Payment Function; Kuaishou Releases AI Video Modification Governance Notice</title>
+      <link>https://news.aibase.com/daily/31508</link>
+      <description>Welcome to the [AI Daily] column! This is your guide to exploring the world of artificial intelligence every day. Every day, we present you with the latest content in the AI field, focusing on developers to help you understand technology trends and innovative AI product applications. Fresh AI products click to learn more: https://app.aibase.com/zh1. Google Cloud has officially launched a new General Gemini Agent at the "Gemini at Work 2026" conference, which can autonomously decompose and execute complex multi-step tasks.</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/31508</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202312070835429226_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 09 Oct 2026 08:37:44 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Shengshu Technology Releases Vidu Q4 Preview Version; Alibaba Qoder Launches Fast Mode for the First Time; Tencent Cloud Open Sources TeamAI</title>
+      <link>https://news.aibase.com/daily/31542</link>
+      <description>Welcome to the [AI Daily] section! This is your guide to exploring the world of artificial intelligence every day. Every day, we present you with the latest content in the AI field, focusing on developers to help you grasp technical trends and understand innovative AI product applications. Click to learn more about new AI products: https://app.aibase.com/zh1. Shengshu Technology officially releases Vidu Q4 Preview, significantly improving video generation quality and supporting multimodal references and high-resolution output.</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/31542</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://upload.chinaz.com/2026/1010/6392722571874404365849446.png" length="0" type="image/png"/>
+      <pubDate>Sat, 10 Oct 2026 08:00:45 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: OpenAI Expands Memory for GPT-6.1Sol; Ant Fin Light Begins New Beta Test; Vipshop Launches Self-Developed AI Assistant AI Xiao Wei</title>
+      <link>https://news.aibase.com/daily/31569</link>
+      <description>Welcome to the [AI Daily] column! This is your guide to exploring the world of artificial intelligence every day. Every day, we present you with the latest content in the AI field, focusing on developers, helping you understand technical trends and innovative AI product applications. Discover new AI products: https://app.aibase.com/zh1. OpenAI Expands Memory for GPT-6.1Sol: Default context up to 500,000, long texts no longer billed separately. OpenAI has made significant adjustments to GPT-6.1Sol,</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/31569</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202405110933330041_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 12 Oct 2026 08:57:29 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Kler AI Brings Kling4.0 to Hollywood; QwenGo Opens for Trial Applications; 1688 Fully Integrates with AI E-commerce Workstation Accio</title>
+      <link>https://news.aibase.com/daily/31608</link>
+      <description>Welcome to the 【AI Daily】 column! This is your guide to exploring the world of artificial intelligence every day. Every day, we present you with the latest content in the AI field, focusing on developers, helping you understand technical trends and innovative AI product applications. Fresh AI products: https://app.aibase.com/zh1. Kler AI brings Kling4.0 to Hollywood: AI video is turning from a toy into a production line for enterprises. The article discusses how Kler AI showcased Kling4</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/31608</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202307141649266632_5.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 13 Oct 2026 07:58:34 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Double 11 Tokens Listed on E-commerce Platforms; DeepSeek Open-Sources Super-agent Architecture; Meituan LongCat Releases LongCat-2.5</title>
+      <link>https://news.aibase.com/daily/32022</link>
+      <description>Welcome to the [AI Daily] section! This is your daily guide to exploring the world of artificial intelligence. Every day we bring you hot topics in the AI field, focusing on developers to help you discern technology trends and learn about innovative AI product applications. 2. DeepSeek open-sources Super-agent architecture: using classic computer system concepts to break through the single-session agent bottleneck. This architecture introduces system concepts such as scheduling, caching, compute-storage separation, and watchdog into the underlying Agent layer, using Router/Worker two-layer decoupling and event-driven design to improve multi</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/32022</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202011051529434110_1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 02 Nov 2026 08:03:08 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Tencent Hunyuan releases Hyra 2.0; SenseTime releases SenseNova 6.8 Flash; AI virtual lovers officially placed in the adult section by Apple</title>
+      <link>https://news.aibase.com/daily/32056</link>
+      <description>Welcome to the [AI Daily] column! This is your daily guide to exploring the world of artificial intelligence. Every day we present hot topics in AI, focusing on developers and helping you gain insight into technology trends and learn about innovative AI product applications. For fresh AI products, click to learn more: https://app.aibase.com/zh1. 1. Tencent Hunyuan makes a major release of Hyra 2.0, enabling AI Agents to fully participate in scientific large models and hardcore R&amp;D. Hyra 2.0 drives AI scientific research from single-problem solving to tool development, three-layer Ag</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/32056</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/201908052105504517_4.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Nov 2026 08:44:41 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Baidu releases Physical AI World Model Apollo World; Tencent Hy4 official version debuts; Alibaba Cloud launches AI investment research workbench Qovest</title>
+      <link>https://news.aibase.com/daily/32090</link>
+      <description>Welcome to the [AI Daily] column! This is your daily guide to exploring the world of artificial intelligence. Every day we bring you hot topics in the AI field, focusing on developers and helping you understand technology trends and learn about innovative AI product applications. For new AI products, click to learn more: https://app.aibase.com/zh 1. Baidu released its Physical AI World Model ApolloWorld for the first time; nearly 100 Apollo Go robotaxis are operating with the new architecture. Baidu ApolloWorld models traffic participants as autonomous</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/32090</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202004082215180815_1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 04 Nov 2026 09:19:52 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: iOS 27.3 beta officially integrates Qwen; Doubao Work connects to third-party models for the first time; Lei Jun shares video of Xiaomi robot doing housework</title>
+      <link>https://news.aibase.com/daily/32121</link>
+      <description>Welcome to the [AI Daily] column! This is your daily guide to exploring the world of artificial intelligence. Every day we present trending content in the AI field, focusing on developers to help you understand technology trends and learn about innovative AI product applications. Click to learn about fresh AI products: https://app.aibase.com/zh1. 1. iOS 27.3 beta officially integrates Alibaba Qwen, replacing the role of ChatGPT. This article reports that Apple's iOS 27.3 beta in China will AppleIntellig</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/32121</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202504151007255440_8.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 05 Nov 2026 08:39:40 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Kimi Hosted Agents Released; Google Releases Omni 1.2 Flash; Taobao MNN Team Open-Sources MNN-Pocket-0.3B</title>
+      <link>https://news.aibase.com/daily/32153</link>
+      <description>Welcome to the [AI Daily] column! This is your daily guide to exploring the world of artificial intelligence. Every day, we bring you hot topics in the AI field, focusing on developers to help you gain insight into technology trends and learn about innovative AI product applications. Click to learn about new AI products: https://app.aibase.com/zh1. 1. Moonshot AI makes a big move! However, cross-platform collaboration and AI-generated content provenance mechanisms still need to be strengthened to curb the resurgence of illegal activities.</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/32153</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202604291619214186_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 06 Nov 2026 07:58:54 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+  </channel>
+</rss>
