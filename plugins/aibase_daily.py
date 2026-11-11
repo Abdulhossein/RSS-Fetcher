@@ -17,7 +17,10 @@ We prefer parsing that JSON over HTML scraping because it gives us:
 
 HTML scraping is kept as a fallback in case the devalue layout changes.
 
-Pagination: ?page=N (up to 29 pages, 20 items per page as of writing).
+Pagination: the HTML page ignores `?page=N` (always returns page 1).
+The Nuxt app paginates client-side via the JSON API at
+`https://mcpapi.aibase.cn/api/aiInfo/dailyNews?pageNo=N`. We call that
+endpoint directly and fall back to the HTML/devalue path if it fails.
 
 Interactive test:
     python plugins/aibase_daily.py
@@ -132,11 +135,24 @@ class AIBaseDailyPlugin(BasePlugin):
     )
     language = "zh-cn"
     categories = ["Chinese", "tech"]
-    max_items = 50
+    max_items = 100
 
-    # 20 items per page → 6 pages covers max_items=50 with margin
+    # 20 items per page → 5 pages covers max_items=100
     MAX_PAGES = 6
     PAGE_DELAY = 1.0
+
+    # The Nuxt app paginates client-side via this JSON API; the HTML
+    # page ignores ?page=N and always returns page 1.
+    API_URL = "https://mcpapi.aibase.cn/api/aiInfo/dailyNews"
+    API_HEADERS = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/124.0.0.0 Safari/537.36"
+        ),
+        "Accept": "application/json",
+        "Referer": "https://news.aibase.com/",
+    }
 
     headers = {
         "User-Agent": (
@@ -173,21 +189,22 @@ class AIBaseDailyPlugin(BasePlugin):
             if len(items) >= self.max_items:
                 break
 
-            page_url = self.url if page == 1 else f"{self.url}?page={page}"
+            # Primary: JSON API (the HTML page ignores ?page=N)
+            page_items = self._fetch_api_page(page)
 
-            try:
-                html = _http_get(page_url, self.headers)
-            except Exception as e:
-                print(f"[{self.name}] fetch failed for {page_url}: {e}")
-                break
+            if page_items is None:
+                # Fallback: HTML page + devalue/HTML parsing
+                page_url = self.url if page == 1 else f"{self.url}?page={page}"
+                try:
+                    html = _http_get(page_url, self.headers)
+                except Exception as e:
+                    print(f"[{self.name}] fetch failed for {page_url}: {e}")
+                    break
 
-            # Try devalue first — precise data, easy pagination
-            page_items = self._parse_devalue(html)
-
-            # Fallback to HTML scraping
-            if not page_items:
-                print(f"[{self.name}] devalue empty, falling back to HTML")
-                page_items = self._parse_html(html)
+                page_items = self._parse_devalue(html)
+                if not page_items:
+                    print(f"[{self.name}] devalue empty, falling back to HTML")
+                    page_items = self._parse_html(html)
 
             if not page_items:
                 print(f"[{self.name}] no items on page {page}")
@@ -220,7 +237,62 @@ class AIBaseDailyPlugin(BasePlugin):
         return items
 
     # ------------------------------------------------------------------
-    # Devalue parsing (primary)
+    # JSON API (primary) — the HTML page ignores ?page=N
+    # ------------------------------------------------------------------
+    def _fetch_api_page(self, page: int) -> Optional[List[Dict[str, Any]]]:
+        """Fetch one page from the JSON API. Returns None on failure."""
+        params = {
+            "pageNo": page,
+            "t": int(time.time() * 1000),
+            "langType": "en",
+        }
+        try:
+            if _HAS_CURL_CFFI:
+                resp = _curl_requests.get(
+                    self.API_URL,
+                    params=params,
+                    headers=self.API_HEADERS,
+                    timeout=25,
+                    impersonate=_IMPERSONATE,
+                )
+                if resp.status_code != 200:
+                    print(f"[{self.name}] API status={resp.status_code}")
+                    return None
+                payload = resp.json()
+            else:
+                resp = _requests.get(
+                    self.API_URL,
+                    params=params,
+                    headers=self.API_HEADERS,
+                    timeout=25,
+                )
+                resp.raise_for_status()
+                payload = resp.json()
+        except Exception as e:
+            print(f"[{self.name}] API fetch failed for page {page}: {e}")
+            return None
+
+        if not isinstance(payload, dict):
+            return None
+        if payload.get("code") != 200:
+            print(f"[{self.name}] API error: {payload.get('msg')}")
+            return None
+        data = payload.get("data") or {}
+        raw_list = data.get("list") or []
+        if not isinstance(raw_list, list):
+            return None
+
+        items: List[Dict[str, Any]] = []
+        for entry in raw_list:
+            if not isinstance(entry, dict):
+                continue
+            item = self._devalue_entry_to_item(entry)
+            if item:
+                items.append(item)
+        return items
+
+    # ------------------------------------------------------------------
+    # Devalue parsing (fallback)
     # ------------------------------------------------------------------
     @staticmethod
     def _extract_nuxt_data(html: str) -> Optional[list]:

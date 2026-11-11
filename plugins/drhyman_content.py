@@ -126,8 +126,8 @@ class DrHymanContentPlugin(BasePlugin):
         "on functional medicine and healthy living."
     )
     language = "en"
-    categories = ["English","health", "wellness"]
-    max_items = 50
+    categories = ["English", "health", "fitness"]
+    max_items = 100
 
     # Marketing tiles have class "marketing-tile" and reuse the article card
     # markup for shop promos — filter them out.

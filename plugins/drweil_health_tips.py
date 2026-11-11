@@ -18,8 +18,8 @@ class DrWeilHealthTipsPlugin(_drweil_base.DrWeilBasePlugin):
     title = "Dr. Weil's Health Tips"
     description = "Practical health tips and lifestyle advice from Andrew Weil, M.D."
     language = "en"
-    categories = ["English", "health", "wellness"]
-    max_items = 50
+    categories = ["English", "health", "fitness"]
+    max_items = 100
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "

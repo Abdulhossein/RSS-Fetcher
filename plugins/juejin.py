@@ -82,7 +82,7 @@ class JuejinPlugin(BasePlugin):
     description = "稀土掘金 - 一个帮助开发者成长的社区"
     language = "zh-cn"
     categories = ["chinese", "tech"]
-    max_items = 50
+    max_items = 100
 
     # -------------------- Configuration --------------------
     API_URL = "https://api.juejin.cn/recommend_api/v1/article/recommend_all_feed"

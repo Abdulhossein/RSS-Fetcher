@@ -20,7 +20,7 @@ class DrWeilSpontaneousHappinessPlugin(_drweil_base.DrWeilBasePlugin):
     description = "Insights on happiness, well-being and integrative mental health from Dr. Weil."
     language = "en"
     categories = ["English", "happiness", "health"]
-    max_items = 50
+    max_items = 100
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "

@@ -117,7 +117,7 @@ class BenGreenfieldArticlesPlugin(BasePlugin):
     )
     language = "en"
     categories = ["English", "health", "fitness"]
-    max_items = 50
+    max_items = 100
 
     # Only grab cards from the loop grid, not other posts rendered in
     # header/footer widgets.  data-elementor-type="loop-item" is the most
