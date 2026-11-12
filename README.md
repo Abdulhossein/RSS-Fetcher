@@ -12,13 +12,14 @@ Subscribe to the master feed or a category. Tables below are rewritten on every 
 | Feed | Items |
 |------|-------|
 | [all.xml][feed-all] | 800 |
-| [categories/chinese.xml][feed-cat-chinese] | 260 |
+| [categories/chinese.xml][feed-cat-chinese] | 300 |
 | [categories/english.xml][feed-cat-english] | 400 |
 | [categories/fitness.xml][feed-cat-fitness] | 320 |
 | [categories/happiness.xml][feed-cat-happiness] | 60 |
 | [categories/health.xml][feed-cat-health] | 380 |
-| [categories/lifestyle.xml][feed-cat-lifestyle] | 400 |
-| [categories/tech.xml][feed-cat-tech] | 260 |
+| [categories/lifestyle.xml][feed-cat-lifestyle] | 100 |
+| [categories/news.xml][feed-cat-news] | 100 |
+| [categories/tech.xml][feed-cat-tech] | 300 |
 <!-- AUTO:FEEDS:END -->
 
 ---
@@ -49,5 +50,6 @@ A GitHub Action regenerates feeds daily at 05:00 UTC.
 [feed-cat-happiness]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/happiness.xml
 [feed-cat-health]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/health.xml
 [feed-cat-lifestyle]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/lifestyle.xml
+[feed-cat-news]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/news.xml
 [feed-cat-tech]: https://raw.githubusercontent.com/Abdulhossein/RSS-Fetcher/refs/heads/main/feeds/categories/tech.xml
 <!-- AUTO:FEED-LINKS:END -->
