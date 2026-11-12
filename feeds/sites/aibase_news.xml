@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 12 Nov 2026 10:26:30 +0000</lastBuildDate>
-    <item>
-      <title>ChatGPT Hit by Widespread Mass Suspensions; Even $200 Pro Subscribers Were Not Spared</title>
-      <link>https://news.aibase.com/news/32158</link>
-      <description>Recently, multiple ChatGPT users, including $200 Pro subscribers, reported sudden account suspensions without notice, blocking access to important data and sparking concern over platform stability and data security.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32158</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202412271704353969_1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 09 Nov 2026 00:53:36 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
+    <lastBuildDate>Thu, 12 Nov 2026 13:29:23 +0000</lastBuildDate>
     <item>
       <title>MiniMax Founder Yan Junjie: Scaling Up Post-Training Through Extreme Efficiency Gains, Committed to Open Source Until AGI Is Achieved</title>
       <link>https://news.aibase.com/news/32159</link>
@@ -1205,6 +1193,18 @@
       <category>aibase_news</category>
       <enclosure url="https://pic.chinaz.com/picmap/thumb/201811151633428399_20.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 09:08:27 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Betting on Leading Tech Giants Pays Off Big: Dubai Billionaire Reveals Investments in OpenAI, SpaceX, and Anthropic Raked in Billions of Dollars</title>
+      <link>https://news.aibase.com/news/32286</link>
+      <description>Bloomberg reports Dubai billionaire Hussain Sajwani, founder of Damac Group, said at the Bloomberg Dubai Investment Forum that investing in just OpenAI, SpaceX and Anthropic has yielded billions in gains. Damac, rooted in Dubai real estate, is expanding into frontier tech, with early bets paying off.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32286</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/201901011927007229_9.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Nov 2026 10:05:11 +0000</pubDate>
       <dc:creator>AIBase</dc:creator>
     </item>
   </channel>

@@ -7,248 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 12 Nov 2026 10:27:25 +0000</lastBuildDate>
-    <item>
-      <title>Python 的切片到底切了什么：拆开 slice 对象、负步长和 __getitem__</title>
-      <link>https://juejin.cn/post/7706814430331666495</link>
-      <description>一句话结论：a[1:5:2] 里的 1:5:2 不是语法里的一段特殊记号，Python 会先在栈上造出一个 slice 对象，再把它整个交给 __getitem__。所以「切片怎么工作」这个问题，本质</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706814430331666495</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>Python</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/19c41b8790814d3d8c91723c4946b5f8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5bCP5bCP5byg6K-05pWF5LqL:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084045&amp;x-signature=siDhLh7uNgvkDAJeJfdx7EySkgU%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Nov 2026 01:19:00 +0000</pubDate>
-      <dc:creator>小小张说故事</dc:creator>
-    </item>
-    <item>
-      <title>设计一套生产级 API 接口：从契约、安全、幂等到限流，我踩过的坑都在这了</title>
-      <link>https://juejin.cn/post/7706830049752121398</link>
-      <description>上周帮朋友做模拟面试，被问到一道老牌场景题："如果让你从零设计一套对外开放的 API 接口，你会怎么做？" 这题几乎是大厂后端面试的必考题，但大部分人答不好——要么上来就堆 `@PostMappin</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706830049752121398</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>后端</category>
-      <category>面试</category>
-      <category>Java</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/71bc399e4b9a49e6af38d530bd4cc7a9~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUmFpbueahEphdmHlpKfnpZ7kuYvot68=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084045&amp;x-signature=EqY3ZfRDpUdBlkUPznkKsDlffGY%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Nov 2026 01:26:14 +0000</pubDate>
-      <dc:creator>Rain的Java大神之路</dc:creator>
-    </item>
-    <item>
-      <title>如何使用 Python 将 JSON 转换为 Excel</title>
-      <link>https://juejin.cn/post/7706814430331781183</link>
-      <description>Web 接口返回的数据、后台导出的报表以及配置文件和日志，很多都采用 JSON 格式。JSON 适合存储和传输数据，但如果需要逐条核对、筛选或汇总，直接查看文本就不太方便了。转换为 Excel 后，数</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706814430331781183</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>Python</category>
-      <category>Excel</category>
-      <category>juejin</category>
-      <pubDate>Thu, 12 Nov 2026 01:30:21 +0000</pubDate>
-      <dc:creator>用户033212666367</dc:creator>
-    </item>
-    <item>
-      <title>要人确认的那一步，在确认什么？</title>
-      <link>https://juejin.cn/post/7706812123427799049</link>
-      <description>要人确认的那一步，在确认什么？ ——一套审计"人的判断"的组织方法 一个团队里最常见的对话是："这个问题别猜，问一下老王。" 问老王当然对，当下的问题也确实解决了。但如果同一个问题每个月都要问一次老王</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706812123427799049</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>后端</category>
-      <category>juejin</category>
-      <pubDate>Thu, 12 Nov 2026 01:30:40 +0000</pubDate>
-      <dc:creator>回家路上绕了弯</dc:creator>
-    </item>
-    <item>
-      <title>零配置也能白嫖前沿大模型！dsh-our-free-model插件真香警告</title>
-      <link>https://juejin.cn/post/7706952180360724531</link>
-      <description>自行OpenCode的免费模型限流后，又要开始找一些可以白嫖的模型。之前分享过一个项目FreeLLMAPI，可以自动路由到可用的免费大模型，但是免费版的需要我们自行收集免费的模型</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706952180360724531</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>后端</category>
-      <category>Java</category>
-      <category>程序员</category>
-      <category>juejin</category>
-      <pubDate>Thu, 12 Nov 2026 01:38:07 +0000</pubDate>
-      <dc:creator>SimonKing</dc:creator>
-    </item>
-    <item>
-      <title>4 个 3D 游戏，总体积 3.82MB：拆解 Claude 的 one-shot 工程链路</title>
-      <link>https://juejin.cn/post/7706833656825004058</link>
-      <description>先看四个东西。 一个 1.42MB、自称「国产 3A」的 FPS，有标题页、任务简报、三处中继、机械敌人、行动评级和结算面板。 一个 862KB 的 CF 运输船，6v6，四把枪，四档难度，白天和黄昏</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706833656825004058</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>前端</category>
-      <category>AI编程</category>
-      <category>three.js</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/86542f15ad6e4c9f850461f054f37702~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6I6qX-W5u-WwmA==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084045&amp;x-signature=QpX%2FYXt97Ng5pRRyYxcq3%2BQZ2dA%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Nov 2026 01:43:09 +0000</pubDate>
-      <dc:creator>莪_幻尘</dc:creator>
-    </item>
-    <item>
-      <title>AI 把代码写得飞快，然后呢？聊聊我验收生成代码的一套流程</title>
-      <link>https://juejin.cn/post/7706833656825184282</link>
-      <description>AI 生成代码速度很快，但语法能跑、测试全绿不等于可以上线。本文分享一套后端代码验收流程：先核对业务需求，再审查 diff 变更，重点排查边界、性能与安全隐患，独立校验测试用例</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706833656825184282</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>程序员</category>
-      <category>人工智能</category>
-      <category>AI编程</category>
-      <category>juejin</category>
-      <pubDate>Thu, 12 Nov 2026 01:56:32 +0000</pubDate>
-      <dc:creator>挖掘狂人</dc:creator>
-    </item>
-    <item>
-      <title>仙人掌与沙丘的傍晚：用 Awaking 让侧光有了层次</title>
-      <link>https://juejin.cn/post/7706854569724952585</link>
-      <description>傍晚沙丘原图有侧光，却显得偏平。我用 Awaking「复古胶片色」正式导出一版，对照沙纹、仙人掌背光处和蓝天，说明何时值得保留这份反差。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706854569724952585</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>iOS</category>
-      <category>APP</category>
-      <category>产品</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d919c66bccaa448c9e94980230f1748a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6Iy25bqV5LiW55WM5LmL5LiL:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084045&amp;x-signature=CTxQAvcU94gK%2Bwdmzc7BEQqU5H8%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Nov 2026 01:57:54 +0000</pubDate>
-      <dc:creator>茶底世界之下</dc:creator>
-    </item>
-    <item>
-      <title>Flutter 3.50 &amp; Dart 3.14发布，一起看看有哪些变化！</title>
-      <link>https://juejin.cn/post/7706743522150596643</link>
-      <description>Flutter 3.50 &amp; Dart 3.14 新鲜出炉。 官方博客给这版起的副标题是 "Investing in Flutter's next decade"，口气不小。不过把更新内容翻完，我的感</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706743522150596643</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>前端</category>
-      <category>juejin</category>
-      <pubDate>Thu, 12 Nov 2026 01:58:05 +0000</pubDate>
-      <dc:creator>JarvanMo</dc:creator>
-    </item>
-    <item>
-      <title>Claude Fable 5.2 发布后，开发者该关注什么</title>
-      <link>https://juejin.cn/post/7706806274098528296</link>
-      <description>让 AI 写一个函数，我们已经知道该怎么配合。但如果任务变成“从空文件夹开始做一套操作系统”，这真的是我从来没想过的，我对AI的印象还只是停留在协助我写代码，做简单的事情。 Anthropic 在 2</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706806274098528296</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>程序员</category>
-      <category>AI编程</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/7c3ea5f6988b4db499d6709718ecfd66~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5YuH5a6d6Laj5a2m5YmN56uv:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084045&amp;x-signature=uJ4tiUqoWZsee%2FpvIyYldb0Uwag%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Nov 2026 02:07:56 +0000</pubDate>
-      <dc:creator>勇宝趣学前端</dc:creator>
-    </item>
-    <item>
-      <title>AlphaFeed 标的池（universes）全解：CN_Stock / CN_ETF 与权限边界</title>
-      <link>https://juejin.cn/post/7706854569725050889</link>
-      <description>一句话回答： af.quotes.get(universes="CN_Stock") 用「标的池」一次取回整池的实时快照，不用自己列代码。实测当前套餐下 CN_Stock（全 A，≈5578 行）与</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706854569725050889</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>Python</category>
-      <category>juejin</category>
-      <pubDate>Thu, 12 Nov 2026 02:02:37 +0000</pubDate>
-      <dc:creator>用户01902758161</dc:creator>
-    </item>
-    <item>
-      <title>千问生成的内容能否下载吗？</title>
-      <link>https://juejin.cn/post/7706830049752760374</link>
-      <description>千问生成的内容能否下载吗？ 结论前置：可以。但“下载”这个词在千问的语境下，存在至少三种截然不同的含义，而它们对应的体验差距，远比大多数人想象的要大。 如果你只是偶尔想把一两段对话存下来，千问网页端或</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706830049752760374</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>前端</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/fb98121291264c4eb121dca2b1bdd3d7~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQWlNYW4=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084045&amp;x-signature=a4y5xrk4%2B98dmgpt0R5z2ieH6VQ%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 12 Nov 2026 02:20:50 +0000</pubDate>
-      <dc:creator>AiMan</dc:creator>
-    </item>
-    <item>
-      <title>用 Python 自动化把 JavaScript 代码转换为 Word 文档</title>
-      <link>https://juejin.cn/post/7706814430332190783</link>
-      <description>用 Python 脚本将 JavaScript 代码自动转换为带语法高亮的 Word 文档，并分析实现细节、工程约束与适用边界。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706814430332190783</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>JavaScript</category>
-      <category>Python</category>
-      <category>API</category>
-      <category>juejin</category>
-      <pubDate>Thu, 12 Nov 2026 02:20:51 +0000</pubDate>
-      <dc:creator>缺点内向</dc:creator>
-    </item>
-    <item>
-      <title>2026年，你选的不再是框架，是渲染模型</title>
-      <link>https://juejin.cn/post/7706830049752825910</link>
-      <description>三年前有人问你“前端选什么”，答案大概率是React还是Vue。到了2026年，这个问题已经不太成立了。React 19、Vue 3.6、Svelte 5、Qwik 2、Astro 5、HTMX 2—</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706830049752825910</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>前端</category>
-      <category>juejin</category>
-      <pubDate>Thu, 12 Nov 2026 02:26:17 +0000</pubDate>
-      <dc:creator>涛涛ing</dc:creator>
-    </item>
-    <item>
-      <title>我手写的 Redis 锁，输给了 10 秒的 TTL</title>
-      <link>https://juejin.cn/post/7706801332413743146</link>
-      <description>我手写的 Redis 锁，输给了 10 秒的 TTL 场景很简单：自己比赛的项目里，发布游记接口要给用户加积分。为了防止同一用户刷接口重复加分，我按用户粒度加了一把 Redis 锁...</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706801332413743146</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>后端</category>
-      <category>架构</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8e70818cef054160bde6aa905d9aaad9~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQWJpbmc=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084045&amp;x-signature=0811w8bkzVsCM1n5IwNd4tl3eLc%3D" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Nov 2026 12:06:05 +0000</pubDate>
-      <dc:creator>Abing</dc:creator>
-    </item>
-    <item>
-      <title>同一个团队两套分包：DDD 四层落地后，domain 层最大的类还是 5885 行</title>
-      <link>https://juejin.cn/post/7706807603481788467</link>
-      <description>供应链中台 2650 个类按 DDD 四层切，基础档案服务 411 个类按 controller/service/mapper 切。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706807603481788467</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>后端</category>
-      <category>Java</category>
-      <category>领域驱动设计</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a269d4929c5443278fc684304ea9492c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55-l5a6I6KeC:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084045&amp;x-signature=fwJY5N8SIjJ7gSxLt6wS1bP%2B6Eg%3D" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Nov 2026 13:32:18 +0000</pubDate>
-      <dc:creator>知守观</dc:creator>
-    </item>
-    <item>
-      <title>DLX（Dancing Links）算法详解：求解数独最快的算法</title>
-      <link>https://juejin.cn/post/7706749533829693480</link>
-      <description>DLX（Dancing Links）用双向十字循环链表实现 Algorithm X，通常用于求解精确覆盖问题。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706749533829693480</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>算法</category>
-      <category>juejin</category>
-      <pubDate>Wed, 11 Nov 2026 14:36:31 +0000</pubDate>
-      <dc:creator>Oneshot</dc:creator>
-    </item>
-    <item>
-      <title>正则表达式完整参考手册（JavaScript 版，兼容绝大多数语言）</title>
-      <link>https://juejin.cn/post/7706908354652192803</link>
-      <description>说明：不同语言（Java/Python/.NET）少量语法有差异，标注【JS专属】【不支持JS】；前端 RegExp、String.match/replace/test 直接可用。......</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7706908354652192803</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>JavaScript</category>
-      <category>juejin</category>
-      <pubDate>Thu, 12 Nov 2026 02:16:59 +0000</pubDate>
-      <dc:creator>学以智用</dc:creator>
-    </item>
+    <lastBuildDate>Thu, 12 Nov 2026 13:30:24 +0000</lastBuildDate>
     <item>
       <title>Perplexity还是不可导出左侧所有对话，只能单条内容，方法不对吗</title>
       <link>https://juejin.cn/post/7706814430332305471</link>
@@ -258,7 +17,7 @@
       <category>tech</category>
       <category>前端</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/34c20299603c4e6282f841d6820e55ca~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQWlNYW4=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084045&amp;x-signature=EhNM6slnR16pioVSpYOA5Jgl3co%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/34c20299603c4e6282f841d6820e55ca~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQWlNYW4=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095024&amp;x-signature=nndY5iT4HlXvrJvP2d3XBOVl%2Brs%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 02:34:08 +0000</pubDate>
       <dc:creator>AiMan</dc:creator>
     </item>
@@ -286,7 +45,7 @@
       <category>LeakCanary</category>
       <category>性能优化</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/36f86c8b66a446ff8206053e5a50fe02~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56Kz5Z-6QWdlbnQ=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084044&amp;x-signature=t5qfdIYzJRFQkmCQU0dDSPEpWhI%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/36f86c8b66a446ff8206053e5a50fe02~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56Kz5Z-6QWdlbnQ=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095024&amp;x-signature=dzLJafAjFHI2Cqw1bTzo865m9gc%3D" length="0" type="image/jpeg"/>
       <pubDate>Wed, 11 Nov 2026 15:42:48 +0000</pubDate>
       <dc:creator>碳基Agent</dc:creator>
     </item>
@@ -301,7 +60,7 @@
       <category>深度学习</category>
       <category>Agent</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/924ba5a19ef84f4dbbb7da5af84c1987~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5q2m5a2Q5bq3:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084044&amp;x-signature=ZQmmGN4QPipzGs4pvbaZhl3JBkU%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/924ba5a19ef84f4dbbb7da5af84c1987~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5q2m5a2Q5bq3:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095024&amp;x-signature=dTba3IVe5t3Oyn3xkfU7jxgEoEM%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 02:41:29 +0000</pubDate>
       <dc:creator>武子康</dc:creator>
     </item>
@@ -315,7 +74,7 @@
       <category>游戏开发</category>
       <category>Unity3D</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b7437b4e24e1405da2b0506e35366b94~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgU21hbEJveA==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084044&amp;x-signature=7aaPgAbq3cb4qSb%2BNcQI60JloeI%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b7437b4e24e1405da2b0506e35366b94~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgU21hbEJveA==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095024&amp;x-signature=t5iA0WLm0daqpgnhvqS7iriiTDQ%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 02:50:19 +0000</pubDate>
       <dc:creator>SmalBox</dc:creator>
     </item>
@@ -389,7 +148,7 @@
       <category>tech</category>
       <category>Git</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6a1d3b4bad324207a698f05747c5928d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5YWJ6LCxU3BlY3RyQUk=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084044&amp;x-signature=1KauMGfvNN96j9DDd2tI32XAgXg%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6a1d3b4bad324207a698f05747c5928d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5YWJ6LCxU3BlY3RyQUk=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095024&amp;x-signature=0%2BRCEdTVws9ldm9xs4Gdeq5kS9M%3D" length="0" type="image/jpeg"/>
       <pubDate>Wed, 11 Nov 2026 11:25:26 +0000</pubDate>
       <dc:creator>光谱SpectrAI</dc:creator>
     </item>
@@ -430,7 +189,7 @@
       <category>AI编程</category>
       <category>Claude</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8eb293728ba1463f8505d4831a360ac5~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgWnpU:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084044&amp;x-signature=cmw7OTmvT6Q4nt8NucQ2iKjnVKs%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8eb293728ba1463f8505d4831a360ac5~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgWnpU:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095024&amp;x-signature=DchNqU05%2BlVKrCTYP3FrcaLmpC4%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 03:05:38 +0000</pubDate>
       <dc:creator>ZzT</dc:creator>
     </item>
@@ -457,7 +216,7 @@
       <category>数据分析</category>
       <category>运营</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/40851fefeffa4f4080de69f4102254f0~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR3Jvd2luZ0lP5oqA5pyv56S-5Yy6:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084044&amp;x-signature=9JDsZGUFGMUrSTsuEh%2B%2Fh14RSn8%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/40851fefeffa4f4080de69f4102254f0~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR3Jvd2luZ0lP5oqA5pyv56S-5Yy6:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095024&amp;x-signature=%2FCEx%2B%2BBaMKPPRYUmOpxw%2BM%2FQjEg%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 03:12:01 +0000</pubDate>
       <dc:creator>GrowingIO技术社区</dc:creator>
     </item>
@@ -484,7 +243,7 @@
       <category>大数据</category>
       <category>Agent</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a249b1efa3b54b7a89b4b0a4bac59410~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5q2m5a2Q5bq3:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084044&amp;x-signature=KVPUph43rR05umPHJK4%2BxVtLUic%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a249b1efa3b54b7a89b4b0a4bac59410~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5q2m5a2Q5bq3:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095024&amp;x-signature=NcDzYpVuoK0mB9QYGilqsUVXTbI%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 03:14:36 +0000</pubDate>
       <dc:creator>武子康</dc:creator>
     </item>
@@ -497,7 +256,7 @@
       <category>tech</category>
       <category>Agent</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/15cd36a2381d4a7391d7d7a2980f84c6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRU5DSQ==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084044&amp;x-signature=oW7e3abtr8BOy4Lcon8SiftS7zA%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/15cd36a2381d4a7391d7d7a2980f84c6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRU5DSQ==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095024&amp;x-signature=jrBZvXcJ1SfRSej1wAKoantyGLY%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 03:17:03 +0000</pubDate>
       <dc:creator>ENCI</dc:creator>
     </item>
@@ -524,7 +283,7 @@
       <category>PostgreSQL</category>
       <category>后端</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2320935d967a4adcafae26b39a6cf4ca~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5pWw5o2u5bqT5bCP5a2m5aa5:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084044&amp;x-signature=x5EZdYvleA8QpgR%2B6fvm1CJHDpg%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2320935d967a4adcafae26b39a6cf4ca~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5pWw5o2u5bqT5bCP5a2m5aa5:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095023&amp;x-signature=Cptfnx24h7VSUmGYAa1th76DAs8%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 02:05:38 +0000</pubDate>
       <dc:creator>数据库小学妹</dc:creator>
     </item>
@@ -537,7 +296,7 @@
       <category>tech</category>
       <category>MySQL</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/fa06c48e80414fcb85b57bbd79516ac1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgYWlrc195dWFu:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084044&amp;x-signature=mk0GiVnbou90w5QCxZ0HREumPlo%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/fa06c48e80414fcb85b57bbd79516ac1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgYWlrc195dWFu:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095023&amp;x-signature=Tu1fR2vKZ4An59iwc%2BBNNQNVf0U%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 02:15:59 +0000</pubDate>
       <dc:creator>aiks_yuan</dc:creator>
     </item>
@@ -550,7 +309,7 @@
       <category>tech</category>
       <category>Python</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f14568be9b9644f5810a3d4b5820f8dc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rKJ6buY5bCP566h:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=GEk9jF7xN6JMjzqIgUnMtaYhFPc%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f14568be9b9644f5810a3d4b5820f8dc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rKJ6buY5bCP566h:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095023&amp;x-signature=pGK9LIeZpku4RfwAP2smROQuKdc%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 03:27:45 +0000</pubDate>
       <dc:creator>沉默小管</dc:creator>
     </item>
@@ -575,7 +334,7 @@
       <category>tech</category>
       <category>Vue.js</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d70b6c03f408414596a7ddec1d1ea92f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgcnVhbm5vX3RvcA==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=zUcTjS6Xb7OGHlOpVGPcgfDb3so%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d70b6c03f408414596a7ddec1d1ea92f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgcnVhbm5vX3RvcA==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095023&amp;x-signature=Es65QqA9hDPmRlst37Gw9jjebsg%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 01:53:33 +0000</pubDate>
       <dc:creator>ruanno_top</dc:creator>
     </item>
@@ -601,7 +360,7 @@
       <category>tech</category>
       <category>前端</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/cae64e3273da4a579287242e7680c9bc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRU5DSQ==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=dvcsD6i1sEbCbkOBzQ2Ph%2BjLemA%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/cae64e3273da4a579287242e7680c9bc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRU5DSQ==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095023&amp;x-signature=IufFev1Jm1FPV57mW3tVTOBtvvA%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 03:47:58 +0000</pubDate>
       <dc:creator>ENCI</dc:creator>
     </item>
@@ -615,7 +374,7 @@
       <category>Python</category>
       <category>API</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6c2a5d504f7c45b993a66070fa256c64~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3OTU2MjU2MjU0Mjk=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=zCj77vYDLAgCfSm%2FHWLhqbq6VoI%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6c2a5d504f7c45b993a66070fa256c64~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3OTU2MjU2MjU0Mjk=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095023&amp;x-signature=KAEtWRDKoSVDQF7nuzaMnyidcvo%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 01:36:58 +0000</pubDate>
       <dc:creator>用户95625625429</dc:creator>
     </item>
@@ -628,7 +387,7 @@
       <category>tech</category>
       <category>Claude</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/02b8d69a62254c5ca8e9dd817f1592e2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgYWlrc195dWFu:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=Wwz8N%2B%2BihSMaWgRCuDQ0wknNChU%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/02b8d69a62254c5ca8e9dd817f1592e2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgYWlrc195dWFu:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095023&amp;x-signature=g4BxtjQ5iIMrY0tJ%2BpqLhQ5aQzw%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 02:14:47 +0000</pubDate>
       <dc:creator>aiks_yuan</dc:creator>
     </item>
@@ -682,7 +441,7 @@
       <category>单片机</category>
       <category>C语言</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/1d7f3994f2d34f369770e32914a52bc2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgWndhd2E=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=E6jRPaMlaiEkOsKoNIMO7QkKqwc%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/1d7f3994f2d34f369770e32914a52bc2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgWndhd2E=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095023&amp;x-signature=SEOYzBB34H539VggozBUYCgROE8%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 01:12:20 +0000</pubDate>
       <dc:creator>Zwawa</dc:creator>
     </item>
@@ -697,7 +456,7 @@
       <category>后端</category>
       <category>开源</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4c04e85b6e344db7a33368bde7d0d2ba~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgTW9tZW50:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=yE5tSLc8%2F%2B%2BJRmhFPz90%2F7xokw8%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4c04e85b6e344db7a33368bde7d0d2ba~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgTW9tZW50:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095023&amp;x-signature=6CASf7JE%2F3dU7oBdd8Gn4xY3280%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 03:33:08 +0000</pubDate>
       <dc:creator>Moment</dc:creator>
     </item>
@@ -724,7 +483,7 @@
       <category>产品</category>
       <category>开源</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/1f4228d9cb6445e7b2becc692a26fb4c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgU0xfc3RhZmY=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=GIJ8VGXNKT%2BSaZsQYZpWi80pXwg%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/1f4228d9cb6445e7b2becc692a26fb4c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgU0xfc3RhZmY=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095023&amp;x-signature=dNlfAYbCGdqBP%2BtKUG5XCdwXFJ8%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 05:34:32 +0000</pubDate>
       <dc:creator>SL_staff</dc:creator>
     </item>
@@ -737,7 +496,7 @@
       <category>tech</category>
       <category>Python</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/32d33ca5256c4f79a466f947430342b6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6YeP5YyW5YiG5p6Q56CB5Yac:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=HIEeNDfbvTrMIM4vt8OMmrmuo1A%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/32d33ca5256c4f79a466f947430342b6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6YeP5YyW5YiG5p6Q56CB5Yac:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095023&amp;x-signature=TfyBmmM7NMnMOobzVceZStK3lt0%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 06:01:30 +0000</pubDate>
       <dc:creator>量化分析码农</dc:creator>
     </item>
@@ -764,7 +523,7 @@
       <category>Python</category>
       <category>HarmonyOS</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3ee699bdb87f4dde81cad6e6cf10cbd8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5aiB5ZOl54ix57yW56iL:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=ln5zh1hAf0FVYc%2B2kYzMG2ls3T8%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3ee699bdb87f4dde81cad6e6cf10cbd8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5aiB5ZOl54ix57yW56iL:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095023&amp;x-signature=DEsHKNEjmCIzvxA8tHYkRewgUI4%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 06:17:05 +0000</pubDate>
       <dc:creator>威哥爱编程</dc:creator>
     </item>
@@ -779,7 +538,7 @@
       <category>Python</category>
       <category>HarmonyOS</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0090256fcbc54e918f87586249db0a0e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5aiB5ZOl54ix57yW56iL:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=83p2bGhwVRx595jYrnnOkCcx0vY%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0090256fcbc54e918f87586249db0a0e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5aiB5ZOl54ix57yW56iL:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095023&amp;x-signature=eCTnB%2FLbzG%2Flv%2B6Ni8mFyQ2Bcmg%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 06:16:41 +0000</pubDate>
       <dc:creator>威哥爱编程</dc:creator>
     </item>
@@ -805,7 +564,7 @@
       <category>算法</category>
       <category>人工智能</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e87c05b2827d497780820213d0e35d0a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Zyw5bmz57q_5byA5Y-R6ICF:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=Z2yQqGdr%2B9zPLHV%2F76hyy9axo%2BA%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e87c05b2827d497780820213d0e35d0a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Zyw5bmz57q_5byA5Y-R6ICF:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=%2Fw1NjWYEUYi7W3LVg3U2T%2BWDCnM%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 07:16:17 +0000</pubDate>
       <dc:creator>地平线开发者</dc:creator>
     </item>
@@ -833,7 +592,7 @@
       <category>数据库</category>
       <category>人工智能</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2822a1adc26e4cf0bbf9692aae4c1ef1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgVGFwZGF0YQ==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=f%2BKnnrviE6s0P7sgSBgLpRX9Y%2F4%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2822a1adc26e4cf0bbf9692aae4c1ef1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgVGFwZGF0YQ==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=nYGvw7IA8784NtoiZa3kXjkkqO4%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 07:23:26 +0000</pubDate>
       <dc:creator>Tapdata</dc:creator>
     </item>
@@ -846,7 +605,7 @@
       <category>tech</category>
       <category>DeepSeek</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/20378d9fa0674ac0b95155703a6fcf68~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5a6F5bCP5bm0:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=JC0wg%2BsZXqLB%2BWjigkdiCcdqrxQ%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/20378d9fa0674ac0b95155703a6fcf68~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5a6F5bCP5bm0:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=voZBdtunTdV0qfgmtkGgjvjjp5Y%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 07:27:11 +0000</pubDate>
       <dc:creator>宅小年</dc:creator>
     </item>
@@ -861,7 +620,7 @@
       <category>Agent</category>
       <category>LLM</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/92cac0cec5e54628a508dbec63291106~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rOv5rO3:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=K%2F5gppVcuRsuSb7JNI2x7NoZ4Gs%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/92cac0cec5e54628a508dbec63291106~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rOv5rO3:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=4sR9zkRzTGshSKA2BqsjXMAVif0%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 07:31:45 +0000</pubDate>
       <dc:creator>泯泷</dc:creator>
     </item>
@@ -914,7 +673,7 @@
       <category>开源</category>
       <category>全栈</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/dc162a94854e4a7fb42f4c2a4ff7d0b6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgU0xfc3RhZmY=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=dvYUNFQpmK5Fz5siLJUERDJYtzk%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/dc162a94854e4a7fb42f4c2a4ff7d0b6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgU0xfc3RhZmY=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=3aAWfHdfa4%2BkQ7aMUTPQlhrxQwE%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 07:54:23 +0000</pubDate>
       <dc:creator>SL_staff</dc:creator>
     </item>
@@ -929,7 +688,7 @@
       <category>AI编程</category>
       <category>人工智能</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8b074cef16184c89b3574bd7aa42ce9a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5a2f5YGlQUnnvJbnqIs=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=t8gJ0WDmU4gVvGbpTNjoAB4z2x4%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8b074cef16184c89b3574bd7aa42ce9a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5a2f5YGlQUnnvJbnqIs=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=VTTPznWFFXAE%2FNzleKV5eUkBNaY%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 07:56:40 +0000</pubDate>
       <dc:creator>孟健AI编程</dc:creator>
     </item>
@@ -956,7 +715,7 @@
       <category>tech</category>
       <category>Java</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4b27e41092ea40d1b0ebbea0e337836c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rW35bCU5pm65oWn5a625oqA5pyv5bmz5Y-w:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=MfKIwbveEJM7P54mjvFVwpdMRE8%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4b27e41092ea40d1b0ebbea0e337836c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rW35bCU5pm65oWn5a625oqA5pyv5bmz5Y-w:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=19F1fVAEyaf9P%2FOyT9y7fghcJjA%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 08:13:28 +0000</pubDate>
       <dc:creator>海尔智慧家技术平台</dc:creator>
     </item>
@@ -1018,7 +777,7 @@
       <category>Java</category>
       <category>低代码</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/28238a42387345398af24e313e71a9dc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgU0xfc3RhZmY=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084043&amp;x-signature=zGxId3l%2B%2FYYWursH8kADTJRkPeY%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/28238a42387345398af24e313e71a9dc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgU0xfc3RhZmY=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=T3SYPw54m59pxUY%2Bc2lgyrd6WBA%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 08:47:40 +0000</pubDate>
       <dc:creator>SL_staff</dc:creator>
     </item>
@@ -1084,7 +843,7 @@
       <category>tech</category>
       <category>人工智能</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3e50a97898134002b8403ff76d8842b0~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgc2hlbmdqazE=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084041&amp;x-signature=p8xiUHyDgAqx4Sm7Uqg9AXQzOEc%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3e50a97898134002b8403ff76d8842b0~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgc2hlbmdqazE=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=ODFqxXi9fAjiAXhSnhIZAspM1IQ%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 09:18:11 +0000</pubDate>
       <dc:creator>shengjk1</dc:creator>
     </item>
@@ -1110,7 +869,7 @@
       <category>tech</category>
       <category>Redis</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0660b699df014c64b8a3d7e53080b96a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56CB5ZOl5a2X6IqC:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084041&amp;x-signature=X0jO3aOQXqJyCURzLmPAfHRXYK8%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0660b699df014c64b8a3d7e53080b96a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56CB5ZOl5a2X6IqC:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=tmMNOcb1POU%2BlhJ6ECsngkFfaDs%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 09:22:08 +0000</pubDate>
       <dc:creator>码哥字节</dc:creator>
     </item>
@@ -1123,7 +882,7 @@
       <category>tech</category>
       <category>前端</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/282c348fd7984107b741d2cb32bbf5cf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgbW9zaHV5aW5n:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084041&amp;x-signature=3HHqgX8bQGpEjpjF2FeCtZo2ugI%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/282c348fd7984107b741d2cb32bbf5cf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgbW9zaHV5aW5n:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=hzC%2BmLf547hk94uRCt6ZrEFGHjg%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 09:27:08 +0000</pubDate>
       <dc:creator>moshuying</dc:creator>
     </item>
@@ -1148,7 +907,7 @@
       <category>tech</category>
       <category>数据库</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d2e9c7d83e764d9c880e0fac066ef11d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6L-Z5LiqREJB5pyJ54K56IC2:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084041&amp;x-signature=cptSxzWJgvqcOR3kR02bP9%2BWG7A%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d2e9c7d83e764d9c880e0fac066ef11d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6L-Z5LiqREJB5pyJ54K56IC2:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=yIJ4tuRVZx1wQqCOAoan2SZlEJM%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 09:38:56 +0000</pubDate>
       <dc:creator>这个DBA有点耶</dc:creator>
     </item>
@@ -1173,7 +932,7 @@
       <category>tech</category>
       <category>后端</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/72f29eabbda54c528603aff5ad5e309c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5bCP6Zuo55qEQUnkuK3lj7DnrJTorrA=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084041&amp;x-signature=tc0neTNDugk75%2B7nPg%2FVNgznt5I%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/72f29eabbda54c528603aff5ad5e309c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5bCP6Zuo55qEQUnkuK3lj7DnrJTorrA=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=ADsNLUvV%2BRjyfLJC7MjFswb%2F1r8%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 05:10:38 +0000</pubDate>
       <dc:creator>小雨的AI中台笔记</dc:creator>
     </item>
@@ -1198,7 +957,7 @@
       <category>tech</category>
       <category>后端</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/415c44576b1947c2aa12e6b803071bfe~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6buD6Iqi6Lyd:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084041&amp;x-signature=xr2YWfBzBDWbB2DoFV7cHcgzRF4%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/415c44576b1947c2aa12e6b803071bfe~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6buD6Iqi6Lyd:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=WFilqxr2ApOBGZVgj9jm%2BfCFynQ%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 07:00:43 +0000</pubDate>
       <dc:creator>黃芢輝</dc:creator>
     </item>
@@ -1226,7 +985,7 @@
       <category>AI编程</category>
       <category>VibeCoding</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/526307311f254f3baed6827136ac9556~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rKJ6buY546L5LqM:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084041&amp;x-signature=A1Lfta1UZWMuGbKJZ%2FgoD7bxXtg%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/526307311f254f3baed6827136ac9556~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rKJ6buY546L5LqM:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=1uK%2FEVkgIgSglIWqRmFGRjER4xw%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 10:00:52 +0000</pubDate>
       <dc:creator>沉默王二</dc:creator>
     </item>
@@ -1239,7 +998,7 @@
       <category>tech</category>
       <category>前端</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6daf68393fc44b5fb1b7220df7ec4360~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi36ICB5p2O:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084041&amp;x-signature=cK6FwkiCdkbBz4t%2BmKE%2BJgzcNUo%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6daf68393fc44b5fb1b7220df7ec4360~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi36ICB5p2O:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=a9DYp7LES8fqWTVH3q3xYEYoh50%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 08:17:39 +0000</pubDate>
       <dc:creator>用户老李</dc:creator>
     </item>
@@ -1253,7 +1012,7 @@
       <category>Node.js</category>
       <category>SEO</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/547361a363654698bfebc65eac86ef7a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rKJ6buY5bCP566h:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084041&amp;x-signature=N%2FjnRUGz0SnC0PkHS1wgjkheth0%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/547361a363654698bfebc65eac86ef7a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rKJ6buY5bCP566h:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=1Bj8%2BWT6Aag6JAo9TAV4vtkxWkE%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 07:45:51 +0000</pubDate>
       <dc:creator>沉默小管</dc:creator>
     </item>
@@ -1281,7 +1040,7 @@
       <category>JavaScript</category>
       <category>前端</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/300afe16475043249426cf1935fcd771~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aOO5Y2_:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084041&amp;x-signature=CIWcWwmNKTJsMc%2BX0c%2Bm1KpnBLs%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/300afe16475043249426cf1935fcd771~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aOO5Y2_:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=1%2BjVmkWEy%2FniwNtQWwqJ6zYdenQ%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 08:49:24 +0000</pubDate>
       <dc:creator>风卿</dc:creator>
     </item>
@@ -1305,7 +1064,7 @@
       <category>tech</category>
       <category>前端</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d4946473550746b780c3856412a497bf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3NzYxMDMwNDQ3Mzcx:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084041&amp;x-signature=HPLh6MWoa%2BvKnSOKPZcSAU8m7%2BE%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d4946473550746b780c3856412a497bf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3NzYxMDMwNDQ3Mzcx:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095021&amp;x-signature=HlHSBMdP5ULVwZhvvkf7kq6pIJE%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 09:36:14 +0000</pubDate>
       <dc:creator>用户761030447371</dc:creator>
     </item>
@@ -1332,9 +1091,252 @@
       <category>tech</category>
       <category>大数据</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/be3c981ae1964518afd3307dfa8d9f76~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5aSn5aSn5aSn5aSn5pm05aSp:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795084041&amp;x-signature=WXgnDqSfqd5gCgy2vjKeKS2iacs%3D" length="0" type="image/jpeg"/>
+      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/be3c981ae1964518afd3307dfa8d9f76~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5aSn5aSn5aSn5aSn5pm05aSp:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095019&amp;x-signature=0YlqFwEAFpy66jT3uwQCft5I%2FKw%3D" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 10:23:16 +0000</pubDate>
       <dc:creator>大大大大晴天</dc:creator>
+    </item>
+    <item>
+      <title>Vue的watch把我坑惨了，原来要这样用才靠谱</title>
+      <link>https://juejin.cn/post/7707147434674290703</link>
+      <description>上周凌晨两点，我在紧急修复一个线上事故：用户的订单状态明明变了，但页面死活不更新。最后发现是 监听了一个嵌套对象的属性，而我的写法触发了 Vue 的响应式陷阱。如果你也曾在 里写过 或者监听过动</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707147434674290703</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>后端</category>
+      <category>前端</category>
+      <category>人工智能</category>
+      <category>juejin</category>
+      <pubDate>Thu, 12 Nov 2026 10:30:42 +0000</pubDate>
+      <dc:creator>阿橙的百宝箱</dc:creator>
+    </item>
+    <item>
+      <title>iOS 远程推送全链路拆解：从 deviceToken 到多账号绑定</title>
+      <link>https://juejin.cn/post/7707086870924902400</link>
+      <description>苹果把「通道」和「展示」拆成了两个独立子系统：registerForRemoteNotifications 负责通道（token），requestAuthorization 负责展示（横幅）。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707086870924902400</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>iOS</category>
+      <category>APP</category>
+      <category>juejin</category>
+      <pubDate>Thu, 12 Nov 2026 05:29:58 +0000</pubDate>
+      <dc:creator>kango</dc:creator>
+    </item>
+    <item>
+      <title>DeepSeek Harness 原来还是我们熟悉的 Webpack 和中间件模型</title>
+      <link>https://juejin.cn/post/7707127617358757942</link>
+      <description>我以为要重新学一套东西 第一次打开 DeepSeek Harness（下称 DSH）的源码，我做好了心理准备——Agent 框架嘛，应该是一堆模型调用、提示词工程、向量检索，跟我写 React 的日常</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707127617358757942</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>DeepSeek</category>
+      <category>Agent</category>
+      <category>AI编程</category>
+      <category>juejin</category>
+      <pubDate>Thu, 12 Nov 2026 09:08:04 +0000</pubDate>
+      <dc:creator>_砖家</dc:creator>
+    </item>
+    <item>
+      <title>我用 Go 和 AI 做了一个 macOS 磁盘清理工具：Vole（开源）</title>
+      <link>https://juejin.cn/post/7706912573577642022</link>
+      <description>起因：Mac 的磁盘又满了 做开发的 Mac 用不了多久，磁盘就会被各种缓存塞满：Xcode 的编译产物、模拟器、node_modules、uv / pip / Go 的包缓存、各种 Electron</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7706912573577642022</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Go</category>
+      <category>juejin</category>
+      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8eb1c08e65824df086364121ad843b14~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5aSn54S2Unlhbg==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095019&amp;x-signature=n66iEwGcQ%2BOcoJKj1FZhOShnEcA%3D" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Nov 2026 04:40:53 +0000</pubDate>
+      <dc:creator>大然Ryan</dc:creator>
+    </item>
+    <item>
+      <title>阳台小花园开发手记 04｜HarmonyOS 7.0 互动卡片：倾斜手机时的卡片效果</title>
+      <link>https://juejin.cn/post/7707109094007996466</link>
+      <description>1. 前言 上一篇为叶片留出了卡片边框外的空间，并让花盆继续留在原位。现在可以给瓢虫增加一点动作：点击花盆，等它从叶后探出来，轻轻倾斜手机，让它沿叶片走动。 这个动作包含一个容易忽略的预期。当手停下来</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707109094007996466</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>HarmonyOS</category>
+      <category>华为</category>
+      <category>juejin</category>
+      <pubDate>Thu, 12 Nov 2026 07:17:02 +0000</pubDate>
+      <dc:creator>KevinChaos</dc:creator>
+    </item>
+    <item>
+      <title>股票API 日线、周线、月线与分钟级返回结构差异：一份统一解析代码</title>
+      <link>https://juejin.cn/post/7707100499276218410</link>
+      <description>股票API 日线、周线、月线与分钟级返回结构差异：一份统一解析代码 一、问题：同一套解析代码，换个周期就崩 写行情数据处理脚本时，一个很常见的起点是：先把日线拉下来，用 for row in data</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707100499276218410</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>人工智能</category>
+      <category>juejin</category>
+      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/491c7994b09541f5a64ed437e993e1a8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6YeP5YyW5YiG5p6Q56CB5Yac:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095019&amp;x-signature=oinjmuxGLis%2BbrY67yH8Rd2EwbA%3D" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Nov 2026 10:38:50 +0000</pubDate>
+      <dc:creator>量化分析码农</dc:creator>
+    </item>
+    <item>
+      <title>CANviz 使用指南｜Linux 安装、DBC 解码、实时曲线与 J1939 实战</title>
+      <link>https://juejin.cn/post/7707106296344559625</link>
+      <description>1. 为什么需要 CANviz 刚接上设备时,用 candump 抓到一条报文 123#112233603B000000，知道第 4、5 个字节是转速，手算一次并不难。同一个 ID 如果每秒发几十次，</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707106296344559625</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Python</category>
+      <category>Linux</category>
+      <category>WebSocket</category>
+      <category>juejin</category>
+      <pubDate>Thu, 12 Nov 2026 08:31:22 +0000</pubDate>
+      <dc:creator>刘马想放假</dc:creator>
+    </item>
+    <item>
+      <title>MCP隔离层+行级语义审计+输出校验：AI访问数据库的安全边界拆解</title>
+      <link>https://juejin.cn/post/7707127617359609910</link>
+      <description>KES AI数据库的库内生安全管控，核心不是“把数据锁在库里”，而是用MCP协议隔离层让AI永远不持有数据库凭据，用行级控制+语义审计让每一次AI访问可追溯、可分级、可阻断。本文拆解这层安全边界的工程</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707127617359609910</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>数据库</category>
+      <category>人工智能</category>
+      <category>AI编程</category>
+      <category>juejin</category>
+      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/356d5ad3770f4ea29f65d6f65469b2e1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6L-Z5LiqREJB5pyJ54K56IC2:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095019&amp;x-signature=IIihKrSqx%2FrBP%2BOEEpDdpMLenAE%3D" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Nov 2026 10:48:30 +0000</pubDate>
+      <dc:creator>这个DBA有点耶</dc:creator>
+    </item>
+    <item>
+      <title>让变更流出 Doris：Apache Doris 5.0 基于增量计算的 CDC 技术解析</title>
+      <link>https://juejin.cn/post/7707163856813080586</link>
+      <description>导读：Apache Doris 5.0 增量计算预告（2）｜CDC 技术解析篇：上一篇从场景出发，介绍了 Doris 5.0 增量计算的整体能力；这一篇聚焦 Changelog，介绍如何将 Doris</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707163856813080586</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>数据库</category>
+      <category>juejin</category>
+      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e3dfe6bf847044ef88c320b3c342b1b0~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgU2VsZWN0REI=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095019&amp;x-signature=%2B8bEG%2FcwSDmS7dOgsPkwf%2BJ1Iso%3D" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Nov 2026 10:55:01 +0000</pubDate>
+      <dc:creator>SelectDB</dc:creator>
+    </item>
+    <item>
+      <title>轮播每 3 秒自己翻页：键盘停不下来，读屏也不知道换了页</title>
+      <link>https://juejin.cn/post/7707143341481197622</link>
+      <description>自动播放的轮播图，没有暂停键：焦点放在箭头上它照样每 3 秒翻页，读屏也没有播报。补暂停按钮、aria-live 双态与减少动效判断后，14 条真机断言全过。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707143341481197622</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Vue.js</category>
+      <category>juejin</category>
+      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/62ef479262c7400c85deb79eac7da1a9~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgcnVhbm5vX3RvcA==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095019&amp;x-signature=95OqoLW3bHi9C6s7fPKHR20YmHk%3D" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Nov 2026 10:45:02 +0000</pubDate>
+      <dc:creator>ruanno_top</dc:creator>
+    </item>
+    <item>
+      <title>一个 == 让优惠券发错：编码规范在防什么，以及我为什么在 CR 里破过阿里的规矩</title>
+      <link>https://juejin.cn/post/7707151816106295347</link>
+      <description>为什么公司一直强调编码规范，然而小伙伴们仍旧任性各自为政，出了问题，结果大家都甩锅，然后发现真正没有遵守编码规范，导致一系列问题</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707151816106295347</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>代码规范</category>
+      <category>全栈</category>
+      <category>阿里巴巴</category>
+      <category>juejin</category>
+      <pubDate>Thu, 12 Nov 2026 10:49:39 +0000</pubDate>
+      <dc:creator>疯华整猫</dc:creator>
+    </item>
+    <item>
+      <title>Meta 开源用了八年的设计系统 astryx：连坐两天 GitHub 总榜第一，组件库开始写给 agent 的说明书</title>
+      <link>https://juejin.cn/post/7707184266060300322</link>
+      <description>一个设计系统连续两天坐在 GitHub 总榜第一，这件事本身就值得停下来看一眼。2026 年 11 月 11 日 meta/astryx 拿下榜首，11 月 12 日它还在。Trends MCP 的快</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707184266060300322</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>前端</category>
+      <category>人工智能</category>
+      <category>juejin</category>
+      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d2d80261a06a486db3c3811ab88615dd~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rex6JOdQUk=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095019&amp;x-signature=44R4JQKTUuiEO%2Bwupqcw%2BN9lls8%3D" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Nov 2026 11:27:52 +0000</pubDate>
+      <dc:creator>深蓝AI</dc:creator>
+    </item>
+    <item>
+      <title>Gemini Decisions API 来了：一次前向打分取代逐字解码，校准误差 0.0250 才是 agent 分支调用的真门槛</title>
+      <link>https://juejin.cn/post/7707128656846815266</link>
+      <description>大多数 agent 里那些看起来不起眼的小判断，其实是整条链路里最贵的一段。要不要调用这个工具、这句话该走哪个模型、这段上下文够不够格进 prompt、这条工单算不算紧急，每一个都要单独问一次大模型，</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707128656846815266</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>后端</category>
+      <category>人工智能</category>
+      <category>juejin</category>
+      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/128cc4f45d3c4f999e24e7c4902405b2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rex6JOdQUk=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095019&amp;x-signature=Fh6QdWvSA7d4qAuSZkO6OvMdrrU%3D" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Nov 2026 11:38:17 +0000</pubDate>
+      <dc:creator>深蓝AI</dc:creator>
+    </item>
+    <item>
+      <title>离谱，AI 大佬顺手搓了个 YouTube ，而我顺手给他搓了个中文插件</title>
+      <link>https://juejin.cn/post/7707194766859124787</link>
+      <description>what ？？？ 某社交平台知名大佬 Andrej Karpathy 发帖称，由于他受不了 youtube 的推荐算法。 所以花了两个小时直接用 Opus 5.5 手搓了一个复刻版 youtube 出</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707194766859124787</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>后端</category>
+      <category>程序员</category>
+      <category>人工智能</category>
+      <category>juejin</category>
+      <pubDate>Thu, 12 Nov 2026 11:54:35 +0000</pubDate>
+      <dc:creator>cxuanAI</dc:creator>
+    </item>
+    <item>
+      <title>如何在5分钟之内创建Grok Bot的超级团队</title>
+      <link>https://juejin.cn/post/7707163799597776939</link>
+      <description>最近Grok Bot挺火，老金以前也推过。 这次给Grok Bot充了点值，真上手试了试，眼前一亮。 他们在前段时间更改了套餐，这个套餐包含Grok、Grok Bot、Cursor和X这四项权益，他们</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707163799597776939</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>人工智能</category>
+      <category>juejin</category>
+      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/61e234e8d6bb4d09858119599b74517a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ICB6YeR5bim5L2g546pQUk=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095019&amp;x-signature=GNNP%2B7KVabo2Fp8Rt2zuDuVQYHA%3D" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Nov 2026 12:24:06 +0000</pubDate>
+      <dc:creator>老金带你玩AI</dc:creator>
+    </item>
+    <item>
+      <title>面试官问你：“AI 能写 80% 的代码了，公司为什么还需要你？”</title>
+      <link>https://juejin.cn/post/7707191707507130377</link>
+      <description>面试官问你：“AI 能写 80% 的代码了，公司为什么还需要你？” 这道题，在 2026 年 11 月又有了新含义 “AI 能写 80% 的代码了，公司为什么还需要你？” 这句话如果出现在面试里，它考</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707191707507130377</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>AI编程</category>
+      <category>juejin</category>
+      <pubDate>Thu, 12 Nov 2026 12:28:40 +0000</pubDate>
+      <dc:creator>怕浪猫</dc:creator>
+    </item>
+    <item>
+      <title>涨薪 50% 怎么做到的？</title>
+      <link>https://juejin.cn/post/7707116602841120831</link>
+      <description>是这样的，最近一位球友报喜，之前做后端，被优化，经过两三个月的 AI 沉浸式学习，然后疯狂投简历，找工作，终于最近找到了一份满意的 AI 应用开发工作，涨薪 50%，各方面很满意，这是真实发生的事。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707116602841120831</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>AIGC</category>
+      <category>人工智能</category>
+      <category>面试</category>
+      <category>juejin</category>
+      <pubDate>Thu, 12 Nov 2026 12:56:47 +0000</pubDate>
+      <dc:creator>stormzhangV</dc:creator>
+    </item>
+    <item>
+      <title>Hono 4 多库多模型服务的企业级 Monorepo 目录结构：npm workspaces 与 Turborepo 该怎么分层</title>
+      <link>https://juejin.cn/post/7707143341481558070</link>
+      <description>Monorepo 目录别按技术名词分，要按「谁依赖谁、谁一起变」分。四层单向依赖 apps→features→adapters→core，四库七模型全收 adapter，附零依赖分层校验器卡进 CI。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7707143341481558070</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>TypeScript</category>
+      <category>juejin</category>
+      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4db5c6aa2c1f4c5ea8f1181871df0b08~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRU5DSQ==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795095019&amp;x-signature=BLhNbXWwBde74PJXNNoryqhEopg%3D" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Nov 2026 13:12:34 +0000</pubDate>
+      <dc:creator>ENCI</dc:creator>
     </item>
   </channel>
 </rss>
