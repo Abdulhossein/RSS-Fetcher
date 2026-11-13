@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 13 Nov 2026 08:56:52 +0000</lastBuildDate>
-    <item>
-      <title>MiniMax Increases Investment in Large Model Industry: New Technology Company Established in Hengqin, Zhuhai with Registered Capital of 5 Million</title>
-      <link>https://news.aibase.com/news/32197</link>
-      <description>MiniMax has established Zhuhai Xiyu Jizhi Technology Co., Ltd., with Yan Yijun as legal representative and RMB5 million registered capital. Focused on full-stack AI software and hardware, it advances MiniMax's strategic layout in South China. More details pending.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32197</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202501150943267809_0.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 10 Nov 2026 01:39:43 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Disney Partners with Adobe to Develop Proprietary AI Models, Expanding Across Theme Parks, Film/TV and Sports Businesses</title>
-      <link>https://news.aibase.com/news/32198</link>
-      <description>Disney and Adobe have entered a multi-year strategic partnership to jointly develop customized generative AI models tailored to Disney's businesses, and will gradually introduce AI tools into areas such as theme parks, film and television production, and sports media, exploring content creation, project development, and user engagement. In the initial phase of the collaboration, the focus will be on accelerating project development for Disney Experiences, which operates theme parks, resorts, and cruise line businesses worldwide; the two sides will also continue to use AI technology to advance related applications.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32198</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/202307061550005544_0.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 10 Nov 2026 01:43:10 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Your Ultimate Gaming Companion Is Online: Tencent's First AI Game Companion Agent Eciyuan Opens Closed Beta</title>
-      <link>https://news.aibase.com/news/32199</link>
-      <description>Tencent has officially kicked off the Yuanqi first test of Eciyuan, its first exclusive AI game companion Agent. Targeting PC players, the product focuses on real-time companionship in gaming scenarios, marking Tencent's substantive move into the vertical field of game AI interaction and anthropomorphic companionship. Its core technology is real-time screen-based game scene perception; the AI can read and understand game scenes and provide instant Q&amp;A support for players' questions. The original text did not elaborate on its functional ecosystem.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32199</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://upload.chinaz.com/2026/1110/6392990181021528634027091.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 10 Nov 2026 02:04:00 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 12:45:53 +0000</lastBuildDate>
     <item>
       <title>Qwen4 Benchmark Scores Outperform Opus 5.5, Extremely High Cost-Effectiveness Shows Strong Competitiveness</title>
       <link>https://news.aibase.com/news/32200</link>
@@ -1205,6 +1169,41 @@
       <category>aibase_news</category>
       <enclosure url="https://upload.chinaz.com/2026/1113/6393018452316774591424004.png" length="0" type="image/png"/>
       <pubDate>Fri, 13 Nov 2026 08:38:40 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Tencent Hunyuan unveils real-time voice model Hy Realtime: it can chat, sing, and search the internet on its own</title>
+      <link>https://news.aibase.com/news/32320</link>
+      <description>Tencent Hunyuan has released a brand-new real-time voice model, Hy Realtime. Focusing on real-time performance, it excels in basic conversational capabilities such as speech understanding, instruction following, and human-like expression, and newly adds Agentic tool calling and singing capabilities. It upgrades from simple responses to executable tasks and is closer to real human conversation. The model has been applied to products such as Yuanbao voice calls and Tencent Customer Service.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32320</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <pubDate>Fri, 13 Nov 2026 09:07:16 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Nvidia Employees Launch Campaign to Retain Jensen Huang; Internal Poll Shows Over 97% Support His Staying On</title>
+      <link>https://news.aibase.com/news/32321</link>
+      <description>WIRED reports that Nvidia employees spontaneously launched a campaign to retain Jensen Huang. An internal poll shows that more than 97% of participants want Jensen Huang to continue serving as CEO, and several employees have asked the board to reconsider related personnel decisions. A senior engineer posted through the internal suggestion box, calling on the board to fully consider employee opinions before taking action. The post received more than 1,600 comments, and many employees support Jensen Huang and hope he returns.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32321</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 13 Nov 2026 09:29:46 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Yufei International Chinese Language Education Vertical Large Model Released: Deeply Integrating Professional Teaching Scenarios to Provide Intelligent Services for Global Teachers, Students, and Institutions</title>
+      <link>https://news.aibase.com/news/32322</link>
+      <description>The integration of artificial intelligence and vertical fields is advancing in depth. According to CCTV News, the 2026 World Chinese Language Conference opened in Beijing on November 13, where the Yufei International Chinese Language Education Vertical Large Model was released. This model serves Chinese language learners, frontline teachers, and educational institutions worldwide, providing comprehensive intelligent services, deeply adapting to the entire teaching and learning chain, covering three core groups, and promoting the deep integration of AI with the actual needs of international Chinese language education.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32322</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202305091556160776_8.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 13 Nov 2026 09:48:54 +0000</pubDate>
       <dc:creator>AIBase</dc:creator>
     </item>
   </channel>
