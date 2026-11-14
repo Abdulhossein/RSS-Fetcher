@@ -7,22 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 12:46:02 +0000</lastBuildDate>
-    <item>
-      <title>How Sprouting Unlocks Longevity Nutrients</title>
-      <link>https://drhyman.com/blogs/content/how-sprouting-unlocks-longevity-nutrients</link>
-      <description>8 min read · Diet &amp; Nutrition · Longevity</description>
-      <guid isPermaLink="true">https://drhyman.com/blogs/content/how-sprouting-unlocks-longevity-nutrients</guid>
-      <category>English</category>
-      <category>health</category>
-      <category>fitness</category>
-      <category>Diet &amp; Nutrition</category>
-      <category>Longevity</category>
-      <category>drhyman_content</category>
-      <enclosure url="https://drhyman.com/cdn/shop/articles/sprout_lj.png?v=1779467463&amp;width=533" length="0" type="image/png"/>
-      <pubDate>Sun, 24 May 2026 20:00:02 +0000</pubDate>
-      <dc:creator>Mark Hyman, MD</dc:creator>
-    </item>
+    <lastBuildDate>Sat, 14 Nov 2026 11:54:20 +0000</lastBuildDate>
     <item>
       <title>Office Hours: 66% of Women Aren’t Prepared for Menopause—Here’s What to Know</title>
       <link>https://drhyman.com/blogs/content/podcast-ep1144</link>
@@ -1504,6 +1489,20 @@
       <category>drhyman_content</category>
       <enclosure url="https://drhyman.com/cdn/shop/articles/If_Your_Body_Does_THIS_Your_Cells_Could_Be_Failing_And_You_d_Never_Know_2.png?v=1794412814&amp;width=533" length="0" type="image/png"/>
       <pubDate>Wed, 11 Nov 2026 16:00:19 +0000</pubDate>
+      <dc:creator>Mark Hyman, MD</dc:creator>
+    </item>
+    <item>
+      <title>Kombu and Mushroom Broth</title>
+      <link>https://drhyman.com/blogs/content/kombu-and-mushroom-broth</link>
+      <description>Recipes</description>
+      <guid isPermaLink="true">https://drhyman.com/blogs/content/kombu-and-mushroom-broth</guid>
+      <category>English</category>
+      <category>health</category>
+      <category>fitness</category>
+      <category>Recipes</category>
+      <category>drhyman_content</category>
+      <enclosure url="https://drhyman.com/cdn/shop/articles/MK_Kombu.png?v=1794594625&amp;width=533" length="0" type="image/png"/>
+      <pubDate>Sat, 14 Nov 2026 01:25:03 +0000</pubDate>
       <dc:creator>Mark Hyman, MD</dc:creator>
     </item>
   </channel>

@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 13 Nov 2026 12:45:53 +0000</lastBuildDate>
-    <item>
-      <title>Qwen4 Benchmark Scores Outperform Opus 5.5, Extremely High Cost-Effectiveness Shows Strong Competitiveness</title>
-      <link>https://news.aibase.com/news/32200</link>
-      <description>In a new wave of domestic AI large model releases, Alibaba's Qwen4 series is the first to demonstrate strong technical strength. Leaked benchmark data shows that it performed impressively on the GameFeel Bench benchmark, which evaluates creativity in game development, with some metrics surpassing the top overseas model Opus5.5, becoming the first domestic large model to overtake it in this benchmark. Its core benchmark scores beat overseas rivals, and its locally deployed version is also closely catching up with the mainstream.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32200</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202504151007244729_5.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 10 Nov 2026 02:11:18 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
+    <lastBuildDate>Sat, 14 Nov 2026 11:54:09 +0000</lastBuildDate>
     <item>
       <title>Putting Emergency Brakes on Runaway AI Agents: OpenAI's 35-Second Circuit Breaker Mechanism Goes Live</title>
       <link>https://news.aibase.com/news/32201</link>
@@ -1204,6 +1192,18 @@
       <category>aibase_news</category>
       <enclosure url="https://pic.chinaz.com/picmap/thumb/202305091556160776_8.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 13 Nov 2026 09:48:54 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Exercise, diet, and daily routine can all cause blood glucose fluctuations; Qwen connects to continuous glucose monitors and launches "Analyze My Blood Glucose Status"</title>
+      <link>https://news.aibase.com/news/32323</link>
+      <description>On November 14, Qwen App's "Health Records" launched continuous glucose monitor integration. After users authorize connection, they can sync blood glucose data 24/7, view blood glucose curves, time-segmented readings, and daily overviews; Qwen can also analyze blood glucose changes based on personal factors such as diet, exercise, and daily routine, providing health insights such as "staying up late causes elevated blood glucose" and "short-term peaks may be related to emotional fluctuations," and can explain the upward trend in evening blood glucose in scenarios such as strength training.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32323</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1114/6393026418147003977352040.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 06:43:49 +0000</pubDate>
       <dc:creator>AIBase</dc:creator>
     </item>
   </channel>
