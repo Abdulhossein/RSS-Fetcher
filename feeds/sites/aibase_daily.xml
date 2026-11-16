@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 15 Nov 2026 12:25:39 +0000</lastBuildDate>
-    <item>
-      <title>AI Daily: Unexpected Exposure of OpenAI's New Flagship GPT-5.6; Kunlun Wanwei Releases Tianshi SkyClaw-v1.0; Alibaba's Qwen3.7-Max Ranks Second Globally in Programming Ability</title>
-      <link>https://news.aibase.com/daily/28347</link>
-      <description>Welcome to the [AI Daily] column! This is your guide to exploring the world of artificial intelligence every day. Every day, we present you with the latest content in the AI field, focusing on developers, helping you grasp technological trends and understand innovative AI product applications. Click to learn more about new AI products: https://app.aibase.com/zh1. Context of 1.5 million tokens! Alipay has also launched a global AI payment solution, supporting the development of the AI business ecosystem.</description>
-      <guid isPermaLink="true">https://news.aibase.com/daily/28347</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_daily</category>
-      <enclosure url="https://upload.chinaz.com/2026/0526/6391538368103032928448162.png" length="0" type="image/png"/>
-      <pubDate>Tue, 26 May 2026 07:45:24 +0000</pubDate>
-      <dc:creator>站长之家</dc:creator>
-    </item>
+    <lastBuildDate>Mon, 16 Nov 2026 13:16:57 +0000</lastBuildDate>
     <item>
       <title>AI Daily: Xiaomi MiMo-V2.5 Series API Permanently Reduced in Price; Qwen Upgrades Photo-based Health Inquiry; Doubao Will Disable Question-Answering by Taking Photos</title>
       <link>https://news.aibase.com/daily/28387</link>
@@ -1206,6 +1194,18 @@
       <enclosure url="https://pic.chinaz.com/picmap/202606031122196331_0.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 13 Nov 2026 08:56:02 +0000</pubDate>
       <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: DeepSeek limits usage due to insufficient compute; Alibaba Qwen releases Qwen4-Max; Tencent Hunyuan releases Hy4flash model; Doubao App launches store-finding feature</title>
+      <link>https://news.aibase.com/daily/32342</link>
+      <description>AI Daily focuses daily on AI hotspots, technology trends, and innovative product applications. This issue highlights: Doubao App launches its "Find a Store" feature; merchants can mark locations on maps in batches, and users can complete store finding, price comparison, group-buy ordering, and one-click navigation within AI chat, forming a closed loop. Doubao integrates map layers into AI chat, consolidating the process from information acquisition to in-store consumption in a single interface and shortening the consumption path.</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/32342</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://upload.chinaz.com/2026/1116/6393043555004248562833377.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Nov 2026 09:12:45 +0000</pubDate>
+      <dc:creator>AIbase基地</dc:creator>
     </item>
   </channel>
 </rss>
