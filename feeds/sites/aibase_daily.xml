@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:16:57 +0000</lastBuildDate>
-    <item>
-      <title>AI Daily: Xiaomi MiMo-V2.5 Series API Permanently Reduced in Price; Qwen Upgrades Photo-based Health Inquiry; Doubao Will Disable Question-Answering by Taking Photos</title>
-      <link>https://news.aibase.com/daily/28387</link>
-      <description>Welcome to the [AI Daily] section! This is your guide to exploring the world of artificial intelligence every day. Every day, we present you with the latest content in the AI field, focusing on developers, helping you understand technical trends and innovative AI product applications. Discover new AI products: https://app.aibase.com/zh1. The Xiaomi MiMo-V2.5 Series API has been permanently reduced in price, with a maximum discount of 99%, and the billing system has also been optimized.</description>
-      <guid isPermaLink="true">https://news.aibase.com/daily/28387</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_daily</category>
-      <enclosure url="https://upload.chinaz.com/2026/0527/6391546834111904848401306.png" length="0" type="image/png"/>
-      <pubDate>Wed, 27 May 2026 07:48:10 +0000</pubDate>
-      <dc:creator>站长之家</dc:creator>
-    </item>
+    <lastBuildDate>Tue, 17 Nov 2026 14:02:50 +0000</lastBuildDate>
     <item>
       <title>AI Daily: Xiaomi Launches Recruitment Agent; Tencent Releases AI Creation Platform Craft; Douyin Crackdowns on AIGC Violations in Live Streaming Sales</title>
       <link>https://news.aibase.com/daily/28434</link>
@@ -1205,6 +1193,18 @@
       <category>aibase_daily</category>
       <enclosure url="https://upload.chinaz.com/2026/1116/6393043555004248562833377.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 16 Nov 2026 09:12:45 +0000</pubDate>
+      <dc:creator>AIbase基地</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Gemini Notebook Launches Website Generation Feature; Anthropic to Impose Strict Stock Sale Restrictions on Employees; Apple Smart Glasses Prototype Leaked</title>
+      <link>https://news.aibase.com/daily/32359</link>
+      <description>This issue of AI Daily rounds up AI hot topics, developer trends, and innovative applications. The top story is Sam Altman responding to Jensen Huang's departure, saying NVIDIA and the AI industry will be fine, aiming to stabilize market expectations and emphasizing that AI demand and revenue have not been affected by the personnel turmoil; it also combines NVIDIA's hundred-billion-dollar-scale guarantee for OpenAI data centers, demonstrating industry confidence.</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/32359</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/thumb/2026/1117/26111704370311764296.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 08:37:07 +0000</pubDate>
       <dc:creator>AIbase基地</dc:creator>
     </item>
   </channel>

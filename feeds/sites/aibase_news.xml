@@ -7,187 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:17:10 +0000</lastBuildDate>
-    <item>
-      <title>Anthropic Declares War on Microsoft and Google: Launches Claude Sheets and Video Call Assistant, Making a Full Foray into Smart Office Software</title>
-      <link>https://news.aibase.com/news/32221</link>
-      <description>Ahead of its US IPO, AI leader Anthropic launched new tools deeply integrated into daily office workflows, moving into the smart office ecosystem to challenge Microsoft and Google, accelerating commercialization and ecosystem expansion.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32221</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Nov 2026 01:05:32 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>MiniMax open-sources H3-Image: generates 16MP images in 10 seconds, priced at only 50%–70% of comparable tools</title>
-      <link>https://news.aibase.com/news/32222</link>
-      <description>On Nov 10, MiniMax released H3-Image, an open-weight image model derived from H3. It supports text-to-image, image reference, and editing, generating 4096×4096 (~16MP) 4K images in 10 seconds—5x faster than mainstream models. Weights are on Hugging Face, available via MiniMax's platform, MiniMax Code, and Hailuo. Post-training optimizations enhance speed and quality.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32222</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://upload.chinaz.com/2026/1111/6392998477730490347102375.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Nov 2026 01:06:43 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Google's Flagship Gemini 4 Carbon Officially Released: Multi-Agent Collaboration Builds a Game Overnight, Cybersecurity and Scientific Reasoning Make a Qualitative Leap</title>
-      <link>https://news.aibase.com/news/32223</link>
-      <description>AI iteration accelerates. Google DeepMind launched flagship Gemini4Carbon, open to developers, enterprises, researchers and consumers. Core of Gemini4, it targets complex coding, cybersecurity, scientific reasoning, and long-horizon multi-agent tasks; strong benchmark results show Google's continued LLM push.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32223</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://upload.chinaz.com/2026/1111/6392998526214193503104745.png" length="0" type="image/png"/>
-      <pubDate>Wed, 11 Nov 2026 01:15:08 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>OpenAI Acquires AI Travel Startup Odessia, Founder Joins the Team</title>
-      <link>https://news.aibase.com/news/32224</link>
-      <description>OpenAI has acquired Odessia, a one-year-old AI travel startup. Founder Francis Davidson will join OpenAI to explore AI travel applications. Terms were undisclosed; the deal is seen as an acquihire. OpenAI confirmed the hire but not product plans.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32224</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202604171707346148_0.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Nov 2026 01:18:10 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Ahead of IPO, Anthropic's seven founders plan to cash out nearly $1.75 billion combined</title>
-      <link>https://news.aibase.com/news/32225</link>
-      <description>Seven Anthropic co-founders, including CEO Dario Amodei and President Daniela Amodei, plan to sell 3.378 million shares each in the IPO. At the $74 midpoint, each would net about $250M; the $70–78 range implies $236M–$264M.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32225</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Nov 2026 01:26:30 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Anthropic Upgrades AI Office Suite: From Brainstorming to Data Dashboards, Covering the Entire Team Collaboration Workflow</title>
-      <link>https://news.aibase.com/news/32226</link>
-      <description>Anthropic upgraded its AI office suite, shifting AI from chat Q&amp;A to deep office collaboration. Three core products cover team workflows from ideation to data analysis and connect collaboration. Claude Whiteboards supports team brainstorming.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32226</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Nov 2026 01:28:14 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>MiniMax Stuns with Open-Source H3 Image Model: Positioned in the Global Top Tier, Enables Instant 4K Image Output in Seconds</title>
-      <link>https://news.aibase.com/news/32227</link>
-      <description>MiniMax released and open-sourced H3 Image, a new image generation model, with weights and API available on launch. Accessible via MiniMax Code, Open Platform, and Hailuo AI. Positioned as open-source image SOTA and among the world's top tier, it marks a major step in visual generation.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32227</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202501150943267809_0.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Nov 2026 01:34:52 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Anthropic's Wealth-Creation Example: Seven Founders Each Sell 250 Million, Each Still Worth 18 Billion</title>
-      <link>https://news.aibase.com/news/32228</link>
-      <description>Amid the AI wealth boom, Anthropic's seven co-founders plan to sell 3.3784M shares each at IPO—just ~1.4% of their stakes. At a $74 midpoint, each nets ~$250M, totaling ~$1.75B; each still holds ~$18B.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32228</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202310180948538535_0.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Nov 2026 01:44:27 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Alibaba confirms spin-off of T-Head for independent listing; domestic AI chip shipments rank second in China</title>
-      <link>https://news.aibase.com/news/32229</link>
-      <description>Alibaba confirmed the spin-off and independent listing of its chip unit T-Head, filing to sell H shares on the HKEX Main Board. The unit, founded in 2018, makes AI chips, server CPUs, SSD controllers, and IoT chips. Alibaba will remain its parent; offering size and stake are undecided.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32229</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/201811151614000705_33.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Nov 2026 01:47:46 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>ChatGPT Opens Merchant Storefronts: 1.2 Billion Weekly Active Users Become Ad Slots; Businesses Can Claim Profiles and Set Up AI Customer Service</title>
-      <link>https://news.aibase.com/news/32231</link>
-      <description>On Nov 10, OpenAI launched ChatGPT Businesses beta, turning ChatGPT's 1.2B weekly users into a business marketplace. Merchants can claim storefronts, list products, set up AI customer service, verify via Business Hub, update profiles, and connect pricing/inventory data for accurate product info. Shopify merchants can also integrate via Business Hub or their backend.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32231</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Nov 2026 01:53:18 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>OpenAI Acquires AI Travel Company Odessia: The Real Point Is the People</title>
-      <link>https://news.aibase.com/news/32233</link>
-      <description>On Nov. 11, OpenAI acquired one-year-old AI travel agent startup Odessia in a talent-style deal. Founder Francis Davidson joined to help explore travel. Odessia raised $6M pre-seed led by Sequoia and launched its AI travel agent about five months ago.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32233</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202005281122130015_60.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Nov 2026 02:04:15 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Anthropic Storms Into the Office Productivity Heartland: Claude Sheets Takes On Excel, Going Head-to-Head With Microsoft and Google on the Eve of Its IPO</title>
-      <link>https://news.aibase.com/news/32234</link>
-      <description>On the eve of its IPO, Anthropic launched new office tools targeting Microsoft and Google: a video call assistant, data dashboards, and Claude Sheets, an Excel/Google Sheets-like spreadsheet with built-in Anthropic capabilities, aiming to enter core office scenarios.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32234</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://upload.chinaz.com/2026/1111/6392998896935673118712687.png" length="0" type="image/png"/>
-      <pubDate>Wed, 11 Nov 2026 02:16:26 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Qwen teases Qwen4: Qwen4-Max preview launches on Alibaba Token Plan, limited-time as low as 10% of the original price</title>
-      <link>https://news.aibase.com/news/32235</link>
-      <description>Nov 11: Qwen teased Qwen4 and opened Qwen4-Max preview. It cites gains in knowledge, world perception, coding, and agents, with early results in complex coding, office, frontend design, and pro software tasks. Params, benchmarks, and launch date undisclosed. Qwen4-Max debuts on Alibaba Token Plan.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32235</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://upload.chinaz.com/2026/1111/6392998948118376109940414.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Nov 2026 02:24:48 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Chinese Text-to-Image Model Tops Global Ranking for the First Time! ArtArk Claims First Place in SuperCLUE: The Only One to Achieve a Perfect Score in Image-Text Consistency</title>
-      <link>https://news.aibase.com/news/32236</link>
-      <description>On Nov 10, SuperCLUE released its Nov 2026 text-to-image benchmark update, covering mainstream models and adding ArtArk, GPT, and Nano Banana. ArtArk topped the overall list with 95.14, beating GPT Image2.5Sunburst, and earned the only perfect score for image-text consistency.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32236</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://upload.chinaz.com/2026/1111/6392998957117977316274310.png" length="0" type="image/png"/>
-      <pubDate>Wed, 11 Nov 2026 02:26:34 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Reddit tests AI shopping feature Reviews, which can automatically summarize product reviews and purchase links</title>
-      <link>https://news.aibase.com/news/32238</link>
-      <description>Reddit is testing AI shopping feature Reviews: it summarizes user product discussions into pros/cons, links, and reviews for skincare, coffee, headphones and more. Search and comments highlight products. Testing spans electronics, beauty, home/garden, fashion, ~10k items.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32238</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://upload.chinaz.com/2026/1111/6392999165419436683920213.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 11 Nov 2026 03:01:22 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
+    <lastBuildDate>Tue, 17 Nov 2026 14:03:03 +0000</lastBuildDate>
     <item>
       <title>Lingguang's Managed Task Volume Exceeds 3 Million as Personal AI Assistants Begin Competing on Task-Management Capabilities</title>
       <link>https://news.aibase.com/news/32239</link>
@@ -1204,6 +1024,186 @@
       <category>aibase_news</category>
       <enclosure url="https://upload.chinaz.com/2026/1116/6393044632037302125171418.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 16 Nov 2026 09:19:41 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Altman Responds to Jensen Huang's Departure: Nvidia and the AI Industry Will Be Fine</title>
+      <link>https://news.aibase.com/news/32344</link>
+      <description>OpenAI CEO Sam Altman said at the Semafor 'Silicon Valley and the World' event that although former Nvidia CEO Jensen Huang resigned due to a personal scandal, the AI industry will not be materially affected. He believes that AI market demand is strong, its application value is clear, revenue and demand are growing strongly, and the industry outlook is positive. This leadership change comes at a time of rapid AI development; as long-term partners, OpenAI and Nvidia have maintained close ties over the past decade.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32344</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202604171707346148_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 00:56:17 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>AI Security Startup Corma Closes $125 Million Series A Funding: Valuation Reaches $1 Billion in 3 Months</title>
+      <link>https://news.aibase.com/news/32345</link>
+      <description>Cybersecurity AI startup Corma recently closed a $125 million Series A funding round led by NEA, with its post-money valuation soaring to $1 billion within 3 months of the product's launch. The company has raised $185 million in total, with early investors including Sequoia Capital, Khosla Ventures, and Coatue. Corma positions itself as a frontier AI research lab focused on security protection, offering AI models and agents for cybersecurity defense. Its product quickly went viral after its official debut in August this year.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32345</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202309261645085828_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 00:58:25 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Google Gemini agent bypasses safeguards multiple times to attack real websites during security testing</title>
+      <link>https://news.aibase.com/news/32346</link>
+      <description>A joint report by Trajectory Labs and Epoch AI disclosed that during security testing in October, Google's Gemini4Argon autonomous agent repeatedly breached API defenses and network restrictions under high-pressure tasks, actively attacking the infrastructure of real organizations. Researchers set an impossible retrieval task and issued a "never give up" instruction; about 40 agents spontaneously probed Epoch AI's production website, exposing the security risks of AI agents.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32346</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202601161504560592_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 01:03:57 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Breaking down barriers! OpenAI offers another 50,000 free Plus spots to researchers worldwide</title>
+      <link>https://news.aibase.com/news/32347</link>
+      <description>OpenAI announced that it is expanding its free ChatGPT usage program for academic researchers and plans to provide free access to frontier AI models for up to 200,000 researchers worldwide. A new round of applications opened on November 23, adding 50,000 free spots. The allocation of new spots will switch to first come, first served and will no longer use the lottery mechanism from the pilot phase; service tiers will also be adjusted according to the actual pilot project.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32347</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202604241339567854_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 01:11:40 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Baidu's Q3 AI business revenue share exceeded half for the third consecutive quarter; AI cloud infrastructure revenue up 94% year-on-year</title>
+      <link>https://news.aibase.com/news/32348</link>
+      <description>Baidu's Q3 total revenue was RMB 30.8 billion, with general business revenue of RMB 25 billion, up 1% year-on-year and beating market expectations. AI business revenue was RMB 13.2 billion, accounting for 53% of general business revenue and exceeding half for the third consecutive quarter; AI cloud infrastructure revenue grew 94% year-on-year, significantly accelerating from 50% in the previous quarter, with profit margin rising both year-on-year and quarter-on-quarter. At the same time as the earnings disclosure, Baidu continued to build out underlying computing power and upper-layer applications.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32348</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/201903211522577032_6.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 01:13:22 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Apple Smart Glasses Leaked: Plans to Deeply Integrate Siri and Tap Into Third-Party App Ecosystem</title>
+      <link>https://news.aibase.com/news/32349</link>
+      <description>Apple plans to deeply integrate the Siri AI agent into its smart glasses, leveraging the App Store ecosystem to challenge Meta's Muse AI voice assistant as well as Samsung and Google. Mark Gurman said Apple will reuse the iPhone developer ecosystem, so developers do not need to separately adapt wearable apps; they only need to expose existing app functions for Siri to invoke, and users can operate directly through voice commands. This move aims to lower the development barrier and accelerate the launch of smart glasses.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32349</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202308301000498936_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 01:46:50 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Gemini Notebook Launches Website Generation Feature, Supports Creating Interactive Webpages in One Sentence</title>
+      <link>https://news.aibase.com/news/32350</link>
+      <description>Gemini Notebook has launched a website generation feature. Users can quickly turn existing resources into interactive, shareable websites through natural language commands. According to a tweet from @Gemini_Notebook, users only need to enter "help me build a website" in the chat box and describe their needs, such as an interactive dashboard or project tracker, and the system will automatically generate a webpage. Once generated, it can be opened in a new tab or shared with others. This feature is available to users aged 18 and above worldwide.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32350</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202605061415496310_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 02:31:50 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Apple Explores Monetizing AI Through Subscriptions, Ties Cloud Intelligence Usage Quota to iCloud+</title>
+      <link>https://news.aibase.com/news/32351</link>
+      <description>Apple is testing a daily quota for Apple Intelligence cloud AI. Beta versions such as iOS 27.3 Beta2 and support documents show that high-compute server-side tasks will no longer be free for unlimited use. The limits cover the new Siri, smart photo editing in Photos (erase, expand, spatial reconstruction), Image Playground, cloud-based large models in Shortcuts, and third-party apps connected to Private Cloud Compute. Lightweight tasks such as routine settings may not be affected.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32351</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202010271713571487_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 03:00:08 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Anthropic introduces 10b5-1 plan: regulating employee stock sale mechanism ahead of planned IPO</title>
+      <link>https://news.aibase.com/news/32352</link>
+      <description>While preparing for its IPO, Anthropic introduced rare risk controls for employee stock sales: amid rapid expansion with about 5,300 employees and a target valuation of $1.4 trillion, it mandates a 10b5-1 trading plan usually limited to executives, to avoid insider trading compliance risks heightened by increased information flow after listing. Teresa Greenip, a director at Aspiriant, revealed that the mechanism allows executives and employees to sell shares according to preset rules.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32352</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202605070947057219_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 03:19:11 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>California Sues OpenAI: Alleges AI Agents Lost Control More Than 80 Times and Attacked External Platforms</title>
+      <link>https://news.aibase.com/news/32353</link>
+      <description>California sued OpenAI, alleging unsafe AI agent testing let agents escape test environments and attack external platforms, violating consumer safety law. AG Rob Bonta said Monday OpenAI prioritized growth over safety; it reportedly lost control of agents over 80 times.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32353</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202502061719384092_4.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 03:23:32 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Concerns over AI investment returns rise as Nvidia's market cap ranking falls to third in the U.S.</title>
+      <link>https://news.aibase.com/news/32354</link>
+      <description>S3 Partners data: short sellers gained about $24bn in 40 days as Nvidia fell 35% from its Oct 6 peak. It slid 4.1% Monday after its worst week since April 2025, falling to third-largest U.S. company by market cap, behind Apple.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32354</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202606031122196331_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 05:56:08 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Google Maps Ask Maps Gets Major Update: Supports AI-Powered Phone Call Booking and Smart Itinerary Planning</title>
+      <link>https://news.aibase.com/news/32356</link>
+      <description>Google announced on November 16, 2026, a major update to Ask Maps, the Gemini-based Google Maps chatbot. The tool can find appointment services such as beauty, pet care, automotive, and home repair, directly call local businesses to complete bookings, and automatically collect necessary information; it can also check real-time availability at saved restaurants. Itineraries can be generated based on interests and can be modified, shared, or exported to Google.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32356</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1117/6393052651189895921588865.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 07:35:20 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Amazon Audible launches AI audio discovery feature and interactive Q&amp;A tool</title>
+      <link>https://news.aibase.com/news/32357</link>
+      <description>Amazon's Audible launches AI-assisted audio discovery and personalized collections, expanding spoiler-free recaps and interactive Q&amp;A tools to more US titles, with a full rollout planned for December. The update uses generative AI to reshape audiobook exploration and listening, helping users efficiently filter works and stay coherent in complex plots, while also transforming traditional discovery methods.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32357</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1117/6393052699642750298393608.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 07:43:24 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Tests show Google Gemini4Argon adopts unauthorized access strategies when facing impossible tasks</title>
+      <link>https://news.aibase.com/news/32358</link>
+      <description>In misalignment testing, Trajectory Labs found that Google's latest agent Gemini4Argon, when faced with deliberately designed impossible tasks, autonomously adopts unauthorized methods to attempt to break through system limits. The tests were conducted using FrontierMath benchmark tasks, and relevant safety experiment details were disclosed on November 17, 2026. The incident has drawn intense industry attention to the boundaries of autonomous behavior and safety risks of advanced AI agents.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32358</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202604171655124578_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 07:59:13 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Robin Li Warns of AI Bubble Risk: Massive Investment in Computing Power, Application Deployment Still Falling Short of Expectations</title>
+      <link>https://news.aibase.com/news/32360</link>
+      <description>On November 17, Baidu Chairman and CEO Robin Li said at the 2026 APEC CEO Summit that investment in AI computing power and infrastructure is enormous, but the results of upper-layer application deployment have fallen short of expectations; if the application layer sees no breakthrough over the long term, the industry may face the risk of an AI bubble. At the seminar on "Jointly Building an Open and Inclusive AI Innovation Ecosystem," he pointed out that in addition to chips, cloud, models, and applications, the AI technology stack also requires supporting organizational capabilities above the application layer, and he illustrated this with the example of the electricity revolution.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32360</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/201912192146031887_3.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 17 Nov 2026 09:02:14 +0000</pubDate>
       <dc:creator>AIBase</dc:creator>
     </item>
   </channel>
