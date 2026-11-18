@@ -11,12 +11,12 @@ Subscribe to the master feed or a category. Tables below are rewritten on every 
 <!-- AUTO:FEEDS:START -->
 | Feed | Items |
 |------|-------|
-| [all.xml][feed-all] | 800 |
+| [all.xml][feed-all] | 780 |
 | [categories/chinese.xml][feed-cat-chinese] | 300 |
 | [categories/english.xml][feed-cat-english] | 400 |
-| [categories/fitness.xml][feed-cat-fitness] | 320 |
+| [categories/fitness.xml][feed-cat-fitness] | 220 |
 | [categories/happiness.xml][feed-cat-happiness] | 60 |
-| [categories/health.xml][feed-cat-health] | 380 |
+| [categories/health.xml][feed-cat-health] | 280 |
 | [categories/lifestyle.xml][feed-cat-lifestyle] | 100 |
 | [categories/news.xml][feed-cat-news] | 100 |
 | [categories/tech.xml][feed-cat-tech] | 300 |

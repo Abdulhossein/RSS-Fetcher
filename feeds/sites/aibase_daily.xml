@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:02:50 +0000</lastBuildDate>
-    <item>
-      <title>AI Daily: Xiaomi Launches Recruitment Agent; Tencent Releases AI Creation Platform Craft; Douyin Crackdowns on AIGC Violations in Live Streaming Sales</title>
-      <link>https://news.aibase.com/daily/28434</link>
-      <description>Welcome to the [AI Daily] column! This is your guide to exploring the world of artificial intelligence every day. Each day, we present you with the latest content in the AI field, focusing on developers, helping you understand technology trends and innovative AI product applications. Click to learn more about new AI products: https://app.aibase.com/zh1, Xiaomi Launches Recruitment Agent: Based on the xiaomimimo large model, it supports accurate resume matching and campus recruitment consultation. The launch of Xiaomi's recruitment agent marks a significant step in its application of AI technology.</description>
-      <guid isPermaLink="true">https://news.aibase.com/daily/28434</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_daily</category>
-      <enclosure url="https://upload.chinaz.com/2026/0528/6391557470078676972540434.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 28 May 2026 08:32:31 +0000</pubDate>
-      <dc:creator>站长之家</dc:creator>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 13:42:01 +0000</lastBuildDate>
     <item>
       <title>AI Daily: Claude Opus 4.8 Launches; Xiaohongshu PC Version Launches AI Search Assistant Dian Dian; Jieyu Star Open Sources Step 3.7 Flash Large Model</title>
       <link>https://news.aibase.com/daily/28479</link>
@@ -1206,6 +1194,18 @@
       <enclosure url="https://pic.chinaz.com/thumb/2026/1117/26111704370311764296.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 17 Nov 2026 08:37:07 +0000</pubDate>
       <dc:creator>AIbase基地</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Tencent open-sources Hy4 flash; Microsoft releases image model MAI Image 2.7; OpenAI officially announces GPT-6.2 Astra and Sol</title>
+      <link>https://news.aibase.com/daily/32384</link>
+      <description>Welcome to the [AI Daily] column! This is your daily guide to exploring the world of artificial intelligence. Every day we present trending topics in the AI field, focusing on developers, helping you understand technology trends and learn about innovative AI product applications. Click to learn about new AI products: https://app.aibase.com/zh1. Tencent has open-sourced Hy4flash: a 224B large model placed on GitHub, available for everyone to download. Tencent Hunyuan enters open source with cost-effectiveness, and Hy4flash's 224B sparse architecture only</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/32384</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://upload.chinaz.com/2026/1118/6393061303550504992194639.png" length="0" type="image/png"/>
+      <pubDate>Wed, 18 Nov 2026 08:13:49 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
     </item>
   </channel>
 </rss>
