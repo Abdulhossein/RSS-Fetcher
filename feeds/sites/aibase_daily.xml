@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 18 Nov 2026 16:02:16 +0000</lastBuildDate>
-    <item>
-      <title>AI Daily: Claude Opus 4.8 Launches; Xiaohongshu PC Version Launches AI Search Assistant Dian Dian; Jieyu Star Open Sources Step 3.7 Flash Large Model</title>
-      <link>https://news.aibase.com/daily/28479</link>
-      <description>Welcome to the [AI Daily] section! Here is your guide to explore the world of artificial intelligence every day. Every day, we present you with the latest content in the AI field, focusing on developers, helping you understand technological trends and innovative AI product applications. Click to learn more about new AI products: https://app.aibase.com/zh1. Outperforms GPT-5.5! Hy-Memory performs excellently on multiple test sets, significantly improving memory density and processing efficiency, and provides various configurations to meet different needs.</description>
-      <guid isPermaLink="true">https://news.aibase.com/daily/28479</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_daily</category>
-      <enclosure url="https://pic.chinaz.com/picmap/202502061719377307_3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 29 May 2026 08:28:06 +0000</pubDate>
-      <dc:creator>站长之家</dc:creator>
-    </item>
+    <lastBuildDate>Thu, 19 Nov 2026 14:03:05 +0000</lastBuildDate>
     <item>
       <title>AI Daily: MiniMax Launches M3 Large Model; NVIDIA's Physical Large Model Cosmos3 Released; Xiaohongshu Has Removed Over 1.2 Million AI-Managed Accounts</title>
       <link>https://news.aibase.com/daily/28525</link>
@@ -1205,6 +1193,18 @@
       <category>aibase_daily</category>
       <enclosure url="https://upload.chinaz.com/2026/1118/6393061303550504992194639.png" length="0" type="image/png"/>
       <pubDate>Wed, 18 Nov 2026 08:13:49 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: Volcano Engine Launches SeedRealtime 1.0 API; Tencent Sharply Cuts Yuanbao Investment; OpenAI's First AI Hardware May Ship by Year-End</title>
+      <link>https://news.aibase.com/daily/32414</link>
+      <description>Welcome to the [AI Daily] column! This is your daily guide to exploring the world of artificial intelligence. Every day we present trending topics in the AI field, focusing on developers, helping you gain insight into technology trends and learn about innovative AI product applications. For fresh AI products, click to learn more: https://app.aibase.com/zh1. 1. Volcano Engine launches the Doubao real-time audio and video call model SeedRealtime1.0 API. Volcano Engine officially launches the Doubao real-time audio and video call model SeedRealtime1</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/32414</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202609031357441837_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 19 Nov 2026 08:47:14 +0000</pubDate>
       <dc:creator>站长之家</dc:creator>
     </item>
   </channel>

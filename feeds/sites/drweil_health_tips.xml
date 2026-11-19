@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 16:03:16 +0000</lastBuildDate>
-    <item>
-      <title>Keep Yourself Healthy By Eating More Fruits And Veggies</title>
-      <link>https://www.drweil.com/blog/health-tips/keep-yourself-healthy-by-eating-more-fruits-and-veggies/</link>
-      <description>Want to help keep your body running smoothly? Eat more and a wide variety of vegetables and…</description>
-      <guid isPermaLink="true">https://www.drweil.com/blog/health-tips/keep-yourself-healthy-by-eating-more-fruits-and-veggies/</guid>
-      <category>English</category>
-      <category>health</category>
-      <category>fitness</category>
-      <category>Health Tips</category>
-      <category>drweil_health_tips</category>
-      <enclosure url="https://www.drweil.com/wp-content/uploads/2017/11/blog_health-tips_Help-Keep-Yourself-Healthy-By-Eating-More-Of-These-Inexpensive-Foods_94048159-600x450.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    </item>
+    <lastBuildDate>Thu, 19 Nov 2026 14:04:01 +0000</lastBuildDate>
     <item>
       <title>5 Supplements That Support Healthy Vision</title>
       <link>https://www.drweil.com/blog/health-tips/5-supplements-that-support-healthy-vision/</link>
@@ -823,7 +809,7 @@
     <item>
       <title>5 Things that May be Keeping You Awake (and how to address them)</title>
       <link>https://www.drweil.com/blog/health-tips/5-things-that-may-be-keeping-you-awake-and-how-to-address-them/</link>
-      <description>5 Things that May be Keeping You Awake (and how to address them)</description>
+      <description>When you’re lying awake at night, tossing and turning, all you can think is, “Why can’t…</description>
       <guid isPermaLink="true">https://www.drweil.com/blog/health-tips/5-things-that-may-be-keeping-you-awake-and-how-to-address-them/</guid>
       <category>English</category>
       <category>health</category>
@@ -846,6 +832,20 @@
       <category>drweil_health_tips</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/10/GettyImages-1165075919-600x400.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
+    </item>
+    <item>
+      <title>Hosting for the Holidays? 3 Guest Bedroom Tips</title>
+      <link>https://www.drweil.com/blog/health-tips/hosting-for-the-holidays-3-guest-bedroom-tips/</link>
+      <description>Hosting for the Holidays? 3 Guest Bedroom Tips</description>
+      <guid isPermaLink="true">https://www.drweil.com/blog/health-tips/hosting-for-the-holidays-3-guest-bedroom-tips/</guid>
+      <category>English</category>
+      <category>health</category>
+      <category>fitness</category>
+      <category>Health Tips</category>
+      <category>drweil_health_tips</category>
+      <enclosure url="https://www.drweil.com/wp-content/uploads/2026/11/Img_DrWeil_Bedroom_SonoranDuvet_Bedroom_Ecru-600x400.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
       <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
   </channel>
