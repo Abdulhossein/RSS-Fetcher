@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 14:04:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:51:35 +0000</lastBuildDate>
     <item>
       <title>Gratitude And New Friends</title>
       <link>https://www.drweil.com/blog/spontaneous-happiness/gratitude-and-new-friends/</link>
@@ -20,20 +20,6 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2018/02/blog_spontaneous-happiness_gratitude-and-new-friends_-88139903-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
-      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    </item>
-    <item>
-      <title>Why Sleep Is Vital To Mental Health</title>
-      <link>https://www.drweil.com/blog/spontaneous-happiness/why-sleep-is-vital-to-mental-health/</link>
-      <description>Does insomnia cause depression, or does depression cause insomnia? Chronic insomnia is…</description>
-      <guid isPermaLink="true">https://www.drweil.com/blog/spontaneous-happiness/why-sleep-is-vital-to-mental-health/</guid>
-      <category>English</category>
-      <category>happiness</category>
-      <category>health</category>
-      <category>Spontaneous Happiness</category>
-      <category>drweil_spontaneous_happiness</category>
-      <enclosure url="https://www.drweil.com/wp-content/uploads/2018/01/Why-Sleep-Is-Vital-To-Mental-Health_598064668-600x450.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
     <item>
@@ -823,7 +809,7 @@
     <item>
       <title>Legacy: Linking The Past &amp; Future Through Story</title>
       <link>https://www.drweil.com/blog/spontaneous-happiness/legacy-linking-the-past-future-through-story/</link>
-      <description>Legacy: Linking The Past &amp; Future Through Story</description>
+      <description>Reflection: As storytelling beings, we are captivated by stories, particularly those that are…</description>
       <guid isPermaLink="true">https://www.drweil.com/blog/spontaneous-happiness/legacy-linking-the-past-future-through-story/</guid>
       <category>English</category>
       <category>happiness</category>
@@ -846,6 +832,20 @@
       <category>drweil_spontaneous_happiness</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2021/05/13155114/legacy-celebration-spring-flowers-SH-1209756653-600x450.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
+    </item>
+    <item>
+      <title>Why Sleep Is Vital To Mental Health</title>
+      <link>https://www.drweil.com/blog/spontaneous-happiness/why-sleep-is-vital-to-mental-health/</link>
+      <description>Why Sleep Is Vital To Mental Health</description>
+      <guid isPermaLink="true">https://www.drweil.com/blog/spontaneous-happiness/why-sleep-is-vital-to-mental-health/</guid>
+      <category>English</category>
+      <category>happiness</category>
+      <category>health</category>
+      <category>Spontaneous Happiness</category>
+      <category>drweil_spontaneous_happiness</category>
+      <enclosure url="https://www.drweil.com/wp-content/uploads/2018/01/Why-Sleep-Is-Vital-To-Mental-Health_598064668-600x450.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
   </channel>

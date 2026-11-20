@@ -7,269 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 19 Nov 2026 14:03:17 +0000</lastBuildDate>
-    <item>
-      <title>After Jensen Huang Steps Aside, the Brakeman Who Once Axed OpenAI's $100 Billion Guarantee Takes the Helm</title>
-      <link>https://news.aibase.com/news/32301</link>
-      <description>The Information: Nvidia interim CEO Colette Kress is an internal veteran finance chief, not an outsider. As CFO, she acted as a brake on Jensen Huang's high-risk deals, pushed to diversify risk beyond a few customers, and cut an OpenAI guarantee from $250B to $100B.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32301</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202606031122196331_0.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 02:43:09 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>iFLYTEK Spark Speech Foundation Large Model SparkAudio 1.0 Officially Launches API Service</title>
-      <link>https://news.aibase.com/news/32302</link>
-      <description>iFLYTEK recently announced that its flagship speech foundation large model SparkAudio1.0 has fully launched API services on the iFLYTEK Open Platform, allowing developers and enterprise users to directly integrate and call it. The model focuses on a native speech large model approach, moving away from the traditional cascaded path of first converting speech to text through speech recognition and then processing it. It aims to directly understand sound, drive new breakthroughs in artificial intelligence speech technology, and bring a new way to process audio tasks.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32302</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/thumb/2026/1113/26111310425722185345.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 02:43:15 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>ElevenLabs releases Scribe v3 series with support for 102 languages and real-time speech transcription</title>
-      <link>https://news.aibase.com/news/32303</link>
-      <description>ElevenLabs launches a new generation of speech-to-text models, Scribe v3 and Scribe v3Live, targeting pre-recorded audio transcription and low-latency real-time speech applications, respectively. They enhance recognition in complex scenarios such as multi-person conversations, interruptions, and background noise. Both models are available to developers through ElevenAPI and ElevenAgents. Scribe v3 supports 102 languages, reduces word error rate by about 25% compared with the previous generation, and significantly improves German recognition accuracy.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32303</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://upload.chinaz.com/2026/1113/6393016342812781953860720.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 02:44:09 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Moonshot AI's Xu Tiantian Appears at Caixin Summit: AI Capabilities Are Far from Hitting the Ceiling; Three-Dimensional Curves Are Driving Intelligence to Accelerate Continuously</title>
-      <link>https://news.aibase.com/news/32304</link>
-      <description>On November 12, at the 17th Caixin Summit, Xu Tiantian, Head of Financial Industry and Ecosystem at Moonshot AI, said that the current boundaries of AI capabilities and the upper limit of intelligence are far from reaching their limits, and the industry is still on the fast track of accelerated evolution. He proposed that three superimposed growth curves are the underlying logic driving the continuous evolution of large models, and analyzed in depth the driving forces behind AI evolution, sparking attention to the boundaries of large model capabilities.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32304</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202405240907574564_1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 03:11:09 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Shut Down for Five Years, Xiami Resurrects via AI: Alibaba Launches HappyShrimp for 30 Yuan</title>
-      <link>https://news.aibase.com/news/32305</link>
-      <description>HappyShrimp, launched by Alibaba's ATH business group, is now available on iOS and Android, with its App Store version upgraded to 0.2.14. It is the third model product in Alibaba's Happy series, following HappyHorse and HappyOyster. Users can describe emotions, stories, or musical styles in plain language, and AI can complete lyric writing, composition, arrangement, and vocal performance end-to-end, focusing on full-song generation rather than step-by-step stitching.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32305</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://upload.chinaz.com/2026/1113/6393016630422160964842836.png" length="0" type="image/png"/>
-      <pubDate>Fri, 13 Nov 2026 03:31:51 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Microsoft's Electricity Bill for AI Compute: No Piggybacking on Subsidies, No Making Neighbors Foot the Bill</title>
-      <link>https://news.aibase.com/news/32306</link>
-      <description>Bloomberg: Microsoft's Noelle Walsh said at a Houston BNEF conference that Microsoft won't make other power users pay for its expansion—it will absorb its own electricity costs and won't seek government subsidies. This addresses residents' concerns over data centers driving up power prices and raises the question of who pays for AI infrastructure. Microsoft's $100B cash reserves support its compute buildout.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32306</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202001202045237249_1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 03:40:10 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Anthropic IPO Six Times Oversubscribed; Nvidia Drops $10 Billion to Grab a Seat</title>
-      <link>https://news.aibase.com/news/32307</link>
-      <description>Bloomberg said Anthropic is about to IPO, with subscription orders reaching about six times the available shares, far exceeding supply. Underwriting banks said they will prioritize existing shareholders, while new investors may have their orders cut. The prospectus shows that the company and its co-founders plan to raise up to $64.4 billion (about RMB 430.5 billion) through the IPO, along with a $26 billion private placement.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32307</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202307120853038799_0.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 06:01:20 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Google's First Gemini Smart Glasses Stunningly Open Pre-Orders: Starting at $395, Pioneering Two-Way Privacy Terms</title>
-      <link>https://news.aibase.com/news/32308</link>
-      <description>On November 12, according to media reports, Google officially opened pre-orders for its Intelligent Eyewear series of smart glasses. This product is Google's latest masterpiece in the fields of embodied intelligence and wearable devices, jointly developed by Google with Samsung, Gentle Monster, and Warby Parker, with a starting price of $395. It combines the strengths of a tech giant with leading fashion and optical brands, and is regarded as a heavyweight new product in the AI hardware market.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32308</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202312070835429226_0.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 06:25:02 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>One More Addition to the Happy Series: Alibaba Enters the AI Music Arena with End-to-End Full-Song Generation</title>
-      <link>https://news.aibase.com/news/32309</link>
-      <description>Alibaba's AI music platform Happy Xiami launched on iOS and Android, App Store v0.2.14. Developed by ATH, it debuted as PC web beta on Aug 17, 2026. It is the third Happy-series AI model after HappyHorse and HappyOyster, focusing on end-to-end full-song generation.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32309</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://upload.chinaz.com/2026/1113/6393017690118571939137651.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 06:28:29 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>OpenAI raises another $15 billion on the eve of its IPO, pushing valuation to $1.25 trillion</title>
-      <link>https://news.aibase.com/news/32311</link>
-      <description>CNBC said OpenAI's new private financing round is $15 billion, with a pre-money valuation of $1.25 trillion, higher than the earlier rumor of about $11 billion. WSJ data shows that its Q3 revenue was about $10 billion, up nearly 50% quarter over quarter, but operating losses widened to $10.9 billion, exceeding $10.1 billion in the second quarter; adjusted operating margin narrowed from about -150%, highlighting the coexistence of high growth and high losses.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32311</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202502061723419905_1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 06:28:49 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Xu Zheng Was Stunned After Coming Across His Own AI Face-Swap Video: Some Real Actors Are Not Even as Good as It</title>
-      <link>https://news.aibase.com/news/32312</link>
-      <description>Recently, at the 4th International Forum on Performance Education, Xu Zheng talked about his first encounter with AI-generated content: the first time he came across an AI face-swap performance clip made with his own face, he was stunned on the spot, feeling that the "Xu Zheng" on screen had convincing mannerisms in every move. The forum, originally focused on performance education, thus shifted its topic to whether actors might be replaced. After watching the clip, Xu Zheng made a judgment about its degree of completion, sparking discussion.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32312</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202209071519247086_3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 07:01:38 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>OpenAI's Robotics Business Shifts Toward In-Model Integration, Embodied Intelligence Included in General Foundation Model Framework</title>
-      <link>https://news.aibase.com/news/32313</link>
-      <description>On November 13, foreign media reported that OpenAI has disbanded its independent robotics team, with its original members merged into the regular model training system. Internally, it is believed that robotics is merely a type of vertical task within general models, and related intelligence capabilities should be addressed uniformly under the general foundation model framework. As of publication, there has been no official confirmation. Previously, its robotics roadmap was adjusted multiple times: in 2019, the Dactyl robotic hand solving a Rubik's Cube attracted attention; in October 2020, it had internally disbanded its robotics team.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32313</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202302150929449091_0.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 07:43:07 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Runs Without a GPU! A 40-Core Old Server Goes Head-to-Head with a 2.8-Trillion-Parameter Large Model, with Optane Memory as the Breakthrough Weapon</title>
-      <link>https://news.aibase.com/news/32314</link>
-      <description>As AI parameter scales expand, trillion-parameter large models often rely on expensive high-end GPU clusters. Recently, an enthusiast shared an extreme test in the community: using only an old server without a graphics card and equipped with a 40-core processor, they successfully ran Moonshot AI's 2.8-trillion-parameter Kimi K3. The model is a massive Mixture-of-Experts model, and this challenge is regarded as a geek attempt at the limits of hardware.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32314</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/thumb/2026/1113/26111303524055440833.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 07:52:48 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Anthropic Raises $90.4 Billion, Aiming for Largest IPO in History, Oversubscribed More Than Six Times</title>
-      <link>https://news.aibase.com/news/32315</link>
-      <description>Anthropic's IPO is about six times oversubscribed, potentially the largest ever. It seeks up to $64.4B plus a $26B private placement, showing strong investor conviction amid debate over AI investment momentum.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32315</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <pubDate>Fri, 13 Nov 2026 07:56:18 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Zhejiang University and Lenovo Team Jointly Propose EM²Mem: An Event-Centric Memory Solution for Multimodal Agents</title>
-      <link>https://news.aibase.com/news/32316</link>
-      <description>To address the pain points of multimodal agents' long-term memory, such as forgetting after a single exposure and inefficient retrieval, Zhejiang University and the Lenovo team have collaborated to propose EM²Mem, an event-centric multimodal long-term memory solution, which was unveiled at EMNLP2026. This solution overturns the traditional paradigm by changing the workflow from "retrieve first, then align" to "align first, then retrieve," offering new ideas for agents' long-term memory.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32316</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202307261637346165_3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 07:57:05 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Claude Assists in Completing 190,000 Lines of Code, Successfully Formalizing the Ternary Goldbach Conjecture</title>
-      <link>https://news.aibase.com/news/32317</link>
-      <description>AI is rewriting basic scientific research through formal proofs. Independent developer Charlie Reams, with the help of Claude Code, completed a formal proof of the ternary Goldbach conjecture, producing a total of 194,000 lines of Lean4 code with zero `sorry`, and all mathematical reasoning was rigorously verified by machine. During the process, the AI demonstrated rigor beyond traditional human peer review, autonomously identifying and patching 11 flaws from 13 years ago, highlighting its powerful capability in mathematical verification.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32317</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202310270933175014_5.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 08:33:39 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Even More Powerful Than High-End Models Yet Cheaper: Google Bucks the Trend with Gemini 4 Hydrogen</title>
-      <link>https://news.aibase.com/news/32318</link>
-      <description>Google launched Gemini4Hydrogen (Hydrogen), focusing on speed and execution efficiency, but unexpectedly beat the higher-positioned Argon: on a third-party intelligence index, Hydrogen scored 51, with its Xhigh tier scoring 54, higher than Argon's 50. Its default tier is 2.5 times faster than the previous generation Flash, reduces hallucinations by over 80%, and its API price is also lower than Argon's. Google also launched Antigravity Orchestrator, which can, within the same</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32318</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://upload.chinaz.com/2026/1113/6393018452316774591424004.png" length="0" type="image/png"/>
-      <pubDate>Fri, 13 Nov 2026 08:38:40 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Tencent Hunyuan unveils real-time voice model Hy Realtime: it can chat, sing, and search the internet on its own</title>
-      <link>https://news.aibase.com/news/32320</link>
-      <description>Tencent Hunyuan has released a brand-new real-time voice model, Hy Realtime. Focusing on real-time performance, it excels in basic conversational capabilities such as speech understanding, instruction following, and human-like expression, and newly adds Agentic tool calling and singing capabilities. It upgrades from simple responses to executable tasks and is closer to real human conversation. The model has been applied to products such as Yuanbao voice calls and Tencent Customer Service.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32320</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <pubDate>Fri, 13 Nov 2026 09:07:16 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Nvidia Employees Launch Campaign to Retain Jensen Huang; Internal Poll Shows Over 97% Support His Staying On</title>
-      <link>https://news.aibase.com/news/32321</link>
-      <description>WIRED reports that Nvidia employees spontaneously launched a campaign to retain Jensen Huang. An internal poll shows that more than 97% of participants want Jensen Huang to continue serving as CEO, and several employees have asked the board to reconsider related personnel decisions. A senior engineer posted through the internal suggestion box, calling on the board to fully consider employee opinions before taking action. The post received more than 1,600 comments, and many employees support Jensen Huang and hope he returns.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32321</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 09:29:46 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Yufei International Chinese Language Education Vertical Large Model Released: Deeply Integrating Professional Teaching Scenarios to Provide Intelligent Services for Global Teachers, Students, and Institutions</title>
-      <link>https://news.aibase.com/news/32322</link>
-      <description>The integration of artificial intelligence and vertical fields is advancing in depth. According to CCTV News, the 2026 World Chinese Language Conference opened in Beijing on November 13, where the Yufei International Chinese Language Education Vertical Large Model was released. This model serves Chinese language learners, frontline teachers, and educational institutions worldwide, providing comprehensive intelligent services, deeply adapting to the entire teaching and learning chain, covering three core groups, and promoting the deep integration of AI with the actual needs of international Chinese language education.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32322</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202305091556160776_8.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 09:48:54 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Exercise, diet, and daily routine can all cause blood glucose fluctuations; Qwen connects to continuous glucose monitors and launches "Analyze My Blood Glucose Status"</title>
-      <link>https://news.aibase.com/news/32323</link>
-      <description>On November 14, Qwen App's "Health Records" launched continuous glucose monitor integration. After users authorize connection, they can sync blood glucose data 24/7, view blood glucose curves, time-segmented readings, and daily overviews; Qwen can also analyze blood glucose changes based on personal factors such as diet, exercise, and daily routine, providing health insights such as "staying up late causes elevated blood glucose" and "short-term peaks may be related to emotional fluctuations," and can explain the upward trend in evening blood glucose in scenarios such as strength training.</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32323</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://upload.chinaz.com/2026/1114/6393026418147003977352040.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 14 Nov 2026 06:43:49 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
-    <item>
-      <title>Doubao App Launches Store Discovery: Merchants Can Batch Mark Locations on Maps, with Group-Buy Ordering and One-Click Navigation Closing the Loop in Chat</title>
-      <link>https://news.aibase.com/news/32325</link>
-      <description>ByteDance's Doubao app launched a 'Find Store' feature: merchants are batch-marked on maps, and tapping a store icon leads to its page for group-buy deals and ordering, plus one-tap navigation, combining store discovery, price comparison, ordering, and travel in one chat page. After Doubao's 'travel' super portal integrated ride-hailing, navigation, and hotel booking, this marks another local-life implementation, unlike earlier AI restaurant reco....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32325</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/202308181515111389_0.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Nov 2026 01:08:11 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
+    <lastBuildDate>Fri, 20 Nov 2026 13:47:12 +0000</lastBuildDate>
     <item>
       <title>Huawei Cloud to Release First Ascend-Native Embodied World Model CloudRoboWM1.2</title>
       <link>https://news.aibase.com/news/32326</link>
@@ -1203,6 +941,269 @@
       <category>aibase_news</category>
       <enclosure url="https://pic.chinaz.com/picmap/thumb/202406241524321025_7.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 19 Nov 2026 10:02:54 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>ChatGPT Voice Input Major Upgrade: Real-Time Dictation Launched, 10-Minute Limit Removed, and Rolling Out Across All Platforms</title>
+      <link>https://news.aibase.com/news/32418</link>
+      <description>OpenAI is rolling out real-time dictation for ChatGPT, letting users see text as they speak. It improves voice input, supports web, desktop, iOS, and Android, and will reach global users. Users can edit instantly, cutting previous waiting times.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32418</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 00:49:14 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Google Gemini launches Mac computer control feature: works automatically in the background, supports photo editing and making PPTs</title>
+      <link>https://news.aibase.com/news/32419</link>
+      <description>AI is shifting from giving suggestions to helping get work done. On November 20, Google launched a "computer control" feature for the macOS version of the Gemini app, which can autonomously perform multi-step complex tasks across desktop applications, local files, and web pages. This feature runs independently in the background without taking over the mouse, and supports real-time preview and stopping at any time, alleviating users' concerns about AI taking over the computer, grabbing the mouse, and randomly clicking the screen.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32419</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/thumb/2026/1120/26112008550668333383.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 00:55:20 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Just Touch the Fingerprint Sensor to Summon AI: Pricing for Meta's New Palm-Sized Hardware Leaked</title>
+      <link>https://news.aibase.com/news/32421</link>
+      <description>Meta moves AI from phone to pocket. The Information reports its palm-sized AI device, Muse Charm, costs about $300 with up to 12 months of Verizon 5G, connecting to the cloud without Wi-Fi. Its roughly 2-inch screen shows a custom Muse avatar, and a fingerprint touch bypasses phone unlock, with the real interaction switch hidden at the fingerprint sensor.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32421</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1120/6393076234203894492702467.png" length="0" type="image/png"/>
+      <pubDate>Fri, 20 Nov 2026 01:05:53 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Anthropic CEO Responds to $900 Billion AI Investment Pledge: Not Exaggerated Compared to Existing Cash and Revenue</title>
+      <link>https://news.aibase.com/news/32422</link>
+      <description>As AI enters heavy-asset investment, hundreds of billions in compute/infrastructure commitments raise bubble and sustainability concerns. On Nov 19, Anthropic CEO Dario Amodei said $900B AI commitments look less massive alongside cash reserves and annual revenue; observers question this rationale.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32422</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/201812101541429574_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 01:06:02 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Microsoft CEO Nadella Warns: If Retailers Block AI Shopping Agents, Market Share Could Flow to Open Platforms Like Shopify</title>
+      <link>https://news.aibase.com/news/32423</link>
+      <description>Nov 18, Microsoft CEO Nadella warned at NYT DealBook Summit that retailers rejecting AI shopping agents risk losing customers and share as assistants browse and order; Amazon bans third-party agents, while Shopify-like platforms opening checkout gain an edge.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32423</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202305300842486969_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 01:09:12 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Google Opens Genie4 World Model API, Supporting Real-Time Interaction and Native Audio Generation</title>
+      <link>https://news.aibase.com/news/32424</link>
+      <description>On Nov 19, Google opened Genie4 (models/genie-4) to paid developers via Gemini API and AI Studio, after Project Genie launched for AI Ultra subscribers. It is DeepMind's first third-party-accessible real-time world model, built on Gemini Omni rendering and Gemini reasoning.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32424</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1120/6393076264316282899947894.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 01:11:05 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Meta AI wearable device Muse Charm reportedly priced at $300</title>
+      <link>https://news.aibase.com/news/32425</link>
+      <description>Meta plans to price its tamagotchi-style AI wearable Muse Charm at $300, unveiled at an earlier 2026 Connect event. As of Nov 19, 2026, Meta did not deny the pricing rumor, saying it welcomes interest and will disclose more soon. This marks a key move in consumer AI hardware, extending its Muse assistant and avatar system; full features remain undisclosed.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32425</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202611060946405299_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 01:22:34 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Better to Change Code Than Prompts: Google Lets AI Modify Its Own Runtime Framework</title>
+      <link>https://news.aibase.com/news/32426</link>
+      <description>A Google paper (Nov 17) found prompt tuning cut AI agent success from 5% to 2.5%, while letting the optimizer rewrite its Harness raised it to 40% (8x). A 142-line coding agent was split into four parts; Harness handles context/memory, multi-turn scheduling, tool calls, and validation. Conclusion: improving the framework beats prompt engineering.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32426</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202308291638475569_2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 01:29:48 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Google homepage adds AI search sidebar, supports viewing chat history and connecting Gemini notebooks</title>
+      <link>https://news.aibase.com/news/32427</link>
+      <description>Google is redesigning its homepage with a collapsible AI search sidebar. Clicking the left gray bar expands it, showing AI Mode history, past chats, new threads, web exploration, and Gemini notebook connections.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32427</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1120/6393076500048239406569544.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 01:50:13 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Claude's self-developed inference engine cuts first-token latency from 12 seconds to half a second</title>
+      <link>https://news.aibase.com/news/32428</link>
+      <description>Can AI agents autonomously build and strengthen AI R&amp;D infrastructure? CMU et al. launched Singularity-Bench, with six AI R&amp;D tasks to test autonomous construction. Claude Opus5.5 with Claude Code excelled, sharply reducing inference latency and boosting hardware output via scheduling optimization.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32428</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202403050858462025_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 01:56:32 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Nvidia's earnings surge, yet shares hit a 52-week low? Stock plunges nearly 40% from October high</title>
+      <link>https://news.aibase.com/news/32429</link>
+      <description>Nvidia's strong Q3 results—revenue doubled YoY, led by Vera Rubin—contrasted with a nearly 40% stock drop from its Oct 6 peak. Shares hovered near $150, closed Thursday at $145.98, a 52-week low, raising questions over the disconnect.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32429</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/201811151633429961_46.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 02:09:55 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Give AI a cloud computer: OpenAI's dots assistant steps out of the chat box</title>
+      <link>https://news.aibase.com/news/32430</link>
+      <description>OpenAI pushes AI assistants beyond chat. On Nov 20, product lead Thibault Sottiaux announced dots is inviting select ChatGPT Plus users to test, opening to all Business Standard users. The 24/7 assistant debuted at DevDay 2026, moving from demo to utility. Its key feature: a built-in cloud computer, letting users set goals, add context, connect apps, and run tasks in the background.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32430</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1120/6393076693757429636356559.png" length="0" type="image/png"/>
+      <pubDate>Fri, 20 Nov 2026 02:22:27 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Losing 100 Billion and Still Ringing the Bell: The Compute Bill Behind Anthropic's Record IPO</title>
+      <link>https://news.aibase.com/news/32431</link>
+      <description>On November 19, Anthropic, less than six years old, listed on Nasdaq under the ticker ANT, raising about $81.3 billion, the largest IPO in history. Priced at $83, it rose 17.07% to $97.17 on the first day, with a market value of about $1.28 trillion and breaking $2 trillion intraday; plus a $26 billion private placement, total fundraising was about $107.3 billion. The prospectus disclosed $900 billion in compute commitments and $81 billion in ARR, with a net loss of more than $104 billion in the first nine months, of which $94.3 billion was due to fair value changes in liabilities.</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32431</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202605070947057219_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 02:45:20 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Apple is developing a general-purpose, full-featured AI agent, planned for release by the end of 2027</title>
+      <link>https://news.aibase.com/news/32433</link>
+      <description>Bloomberg reports Apple is accelerating work on a general-purpose AI agent to rival OpenAI, Anthropic, and Meta, targeting a late-2027 launch. Job listings suggest it will surpass Siri and Apple Intelligence, operating computers like a skilled human.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32433</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202309041107350472_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 06:04:05 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Tencent Hunyuan Large Model Fully Open Source: Hy4 Officially Opens Weights, Supports Million-Token Context</title>
+      <link>https://news.aibase.com/news/32434</link>
+      <description>On Nov 20, Tencent Hunyuan open-sourced Hy4, with weights on GitHub, Hugging Face, ModelScope, and GitCode for download/deployment. This fully opens the Hunyuan LLM series, including Hy3preview, Hy3, Hy4preview, etc., creating dual flagship and cost-effective lines.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32434</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1120/6393078029198096871268541.png" length="0" type="image/png"/>
+      <pubDate>Fri, 20 Nov 2026 06:05:14 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>A World You Can Edit as You Play: Google Genie 4 Opens to Developers at About $6 per Minute</title>
+      <link>https://news.aibase.com/news/32435</link>
+      <description>Google opened Genie 4's real-time playable world generation as an API on Nov 19 via Gemini API and AI Studio; Project Genie unlocked for AI Ultra users a day earlier. Input text, images, or both to generate 720p/24fps interactive worlds with synced ambient audio and dialogue, SynthID watermarks, and ~0.2–0.5s keyboard response.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32435</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1120/6393078185273998358979849.png" length="0" type="image/png"/>
+      <pubDate>Fri, 20 Nov 2026 06:31:05 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Li Shufu, who started schools before making cars: The AI era will give rise to a new generation of universities</title>
+      <link>https://news.aibase.com/news/32439</link>
+      <description>At the 2026 Xinwei Education Forum, Li Shufu argued traditional university talent training no longer meets AI-era needs, and new-type universities will inevitably emerge. He reiterated Geely "is both a company and a school": early on it ran technician colleges to train talent first.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32439</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202405161743168014_9.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 06:49:02 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Lingguang Open Ecosystem Expands Further: Adds 7 Connectivity Capabilities Including WeCom and Tencent Docs, Bringing Total Supported External Services to 54</title>
+      <link>https://news.aibase.com/news/32440</link>
+      <description>Ant Group's AI assistant Lingguang expands its open ecosystem with 7 new external connections, including WeCom, Tencent Docs, Tencent Meeting, and FlightMaster, raising supported services from 47 to 54 for life, work, and travel. It also adds photo album access and shortcut-based wallpaper changes.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32440</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1120/6393078394172845555068975.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 07:06:02 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Li Shufu, who started schools before making cars: The AI era will give birth to a batch of new-type universities</title>
+      <link>https://news.aibase.com/news/32441</link>
+      <description>At the 2026 Xinwei Education Forum, Li Shufu said traditional university talent training no longer fits the AI era, which will spawn new-model universities. Reaffirming Geely's "both enterprise and school" ethos, he noted Geely built schools before cars to train talent first.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32441</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202209071519241449_2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 07:15:28 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Weather App Speaks First: Samsung One UI 9.5 Delivers Alerts Before You Head Out</title>
+      <link>https://news.aibase.com/news/32442</link>
+      <description>Samsung plans to add AI to its Weather app in the first One UI 9.5 beta, shifting it from passive queries to proactive forecasts. Using calendar and flight data, it will detect travel plans and remind users to check destination weather before departure.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32442</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <pubDate>Fri, 20 Nov 2026 07:16:03 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>ChatGPT Mobile Gets Major UI Redesign; Dots Expands Testing and Integrates Health Data</title>
+      <link>https://news.aibase.com/news/32443</link>
+      <description>On Nov 20, OpenAI began rolling out a new ChatGPT mobile UI to select users, prioritizing Pro users with Dots or creation eligibility plus a few Plus users. It speeds access to common tools and discovery; Dots is now a bottom tab and tools are customizable. ChatGPT has ~1.2B weekly actives.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32443</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 07:16:37 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>From one-and-done to picking up where you left off: Google Search adds an AI history sidebar</title>
+      <link>https://news.aibase.com/news/32447</link>
+      <description>Google launched a collapsible sidebar on desktop, letting users quickly return to recent AI Mode searches instead of digging through history. It rolls out on desktop first, then globally. Product lead Robbie Stein says users increasingly ask follow-up questions.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32447</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <enclosure url="https://upload.chinaz.com/2026/1120/6393079034079117849849366.png" length="0" type="image/png"/>
+      <pubDate>Fri, 20 Nov 2026 08:52:30 +0000</pubDate>
       <dc:creator>AIBase</dc:creator>
     </item>
   </channel>

@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 19 Nov 2026 14:03:05 +0000</lastBuildDate>
-    <item>
-      <title>AI Daily: MiniMax Launches M3 Large Model; NVIDIA's Physical Large Model Cosmos3 Released; Xiaohongshu Has Removed Over 1.2 Million AI-Managed Accounts</title>
-      <link>https://news.aibase.com/daily/28525</link>
-      <description>Welcome to the 【AI Daily】 segment! Here is your daily guide to exploring the world of artificial intelligence. Every day, we present you with the latest content in the AI field, focusing on developers to help you understand technological trends and innovative AI product applications. Discover new AI products by clicking here: https://app.aibase.com/zh1. MiniMax Launches M3 Large Model: Pioneering the MSA Architecture and Supporting 1M Context, Fully Open-Sourced to Compete with Overseas Flagship Models. The Release of MiniMax M3 Marks a Major Achievement in Domestic Multimodal and Long-Context Capabilities.</description>
-      <guid isPermaLink="true">https://news.aibase.com/daily/28525</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_daily</category>
-      <enclosure url="https://pic.chinaz.com/picmap/202501150943267809_0.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 01 Jun 2026 08:54:06 +0000</pubDate>
-      <dc:creator>站长之家</dc:creator>
-    </item>
+    <lastBuildDate>Fri, 20 Nov 2026 13:47:01 +0000</lastBuildDate>
     <item>
       <title>AI Daily: Koutu 3.0 Officially Released; Doubao Expected to Launch Paid Version in Mid-June; Krea 2 LoRA Fully Opened</title>
       <link>https://news.aibase.com/daily/28568</link>
@@ -1205,6 +1193,18 @@
       <category>aibase_daily</category>
       <enclosure url="https://pic.chinaz.com/picmap/202609031357441837_0.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 19 Nov 2026 08:47:14 +0000</pubDate>
+      <dc:creator>站长之家</dc:creator>
+    </item>
+    <item>
+      <title>AI Daily: ChatGPT launches real-time dictation; Google homepage adds AI search sidebar; WeChat to mandate AI short dramas submit generation proof starting in December</title>
+      <link>https://news.aibase.com/daily/32445</link>
+      <description>Welcome to the [AI Daily] column! This is your daily guide to exploring the world of artificial intelligence. Every day we present the hottest content in the AI field, focusing on developers, helping you gain insight into technology trends and learn about innovative AI product applications. Click to learn about fresh AI products: https://app.aibase.com/zh1. 1. ChatGPT voice input gets a major upgrade: launches real-time dictation, removes the 10-minute limit, and is gradually rolling out across all platforms. OpenAI adds a real-time dictation feature to ChatGPT, enabling speaking while...</description>
+      <guid isPermaLink="true">https://news.aibase.com/daily/32445</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_daily</category>
+      <enclosure url="https://pic.chinaz.com/picmap/202412271704357904_2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 08:13:30 +0000</pubDate>
       <dc:creator>站长之家</dc:creator>
     </item>
   </channel>

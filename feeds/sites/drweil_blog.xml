@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 14:03:39 +0000</lastBuildDate>
-    <item>
-      <title>Engaging With Music May Protect Memory</title>
-      <link>https://www.drweil.com/blog/bulletins/engaging-with-music-may-protect-memory/</link>
-      <description>Listening to and playing music may be more than just enjoyable pastimes. A recent…</description>
-      <guid isPermaLink="true">https://www.drweil.com/blog/bulletins/engaging-with-music-may-protect-memory/</guid>
-      <category>English</category>
-      <category>health</category>
-      <category>fitness</category>
-      <category>Bulletins</category>
-      <category>drweil_blog</category>
-      <enclosure url="https://www.drweil.com/wp-content/uploads/2025/12/music-wb-1076487422-600x450.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
-    </item>
+    <lastBuildDate>Fri, 20 Nov 2026 13:48:18 +0000</lastBuildDate>
     <item>
       <title>Chronic Pain Linked To High Blood Pressure</title>
       <link>https://www.drweil.com/blog/bulletins/chronic-pain-linked-to-high-blood-pressure/</link>
@@ -823,7 +809,7 @@
     <item>
       <title>Time Change Preparation: Adjusting Your Sleep as Daylight Saving Time Ends</title>
       <link>https://www.drweil.com/blog/health-tips/time-change-preparation-adjusting-your-sleep-as-daylight-saving-time-ends/</link>
-      <description>Time Change Preparation: Adjusting Your Sleep as Daylight Saving Time Ends</description>
+      <description>Each year, when daylight saving time starts and ends, we often experience a disruption in our…</description>
       <guid isPermaLink="true">https://www.drweil.com/blog/health-tips/time-change-preparation-adjusting-your-sleep-as-daylight-saving-time-ends/</guid>
       <category>English</category>
       <category>health</category>
@@ -846,6 +832,20 @@
       <category>drweil_blog</category>
       <enclosure url="https://www.drweil.com/wp-content/uploads/2026/11/Img_DrWeil_Bedroom_SonoranDuvet_Bedroom_Ecru-600x400.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
+    </item>
+    <item>
+      <title>Why Sleep Is Vital To Mental Health</title>
+      <link>https://www.drweil.com/blog/spontaneous-happiness/why-sleep-is-vital-to-mental-health/</link>
+      <description>Why Sleep Is Vital To Mental Health</description>
+      <guid isPermaLink="true">https://www.drweil.com/blog/spontaneous-happiness/why-sleep-is-vital-to-mental-health/</guid>
+      <category>English</category>
+      <category>health</category>
+      <category>fitness</category>
+      <category>Spontaneous Happiness</category>
+      <category>drweil_blog</category>
+      <enclosure url="https://www.drweil.com/wp-content/uploads/2018/01/Why-Sleep-Is-Vital-To-Mental-Health_598064668-600x450.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <dc:creator>Dr. Weil - Integrative Medicine, Healthy Lifestyles &amp; Happiness</dc:creator>
     </item>
   </channel>

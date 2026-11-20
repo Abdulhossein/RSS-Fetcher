@@ -7,1349 +7,1294 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 19 Nov 2026 14:04:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:51:39 +0000</lastBuildDate>
     <item>
-      <title>不换大模型、关掉深度思考：Hugging Face 用一个 LoRA 把 27B 编程能力拉到 64.7%</title>
-      <link>https://juejin.cn/post/7709381318992478262</link>
-      <description>跑本地编程代理时，开发者常卡在一个两难里。开高强度深度思考，准确率上去了，但每次改代码前先吐几千个思考 Token，等半天不说，上下文和算力成本也跟着飙。关掉思考直接出动作，模型又容易在复杂仓库里写偏</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709381318992478262</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>AI编程</category>
-      <category>Facebook</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2ab1ec9b0cbe4c8ba26be678539fb913~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Y-v5aSr5bCP5a2Q:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701860&amp;x-signature=fu8eCieuOc%2BEtJlYmUnF1Vi8x0g%3D" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 18 Nov 2026 23:09:10 +0000</pubDate>
-      <dc:creator>可夫小子</dc:creator>
-    </item>
-    <item>
-      <title>Android启动流程之点rc文件</title>
-      <link>https://juejin.cn/post/7709284827502100515</link>
-      <description>前面提到Init进程的第二阶段一个重要的职责就是解析rc文件，并且执行里面的动作。 那么这个rc文件到底是一个什么样的东西呢？</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709284827502100515</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>Android</category>
-      <category>Linux</category>
-      <category>面试</category>
-      <category>juejin</category>
-      <pubDate>Wed, 18 Nov 2026 17:22:13 +0000</pubDate>
-      <dc:creator>求索君Fly</dc:creator>
-    </item>
-    <item>
-      <title>Redis 核心机制 | Lazy Free：异步删除大 Key ，架构师视角的机制、代价与决策框架</title>
-      <link>https://juejin.cn/post/7709389326891630627</link>
-      <description>Lazy Free 管的不是「什么时候删」，而是「删的时候谁干活」。它把从键空间摘除（主线程，O(1)）和递归释放内存（BIO 线程，O(N)）拆开。本文按「先实验看到差异 → 再讲机制 → 再给命令</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709389326891630627</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>Redis</category>
-      <category>.NET</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/83220e8b5504487390fd9a44a42e3382~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgSVTop4TliJLluIg=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701860&amp;x-signature=UXVN3EPKF1LSKOfkZeQWWY1jids%3D" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 18 Nov 2026 23:04:58 +0000</pubDate>
-      <dc:creator>IT规划师</dc:creator>
-    </item>
-    <item>
-      <title>复制、粘贴，即刻捕获：利用文本指纹识别检测电子邮件和生成式人工智能提示词中的数据泄露</title>
-      <link>https://juejin.cn/post/7709421895892795443</link>
-      <description>作者：来自 Elastic Matthew Adams 一条 Elasticsearch 查询就能找出被人粘贴到生成式 人工智能 提示词中的专利段落，并在原文和提示词中高亮显示复制的文字，让审核人员在</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709421895892795443</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>Elasticsearch</category>
-      <category>juejin</category>
-      <pubDate>Wed, 18 Nov 2026 23:20:15 +0000</pubDate>
-      <dc:creator>Elasticsearch</dc:creator>
-    </item>
-    <item>
-      <title>大模型训练系列收官：动手训一个属于自己的小模型</title>
-      <link>https://juejin.cn/post/7709380600407670826</link>
-      <description>上一篇我们学习了偏好对齐的两条路线：DPO 跳过奖励模型和强化学习，直接用偏好数据对模型做监督式训练；GRPO 则用组内相对优势替代价值网络，让强化学习变得更轻。至此，从数据清洗、分词器训练、目标函数</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709380600407670826</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>人工智能</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/85115914f18248499509a4234be535ad~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5pel5Lmg5LiA5oqA:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701860&amp;x-signature=PAFhWvWyYYUWZLVWa1VrBkQ9%2FIY%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 00:14:47 +0000</pubDate>
-      <dc:creator>日习一技</dc:creator>
-    </item>
-    <item>
-      <title>NGINX 两处漏洞可导致未经身份验证的远程代码执行（CVE-2026-123633 和 CVE-2026-123007）</title>
-      <link>https://juejin.cn/post/7709284827502460963</link>
-      <description>NGINX 两处漏洞可导致未经身份验证的远程代码执行（CVE-2026-123633 和 CVE-2026-123007） 摘要 Wiz Research、Ikotas Labs、Metnir、Rap</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709284827502460963</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>后端</category>
-      <category>Nginx</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/690776e733194a2fbb8544d8f3afce9a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQmluZ29Hbw==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701860&amp;x-signature=4rQZ38D1byAVsu%2F7Nq0%2FyY3L3fw%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 00:27:12 +0000</pubDate>
-      <dc:creator>BingoGo</dc:creator>
-    </item>
-    <item>
-      <title>🤔🤔Go 并发越开越多，线上却越来越不稳？</title>
-      <link>https://juejin.cn/post/7709530253697794090</link>
-      <description>一个接口原本需要 600ms，产品要求同时返回日志、指标和告警。 开发人员很自然地想到：既然三个下游互不依赖，为什么不直接开三个 goroutine 并行请求？ 改完之后，接口耗时确实下降了。 但上线</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709530253697794090</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>后端</category>
-      <category>Go</category>
-      <category>面试</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/287c0b5e8d434962825296c517102fed~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgU2FpbGluZw==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701860&amp;x-signature=Yi7eWBZsAy6PpALF0nC4D0kIRGA%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 00:40:24 +0000</pubDate>
-      <dc:creator>Sailing</dc:creator>
-    </item>
-    <item>
-      <title>Gemini 4 系列与 Antigravity 使用心得：Carbon、Argon 与 Hydrogen 实测与提速方法</title>
-      <link>https://juejin.cn/post/7709402258643582976</link>
-      <description>高强度使用 Gemini 4 与 Antigravity 一个多月的真实体感：Carbon、Argon、Hydrogen 差距，对比 Claude 与 GPT 的长短板，以及控风格与读代码提速技巧。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709402258643582976</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>人工智能</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/dfbf492f6bc54ad5878e5579da826007~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgb2ls5qyn5ZOf:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701860&amp;x-signature=hYnfu6i4HJcytv%2BqX5xu9bwUO9g%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 00:47:36 +0000</pubDate>
-      <dc:creator>oil欧哟</dc:creator>
-    </item>
-    <item>
-      <title>太狠了！GitHub 5.6 万 Star，让 AI 直接操控 Chrome 调试</title>
-      <link>https://juejin.cn/post/7709431516912943140</link>
-      <description>今天聊一个项目：chrome-devtools-mcp，想必已经有很多人都知道这个项目了。 它出自 Google 官方的 ChromeDevTools 组织，Chrome DevTools 和。。。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709431516912943140</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>前端</category>
-      <category>人工智能</category>
-      <category>测试</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 00:52:03 +0000</pubDate>
-      <dc:creator>狂师</dc:creator>
-    </item>
-    <item>
-      <title>128GB 让 “本地跑大模型” 成为日用品，但分水岭不在硬件</title>
-      <link>https://juejin.cn/post/7709389619518832674</link>
-      <description>128GB 统一内存迷你主机正在把本地大模型变成日常工具，显存不再是唯一瓶颈。硬件逐步趋同，真正分水岭落在软件。Codigger 通过本地推理、云端峰值算力、Agent 智能调度，打造软硬一体的混合</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709389619518832674</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>人工智能</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 00:53:32 +0000</pubDate>
-      <dc:creator>挖掘狂人</dc:creator>
-    </item>
-    <item>
-      <title>iOS for Web ，把原生 iOS App 跑到进浏览器里面，倒反天罡</title>
-      <link>https://juejin.cn/post/7709530253697908778</link>
-      <description>最近出了个 iOS for the Web ，感觉还挺有意思，他们把 iOS App 跑到了浏览器里面，不需要启动 iPhone 或者 iOS Simulator 也可以运行： 这个有意思在于，它想做</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709530253697908778</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>前端</category>
-      <category>Android</category>
-      <category>iOS</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3fa52b6df86a42e3bf90e90a4eb92585~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701860&amp;x-signature=y5pDU%2F%2F5IGQzDM8qYWEeoJetnz4%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 00:54:40 +0000</pubDate>
-      <dc:creator>恋猫de小郭</dc:creator>
-    </item>
-    <item>
-      <title>🐟 我把摸鱼岛重写了！现在群聊还能装进一张表格</title>
-      <link>https://juejin.cn/post/7709376252621996059</link>
-      <description>我用 React、TypeScript 和 Vite 重写了摸鱼岛。新版能看热榜、在 WPS 风格的表格里聊天，也能种菜、养宠物和联机玩游戏。附源码、25 张实机截图和兑换码。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709376252621996059</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>GitHub</category>
-      <category>前端</category>
-      <category>后端</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d289473c4cff445eb04a5128d246510c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgY29uZ18=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701860&amp;x-signature=EueJ%2F2Zh1i5FWkwwOsOdDTkMDuc%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 01:06:02 +0000</pubDate>
-      <dc:creator>cong_</dc:creator>
-    </item>
-    <item>
-      <title>一个人用 Agent 写代码，和整个团队一起用，差在哪？拆解腾讯 LoopForge</title>
-      <link>https://juejin.cn/post/7709441660685680682</link>
-      <description>从一条订单导出需求出发，拆解腾讯 LoopForge 如何共享需求上下文，用编码 Agent 完成实现，用脚本固定检查，再由人根据产物验收。适合想把个人 AI 编程方式带进团队交付的人。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709441660685680682</guid>
+      <title>Agent 记不住东西？基于分层记忆架构打造 AI Agent 长期记忆与个性化上下文引擎</title>
+      <link>https://juejin.cn/post/7709802672980869158</link>
+      <description>每次对话都重复偏好与上下文，Token 浪费且体验差：用 Spring Boot 3 + Redis 三层记忆（工作+情景+语义）一次性注入，解决 Agent 记不住。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709802672980869158</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>架构</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/376a59f6a7ab451a9427f5a5f3c5481f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQUFB54ix5a2m5Lmg55qE5YiY5ZOl:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701860&amp;x-signature=YeC7P0%2F0wacAGvTgs7ahaLh4qKs%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 01:14:03 +0000</pubDate>
-      <dc:creator>AAA爱学习的刘哥</dc:creator>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d1ea2b1ef3b8454cb89e422dc7384b5b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg54ix5oqY6IW-55qE6ICB5p2O:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787499&amp;x-signature=sB3wC40uWP%2Bd%2FTZC770gU4ltmdw%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 01:05:57 +0000</pubDate>
+      <dc:creator>爱折腾的老李</dc:creator>
     </item>
     <item>
-      <title>使用 Python 轻松移除 Excel 文档中的重复行</title>
-      <link>https://juejin.cn/post/7709537202938757158</link>
-      <description>将多个系统导出的数据合并到一张 Excel 表格中，难免会出现重复记录。例如，同一条数据被重复抓取、分页导出时首尾内容重叠，或者人工复制时不小心多粘贴了一部分。这些重复行不一定相邻，单靠人工查找既费时</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709537202938757158</guid>
+      <title>告别手动拼参数！IDEA 插件 Log2SQL：MyBatis/Hibernate 日志秒变可执行 SQL</title>
+      <link>https://juejin.cn/post/7709812277021999142</link>
+      <description>Log2SQL：把 MyBatis/Hibernate 日志一键还原成可执行 SQL 的 IDEA 插件 前言 日常开发中，调试 SQL 几乎是每个 Java 后端工程师绕不开的工作。ORM 框架（M</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709812277021999142</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>Python</category>
-      <category>Excel</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 01:40:34 +0000</pubDate>
-      <dc:creator>用户033212666367</dc:creator>
-    </item>
-    <item>
-      <title>MedDoc AI：把临床书写、协作、质控、知识问答装进一个工作台</title>
-      <link>https://juejin.cn/post/7709427535171764233</link>
-      <description>这段时间我们一直在调研和打磨医疗信息化场景的 AI 案例，和不少临床医生、质控岗、信息科的朋友聊下来，最直观的感受是：大家大量的精力，都耗在了病历相关的琐碎事务里。 写一份病程记录，要翻病史、查检验、</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709427535171764233</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>Vue.js</category>
-      <category>GitHub</category>
-      <category>前端</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3e057404bbf34e3490f1f3dd36a290ef~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5b6Q5bCP5aSV:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701860&amp;x-signature=XNxruJo6wKsGGAdh1E5qJ%2BDhWGs%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 01:43:31 +0000</pubDate>
-      <dc:creator>徐小夕</dc:creator>
-    </item>
-    <item>
-      <title>哈利波特问答 Agent Builder + Workflow 教程</title>
-      <link>https://juejin.cn/post/7709446174856921114</link>
-      <description>作者：来自 Elastic 朱杰 第一部分：熟悉 阿里云 控制台，获得需要的信息 1）熟悉阿里云控制台，试用页面创建好集群后可以进入到下面的控制台管理试用集群，管理推理服务，这个教程需要用 embed</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709446174856921114</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>Elasticsearch</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 01:46:51 +0000</pubDate>
-      <dc:creator>Elasticsearch</dc:creator>
-    </item>
-    <item>
-      <title>LeetCode 40 组合总和 II：面试官想听的不是回溯，而是那行去重代码</title>
-      <link>https://juejin.cn/post/7709398204002189375</link>
-      <description>前段时间帮朋友模拟面试，出了这道「组合总和 II」。他回溯框架写得飞快，结果一跑测试——`[1,2]` 输出了两遍。这道题号称回溯专题的"门面题"，考的根本不是你能不能写出回溯，而是你能不能把**去重</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709398204002189375</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>面试</category>
-      <category>Java</category>
-      <category>LeetCode</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/11320cf4c9ef45ddaa1d8c237dbb5b5f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUmFpbueahEphdmHlpKfnpZ7kuYvot68=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701860&amp;x-signature=M6z%2BjKeCX7ipt032uIEJYoBreV8%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 01:52:19 +0000</pubDate>
-      <dc:creator>Rain的Java大神之路</dc:creator>
-    </item>
-    <item>
-      <title>OpenAI 突发 GPT-6.2：Sol 提速 8 倍跑分追平旗舰，但这 1 处暗改会让缓存直接失效！</title>
-      <link>https://juejin.cn/post/7709389619519160354</link>
-      <description>拆解 11 月 17 日发布的 GPT-6.2（Astra 与 Sol）：Sol 写代码逼平旗舰且支持 8 倍极速，但顶层指令位置暗改会击穿缓存，附防坑代码。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709389619519160354</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>ChatGPT</category>
-      <category>GPT</category>
-      <category>juejin</category>
-      <enclosure url="https://p26-juejin-sign.byteimg.com/tos-cn-i-k3u1fbpfcp/08837a74f9d34a3aafd8ecb159099d19~tplv-k3u1fbpfcp-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5LiA57yVODLlubTnmoTmuIXpo44=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701860&amp;x-signature=x%2Bw9dECxAaQxDuD4GcDAa4v0xh8%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 01:58:34 +0000</pubDate>
-      <dc:creator>一缕82年的清风</dc:creator>
-    </item>
-    <item>
-      <title>React 前端实现 Word 与 OpenXML 双向转换的完整实践</title>
-      <link>https://juejin.cn/post/7709427535172059145</link>
-      <description>在文档处理场景中，Word 与 OpenXML 之间的格式转换是一个出现频率较高的需求。本文将介绍如何在 React 项目中，借助 WebAssembly 方案在浏览器端完成这两个方向的转换。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709427535172059145</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>JavaScript</category>
-      <category>React.js</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 02:07:36 +0000</pubDate>
-      <dc:creator>缺点内向</dc:creator>
-    </item>
-    <item>
-      <title>拆开「研发数字人」：一个 Agent 系统真正的护城河，是被结构化的判断力</title>
-      <link>https://juejin.cn/post/7709389619519225890</link>
-      <description>拆解 vivo 研发数字人 Agent：三层架构本质是三种知识的工程化（know-what / know-now / know-how），真正值得抄的是主动放弃自主性的确定性检索~</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709389619519225890</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>人工智能</category>
-      <category>后端</category>
-      <category>架构</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/07e6f35fbd8b49e4bd36c2cb202e6f3e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ29zb2xhcg==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701860&amp;x-signature=wxPZufePB2qcW2r3iYVl%2FknmuWY%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 02:08:12 +0000</pubDate>
-      <dc:creator>Cosolar</dc:creator>
-    </item>
-    <item>
-      <title>RSI 是怎样让 AI 改进自己的 ❓❓❓</title>
-      <link>https://juejin.cn/post/7709398204002271295</link>
-      <description>我们让 AI 完成一项任务，它发现错误以后继续修改，直到结果满足要求，这个过程已经很常见。但任务结束以后，这次纠正是否改变了系统，下一次改进又能否利用这次积累的能力，是另外两个问题 RSI 研究的正是</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709398204002271295</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>前端</category>
-      <category>后端</category>
-      <category>面试</category>
-      <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/bea35601f36d4d12988f80fa84d624ce~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgTW9tZW50:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701859&amp;x-signature=NcFpo2L5yEqa4Y9ZQgEX20NVFWA%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 01:56:05 +0000</pubDate>
-      <dc:creator>Moment</dc:creator>
-    </item>
-    <item>
-      <title>从 50ms 到 3 分钟：淘特动线 Agent 如何把 LLM 塞进一个有预算约束的实时系统</title>
-      <link>https://juejin.cn/post/7709442455397433379</link>
-      <description>淘特动线 Agent 全链路拆解：三个时机对应三种决策模式，四桶实验用 SOTA 做基线形成棘轮，LLM 只输出商品锚点、面额由代码公式推导，三轮 Chain 按失败代价拆分。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709442455397433379</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>人工智能</category>
-      <category>Agent</category>
-      <category>后端</category>
-      <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f991a283053342f9b7b208b4bc549d2c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ29zb2xhcg==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701859&amp;x-signature=rPHQCEH81is6%2FwrfS31zSzvYO8g%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 02:18:41 +0000</pubDate>
-      <dc:creator>Cosolar</dc:creator>
-    </item>
-    <item>
-      <title>从研发经验到团队知识：Akashic知识工程实践｜得物技术</title>
-      <link>https://juejin.cn/post/7709530253698727978</link>
-      <description>随着AI越来越多地参与日常研发，团队知识逐渐分散在代码、文档和研发对话中：代码承载实现方式，文档沉淀架构和规则，对话则保留问题背后的取舍、边界和经验。实际研发中我们发现，仅靠人工很难将代码变更和对话结</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709530253698727978</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>架构</category>
       <category>数据库</category>
-      <category>程序员</category>
       <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ac81938970a7400eba65644bbd3e992d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5b6X54mp5oqA5pyv:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701859&amp;x-signature=OJFgbdiU3O3G9wvgU3FIBwEkxx8%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 02:21:59 +0000</pubDate>
-      <dc:creator>得物技术</dc:creator>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e97799ba4d074e40919a91caff1f7f6a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6Z2S5bGx5LiN6KeB:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787499&amp;x-signature=2FkTdg55QeZPDAfkxQN%2Btl%2Fl%2BO8%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 01:07:55 +0000</pubDate>
+      <dc:creator>青山不见</dc:creator>
     </item>
     <item>
-      <title>分库分表要被淘汰了？</title>
-      <link>https://juejin.cn/post/7709495049776480294</link>
-      <description>前言 不知道你有没有遇到过这种情况：业务数据量涨到几个亿，单表查询开始变慢，大家的第一反应可能是分库分表。 于是引入 ShardingSphere，把订单表拆成 64 片。 结果分片规则要维护、跨片查</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709495049776480294</guid>
+      <title>为什么 MySQL 偏偏选了 B+ 树？</title>
+      <link>https://juejin.cn/post/7709802672981032998</link>
+      <description>大家在业务里应该都碰到过这种事： 一张两千多万行的 user 表，select * from user where id = 12345 眨眼就回来了； 同一张表，where nickname = '</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709802672981032998</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>数据库</category>
+      <category>juejin</category>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/87ce55cbe859457d97e793327b3bb4ae~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgbGVpa29vbw==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787499&amp;x-signature=lMZtVq0q3cf5xJ8lnzrjusXzrRU%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 01:20:34 +0000</pubDate>
+      <dc:creator>leikooo</dc:creator>
+    </item>
+    <item>
+      <title>三级缓存为什么是三级？二级缓存不够吗</title>
+      <link>https://juejin.cn/post/7709725841966563343</link>
+      <description>01 · 升级之后，项目起不来了 一个跑了半年的老项目，把 Spring Boot 从 2.5 升到 3.x，启动直接挂： 代码一行没动。原因是 Spring Boot 从 2.6 起把 spring</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709725841966563343</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>前端</category>
+      <category>后端</category>
+      <category>面试</category>
+      <category>juejin</category>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/43d038af1a87435baba53d3b8474b636~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5pav57u06LWk:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787499&amp;x-signature=hPp9gZiS3Z3bF5fhC0U5jJoqm7I%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 01:44:07 +0000</pubDate>
+      <dc:creator>斯维赤</dc:creator>
+    </item>
+    <item>
+      <title>基于阿里云 AgentLoop 构建 Agent 进化数据飞轮闭环，让线上 Trace 沉淀为可复用经验</title>
+      <link>https://juejin.cn/post/7710037720589287475</link>
+      <description>本文最佳实践整理来自阿里云 AgentCore 企业智能体构建与治理沙龙·广州站分享议题《基于阿里云 AgentCore X AgentLoop，无限极灵知 Agent 持续改进及自进化实践》。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710037720589287475</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>云原生</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 06:39:48 +0000</pubDate>
+      <dc:creator>阿里云云原生</dc:creator>
+    </item>
+    <item>
+      <title>布隆过滤器(Bloom Filter)</title>
+      <link>https://juejin.cn/post/7709886629536137242</link>
+      <description>本文讲解布隆过滤器的核心原理与适用场景，介绍其基于位数组与多哈希函数的实现逻辑，分析 “无假阴性、存在假阳性” 的核心特性与误判率控制方法，给出 Java 与 Redis 双端的落地用法，并拆解了缓存</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709886629536137242</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>后端</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 02:26:43 +0000</pubDate>
-      <dc:creator>苏三说技术</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 02:35:47 +0000</pubDate>
+      <dc:creator>旋律414</dc:creator>
     </item>
     <item>
-      <title>冷门Python知识点006篇：Python 类体里的名字，能被"凭空造出来"</title>
-      <link>https://juejin.cn/post/7709344829042622499</link>
-      <description>一天一个冷知识：Python 类体里的名字，能被"凭空造出来" 摘要：在类体里写 total = GLOBAL + missing，GLOBAL 明明是 999，结果却是 0，而且不报错。谜底是什么呢</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709344829042622499</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>后端</category>
-      <category>Python</category>
-      <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/5bc66498f22a4547891580846072db8d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgX191bmRlcmxpbmVfXw==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701859&amp;x-signature=q5T4b3BVMaQAsSlM2zB37SGRBog%3D" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 18 Nov 2026 15:07:54 +0000</pubDate>
-      <dc:creator>__underline__</dc:creator>
-    </item>
-    <item>
-      <title>研发数字人 Agent：从 0 到 1 的架构与实践</title>
-      <link>https://juejin.cn/post/7709516736735936538</link>
-      <description>本型构建轻量化「研发数字人 Agent 系统」，将个人私有经验结构化沉淀、实时联动线上业务系统、并复刻本人排查思路与工作习惯，实现问题受理、信息检索、逻辑分析、方案输出的全流程自动化闭环。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709516736735936538</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>Agent</category>
-      <category>MCP</category>
-      <category>人工智能</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 02:32:23 +0000</pubDate>
-      <dc:creator>vivo互联网技术</dc:creator>
-    </item>
-    <item>
-      <title>uni-app 鸿蒙端提现点不动？我用 UTS 插件补上了微信"确认收款"</title>
-      <link>https://juejin.cn/post/7709380483743252514</link>
-      <description>鸿蒙端点"领取"却毫无反应？官方插件只做了 Android/iOS。我用 UTS 插件补上微信"确认收款"：拉起、用 UTSHarmony 钩子自动接管回跳、结果双通道回传，宿主零原生改动。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709380483743252514</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>HarmonyOS</category>
-      <category>微信</category>
-      <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/cdbc3ab24f66434a97b25ce8cfbfa1ae~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3ODYxOTQxNzcyMDc0MQ==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701859&amp;x-signature=oR4Zfbvwd2heJAMa5OC1nksnoew%3D" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 18 Nov 2026 13:24:43 +0000</pubDate>
-      <dc:creator>用户8619417720741</dc:creator>
-    </item>
-    <item>
-      <title>【3】核心引擎：LangGraph 编排与多路召回重排</title>
-      <link>https://juejin.cn/post/7709327113615441920</link>
-      <description>敲下回车后的十秒里发生了什么？五节点流水线、六路召回、RRF 融合与跨源去重，把参差候选理成一份像样片单，还能用图谱顺着「人脉」找片。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709327113615441920</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>人工智能</category>
-      <category>Agent</category>
-      <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6e8047c383be46548683c167921de2d2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgVGVraXJh:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701859&amp;x-signature=p9fPmNMtQNp3aDXHl63RdziZmj8%3D" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 18 Nov 2026 11:13:06 +0000</pubDate>
-      <dc:creator>Tekira</dc:creator>
-    </item>
-    <item>
-      <title>AI-SDLC 实践 06｜开发阶段的知识库：Agent 写代码前该读哪些规则和业务知识</title>
-      <link>https://juejin.cn/post/7709516736735985690</link>
-      <description>Agent 写代码前该读哪些规则和业务知识：按怎么读把知识分成 K0/K1/K2 三层，业务知识放回负责它的代码仓，开发中不改正式知识、交付后统一回写，再靠三个核对点和每周扫代码保鲜。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709516736735985690</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>AI编程</category>
-      <category>Claude</category>
-      <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/9e631c07d857496fb4968fa6187f76a4~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgWnpU:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701859&amp;x-signature=jLt%2FreqeX4moW%2Fpflc6xvVUl7qk%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 02:37:22 +0000</pubDate>
-      <dc:creator>ZzT</dc:creator>
-    </item>
-    <item>
-      <title>雨后的黄电车：用 Awaking 给灰色街景定一个主角</title>
-      <link>https://juejin.cn/post/7709436541777313811</link>
-      <description>阴雨街景里，怎样让黄色电车和湿地反光成为主角，同时保住冷灰背景？用 Awaking 复古胶片色的真实成片，记录效果、边界和可尝试的短路径。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709436541777313811</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>iOS</category>
-      <category>APP</category>
-      <category>产品</category>
-      <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e3d7ff323bb7464a8972bdc621606cc3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6Iy25bqV5LiW55WM5LmL5LiL:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701859&amp;x-signature=n2K9cPkAchPxKRm%2FCPo1rlsQsWE%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 02:47:46 +0000</pubDate>
-      <dc:creator>茶底世界之下</dc:creator>
-    </item>
-    <item>
-      <title>我扒了 GitHub Trending 前 20，8 个在做同一件事：给 Coding Agent 造基础设施</title>
-      <link>https://juejin.cn/post/7709495049776709670</link>
-      <description>昨天翻 GitHub 趋势榜，本来只是想找两个能用的小工具。 结果翻到一半发现一个挺反常的结构：榜单前列几乎看不到模型和应用，全都在解决同一个问题——怎么让写代码的 AI 代理把活干得更好。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709495049776709670</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>AI编程</category>
-      <category>GitHub</category>
-      <category>开源</category>
-      <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a082f92c8fd74f8592a5f2f025a57490~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6Zuo5aSc5a-75pm05aSp:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701859&amp;x-signature=0RQdUcN0u4QHbJYAiO%2Fx2mr7v9w%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 02:50:14 +0000</pubDate>
-      <dc:creator>雨夜寻晴天</dc:creator>
-    </item>
-    <item>
-      <title>火山引擎 VeKnow 落地指南（上）：从选场景到知识治理</title>
-      <link>https://juejin.cn/post/7709450680352014390</link>
-      <description>你的企业中是否存在这样的知识应用困境？ 知识分散：销售面对跨产品咨询，手册、报价单、竞品资料各搜各的，拼不出完整答案。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709450680352014390</guid>
+      <title>Apache Doris 2.1.10：存储结构、索引与查询优化详解</title>
+      <link>https://juejin.cn/post/7709859987846135835</link>
+      <description>Apache Doris 2.1.10：存储结构、索引与查询优化详解 1. 整体存储架构 理解 Doris 底层最重要的逻辑层级是： 层级 作用 需要记住的特点 Table 逻辑表和数据模型 Dupl</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709859987846135835</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>大数据</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 03:03:30 +0000</pubDate>
-      <dc:creator>字节跳动数据平台</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 02:45:30 +0000</pubDate>
+      <dc:creator>尹文祥</dc:creator>
     </item>
     <item>
-      <title>我用Vue 100%复制DeepSeek开源的网页App，代码更少，功能还更多!</title>
-      <link>https://juejin.cn/post/7709605428527038504</link>
-      <description>11 月 13 日，DeepSeek 发布了全家桶应用 API，同时在 GitHub 开源了官方网页端示例 chat-demo。 和常见的“一个输入框 + 调一下文本流接口”的玩具 Demo 不同</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709605428527038504</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>前端</category>
-      <category>Vue.js</category>
-      <category>GitHub</category>
-      <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/7793fb9a1c9a4b0298efc82bb24d6654~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgT3BlblRpbnnnpL7ljLo=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701859&amp;x-signature=R0eM4m105sLc942JVTliBkbjYqw%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 03:27:42 +0000</pubDate>
-      <dc:creator>OpenTiny社区</dc:creator>
-    </item>
-    <item>
-      <title>GitLab 服务器疑似遭入侵：从 502 故障到 Root 权限异常的完整排查复盘</title>
-      <link>https://juejin.cn/post/7709537202950963226</link>
-      <description>GitLab 服务器疑似遭入侵：从 502 故障到 Root 权限异常的完整排查复盘 一、一次普通的 GitLab 502 故障 最近在维护一台 GitLab 服务器时，遇到了一个比较棘手的问题：Gi</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709537202950963226</guid>
+      <title>从重复点击到多实例并发：异步报表导出的五层幂等与防重设计</title>
+      <link>https://juejin.cn/post/7709810036449050678</link>
+      <description>从重复点击到多实例并发：异步报表导出的五层幂等与防重设计 一、业务背景：为什么一次“导出”会变成一个异步任务 在后台管理系统、数据分析平台和企业协作系统中，经常存在这样的功能： 用户选择一组数据； 选</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709810036449050678</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>后端</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 03:32:02 +0000</pubDate>
-      <dc:creator>掘金者阿豪</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 02:46:53 +0000</pubDate>
+      <dc:creator>代码丰</dc:creator>
     </item>
     <item>
-      <title>Java4Shell 远程代码执行漏洞 - CVE-2026-114938</title>
-      <link>https://juejin.cn/post/7709537202950848538</link>
-      <description>作者：来自 Elastic Product Security Team Elastic 已获悉一个影响 OpenJDK 和甲骨文 Java 标准版的远程代码执行漏洞（CVE-2026-114938，又</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709537202950848538</guid>
+      <title>Python的构造方法把我坑惨了，原来__new__和__init__的区别这么大</title>
+      <link>https://juejin.cn/post/7709810036449460278</link>
+      <description>小许那天想实现一个单例模式。 他的需求很明确：一个数据库连接类，整个程序里只允许存在一个实例，所有地方共用同一个连接。他的思路是，在初始化的时候检查一下“是不是已经创建过了”，如果创建过，就复用原来的</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709810036449460278</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>后端</category>
+      <category>juejin</category>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/18472935d0f24272b0449a271eb1cf85~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56uZ5aSn54i3SVA=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787499&amp;x-signature=eH38%2Fi1lOElQY485NOQyYjs%2BGAQ%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 03:19:44 +0000</pubDate>
+      <dc:creator>站大爷IP</dc:creator>
+    </item>
+    <item>
+      <title>公众号里流量很夯的漫画赛道：趣味漫画创作全拆解</title>
+      <link>https://juejin.cn/post/7709987743644385323</link>
+      <description>大家好，我是小肥肠，努力运营一人公司的前程序员。今天给大家拆解一下公众号漫画赛道里流量很夯的趣味漫画。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709987743644385323</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>人工智能</category>
+      <category>AIGC</category>
+      <category>Agent</category>
+      <category>juejin</category>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/1e5e084448d04b59a64597676a6f6255~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5ZCO56uv5bCP6IKl6IKg:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787499&amp;x-signature=5bNNYgLfbkCxniPXV5ON0685WBk%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 06:47:47 +0000</pubDate>
+      <dc:creator>后端小肥肠</dc:creator>
+    </item>
+    <item>
+      <title>一个 2 MB 的 .zst 文件，解压出来只有十几 KB</title>
+      <link>https://juejin.cn/post/7709855110056116258</link>
+      <description>处理一批压缩过的会话归档，文件 2,196,441 字节。按常识解压： 2 MB 的文件，解出来只有十几 KB。 不报错、不警告、buffer 也不空。第一反应是文件损坏了，于是拿</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709855110056116258</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Node.js</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 05:07:37 +0000</pubDate>
+      <dc:creator>用户21607634083</dc:creator>
+    </item>
+    <item>
+      <title>RAG 一个请求吃掉 8 个核，chat 只要 0.16 个</title>
+      <link>https://juejin.cn/post/7710066355726385167</link>
+      <description>同一个RAG接口，两周前量出4.9 核，今天量出0.7核。差的不是机器，是取样方式：6个请求只取一次快照，正好撞上模型加载那一下，把启动开销当成了稳态。扩到50个请求、加了预热，才看清真正的分布。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710066355726385167</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>后端</category>
+      <category>AI编程</category>
+      <category>juejin</category>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/56224233f6b5464bbea2ab3da23ded1c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQUnlhaXogYzorrA=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787499&amp;x-signature=X6ZseNbzUjn0gTMkX900csEEe3Y%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 06:56:25 +0000</pubDate>
+      <dc:creator>AI入职记</dc:creator>
+    </item>
+    <item>
+      <title>Nginx $request_length 为什么会变成负数？一次流量统计异常的源码排查</title>
+      <link>https://juejin.cn/post/7710053374061789238</link>
+      <description>通过分析访问日志和 Nginx 源码，发现丢弃请求体时存在字节漏计问题，在 HTTP/1.1 Pipelining 场景下可能导致 $request_length 变为负数，进而引发流量统计异常</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710053374061789238</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>后端</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 06:54:09 +0000</pubDate>
+      <dc:creator>aurora_zjj</dc:creator>
+    </item>
+    <item>
+      <title>伪造一份"浏览器身份证"：sdenv 是怎么骗过环境检测的</title>
+      <link>https://juejin.cn/post/7709765280440893483</link>
+      <description>JS 逆向 / 开源工具解析 伪造一份"浏览器身份证"：sdenv 是怎么骗过环境检测的 832 Star 的开源项目，把 jsdom 改成了一个"骗得过盘问"的浏览器。拆开它的 21 个补丁，看反爬</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709765280440893483</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>前端</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 01:06:58 +0000</pubDate>
+      <dc:creator>椒哥</dc:creator>
+    </item>
+    <item>
+      <title>HarmonyOS ArkTS 做 MBTI 风格 16 人格测评用 4 维签名字符串做分类的最小算法</title>
+      <link>https://juejin.cn/post/7709818243502735414</link>
+      <description>朴素做法：每道题存一个 "维度" + "方向" 字段，答完 20 题后遍历分数树做 ifelse 判断。16 个人格 = 16 个 ifelse 分支 +</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709818243502735414</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>前端</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 02:36:58 +0000</pubDate>
+      <dc:creator>SameX</dc:creator>
+    </item>
+    <item>
+      <title>Laravel 项目中使用 Eloquent 实现 IM</title>
+      <link>https://juejin.cn/post/7709817287637499938</link>
+      <description>在当今的 Web 应用开发中，IM 即时聊天功能几乎是各类社交、协作平台的标配。Laravel 作为 PHP 领域的一个优秀框架，提供了完善的工具链来构建此类功能。然而，在我亲身参与的一个基于 Lar</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709817287637499938</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>GitHub</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 02:39:01 +0000</pubDate>
+      <dc:creator>吴长建先生重名了</dc:creator>
+    </item>
+    <item>
+      <title>告别前端运行时 undefined：用 Zod 打造端到端类型守卫（附 JSON 一键生成实战）</title>
+      <link>https://juejin.cn/post/7709903153000661042</link>
+      <description>告别前端运行时 undefined：用 Zod 打造端到端类型守卫（附 JSON 一键生成实战） 为什么会这样？因为 TypeScript 的类型系统在编译成 JavaScript 后就会被完全擦除（</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709903153000661042</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>前端</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 04:59:27 +0000</pubDate>
+      <dc:creator>MiniToolDesk</dc:creator>
+    </item>
+    <item>
+      <title>我的抓取脚本凭什么从不抢你的鼠标</title>
+      <link>https://juejin.cn/post/7709987743643795499</link>
+      <description>我每天在电脑上跑几个抓数据的脚本。它们要开浏览器、要登录、要在页面里点来点去。 但它们从来不出现在屏幕上。不是藏起来了，是压根没有可见窗口——你唯一能察觉到的痕迹，是任务栏里多了一个图标。 这件事看起</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709987743643795499</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Chrome</category>
+      <category>前端</category>
+      <category>Node.js</category>
+      <category>juejin</category>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/86463ec810da4dbcade0ff3841fa0eac~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgc3Rvcm1zaGE=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787499&amp;x-signature=EfvM%2B%2FzCupnQ83TVi8Bz2jFWGbY%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 05:44:59 +0000</pubDate>
+      <dc:creator>stormsha</dc:creator>
+    </item>
+    <item>
+      <title>从零实现 DSH 用户信息插件</title>
+      <link>https://juejin.cn/post/7710081167509291034</link>
+      <description>目录 一、目标、效果与前提 二、插件结构与加载机制 三、插槽机制与挂载点选择 四、host 半身与数据接口 五、client 半身完整实现（541 行全文） 六、真实账号 API 与三个隐藏的坑 七、</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710081167509291034</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>前端</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 07:06:33 +0000</pubDate>
+      <dc:creator>再吃一根胡萝卜</dc:creator>
+    </item>
+    <item>
+      <title>尾言：关于前端工程架构设计的一些思考</title>
+      <link>https://juejin.cn/post/7710037720588992563</link>
+      <description>前端架构设计没有统一的标准答案。结合个人项目经历，从工程设计、长期维护、业务变化、组织协作到 AI 时代的技术思考，探讨如何在技术理想与现实约束之间寻找平衡，构建适合自身业务、团队和项目长期发展的工程</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710037720588992563</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>前端</category>
+      <category>juejin</category>
+      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/789698cf7c764d4f988b613d4ca1b935~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgdmVyb2ho:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787499&amp;x-signature=6UyvX9%2FtD46%2BkDBvla2f8JnMe2g%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 06:12:05 +0000</pubDate>
+      <dc:creator>verohh</dc:creator>
+    </item>
+    <item>
+      <title>Android源码第二十三章：Telephony、RIL 与 IMS——来电怎么到应用？</title>
+      <link>https://juejin.cn/post/7709761919902335010</link>
+      <description>一通模拟来电怎样到达应用？从 Radio AIDL 和虚拟 Modem 追到 TelephonyCallback，并看清 IMS 和 VoLTE 的取证边界。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709761919902335010</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Android</category>
+      <category>juejin</category>
+      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/976c5baee715487c9a22520922faeff8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rip5p2wSmF5:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787498&amp;x-signature=687Em4Rhu8KarOnDPBVzEAD5beM%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 02:02:00 +0000</pubDate>
+      <dc:creator>温杰Jay</dc:creator>
+    </item>
+    <item>
+      <title>没人认领 .md：安卓把报告交给了音乐播放器打开</title>
+      <link>https://juejin.cn/post/7709881030866649115</link>
+      <description>没人认领 .md：安卓把报告交给了音乐播放器打开 Andee 是住在 Android 手机里的 agent。他用无障碍服务读屏幕、自己点，不需要哪个 App 为他暴露接口。他有两副身体：电脑那半边能干</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709881030866649115</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Android</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 02:15:14 +0000</pubDate>
+      <dc:creator>booboosui</dc:creator>
+    </item>
+    <item>
+      <title>OceanBase AI数据大会，我会这么逛</title>
+      <link>https://juejin.cn/post/7710053374061920310</link>
+      <description>参加技术大会最怕两种结局：一种是坐着听完八个 PPT，回家只记住茶歇的咖啡和点心；另一种是全程在展台薅周边，一场演讲没进。 今天就来聊聊，11.24 这一天，怎么逛才不亏。 上午拿方向感，下午按兴趣选</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710053374061920310</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>数据库</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 07:19:30 +0000</pubDate>
+      <dc:creator>老纪的技术唠嗑局</dc:creator>
+    </item>
+    <item>
+      <title>大模型 API 真的在赔本赚吆喝吗？聊聊 Token 背后的真实成本</title>
+      <link>https://juejin.cn/post/7710066355726712847</link>
+      <description>作者 | Hadley Wickham 编译 | 岳扬 我经常听到一种质疑的声音，认为 AI token 的定价根本不可持续，那些前沿实验室是在拿 VC 的钱替我们大幅贴补。先低价让人上瘾，等哪天想狠</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710066355726712847</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>人工智能</category>
+      <category>LLM</category>
+      <category>AIGC</category>
+      <category>juejin</category>
+      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/9a74f3aae7ce4541a8d16e0eefe15b7c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQmFpaGFpX0lEUA==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787498&amp;x-signature=PStTsO7Rm0IDvPA%2B7wOS%2F%2FtDpq8%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 07:29:28 +0000</pubDate>
+      <dc:creator>Baihai_IDP</dc:creator>
+    </item>
+    <item>
+      <title>设计器能拖抄送，一点发布却报 flowable-servicetask-invalid-type：Forge Admin 部署前改写节点属性</title>
+      <link>https://juejin.cn/post/7709987743644811307</link>
+      <description>设计器拖了抄送，发布却报未注册委托或 flowable-servicetask-invalid-type。Forge Admin 先放行已注册委托，部署前再改写保留属性。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709987743644811307</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>低代码</category>
+      <category>工作流引擎</category>
+      <category>Spring Boot</category>
+      <category>juejin</category>
+      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/746d07ff931f4f94888447538de86a85~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRm9yZ2XkvY7ku6PnoIE=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787498&amp;x-signature=%2BFCqmii%2FSw999S9RepOaL75kkjk%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 07:59:41 +0000</pubDate>
+      <dc:creator>Forge低代码</dc:creator>
+    </item>
+    <item>
+      <title>Java 删除 Excel 重复行：整行去重、按单列和多列去重</title>
+      <link>https://juejin.cn/post/7710081167510011930</link>
+      <description>把几次导出的订单明细合并到一张 Excel 表里，很容易碰到重复记录。有的是同一条记录导入了两遍，有的是同一件商品上午还是「待发货」，下午再导出时已经变成「已发货」。同一个订单号下还可能有多件商品，这</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710081167510011930</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>后端</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 07:59:57 +0000</pubDate>
+      <dc:creator>用户372157426135</dc:creator>
+    </item>
+    <item>
+      <title>MyBatis-Plus LambdaQueryWrapper 隐式转换踩坑：不知不觉索引失效</title>
+      <link>https://juejin.cn/post/7710060704157990952</link>
+      <description>前言 前一篇我们聊了 MySQL 隐式转换导致索引失效的问题，很多同学看完觉得：只要数据库字段类型对齐就不会踩坑。 但在 MyBatis-Plus 开发中，Lambda 写法一样会触发隐式转换的陷阱，</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710060704157990952</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Java</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 08:02:53 +0000</pubDate>
+      <dc:creator>java_backend_dev</dc:creator>
+    </item>
+    <item>
+      <title>使用 Codex 来写入 PDF 文件并创建 AI Agent 对它进行问答</title>
+      <link>https://juejin.cn/post/7710125642352148531</link>
+      <description>在之前的文章 “哈利波特问答 Agent Builder + Workflow 教程”，我们展示了如何使用 阿里云 Elasticssearch 实例来写入哈利波特章节5，并对它进行搜索的详细步骤。在</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710125642352148531</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>Elasticsearch</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 03:28:07 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 08:07:22 +0000</pubDate>
       <dc:creator>Elasticsearch</dc:creator>
     </item>
     <item>
-      <title>从硬解基座到字幕与滤镜链：ffmpeg-for-HarmonyOS v0.3.2</title>
-      <link>https://juejin.cn/post/7709380677695389739</link>
-      <description>ffmpeg-for-HarmonyOS v0.3.2发布，本次进行了功能完善，包括音视频裁剪、字幕、画中画、变速等。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709380677695389739</guid>
+      <title>在 Astro SSR 项目中实现服务启动前初始化</title>
+      <link>https://juejin.cn/post/7710069393501536298</link>
+      <description>远程配置、组件版本和缓存预热，往往是服务接收请求之前就应该完成的准备工作。把这些逻辑分散在页面或请求中间件里，会让用户请求承担初始化成本，也让失败处理和启动状态难以统一。 本文介绍一种适用于 Astr</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710069393501536298</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>HarmonyOS</category>
-      <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/156ebc3249b643ffad094f98253a3743~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgU2lyaXVzX0pp:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701859&amp;x-signature=xX0nNyGwF07YdIof8BCpax3J4JQ%3D" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 18 Nov 2026 13:07:45 +0000</pubDate>
-      <dc:creator>Sirius_Ji</dc:creator>
-    </item>
-    <item>
-      <title>边缘 Agent：为什么是它连出来，而不是平台连进去</title>
-      <link>https://juejin.cn/post/7709442455398400035</link>
-      <description>边缘 Agent：为什么是它连出来，而不是平台连进去 导语 "平台管机器"最直觉的实现是：平台存 SSH 凭据，需要执行命令时就连过去。这在单机房内网很好用，一旦机器散落在客户机房、家庭宽带、云上不同</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709442455398400035</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>GitHub</category>
       <category>后端</category>
-      <category>架构</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 04:20:06 +0000</pubDate>
-      <dc:creator>一条Go</dc:creator>
-    </item>
-    <item>
-      <title>开源新生代雷达 · 第 15 期</title>
-      <link>https://juejin.cn/post/7709442455398432803</link>
-      <description>开源新生代雷达 · 第 15 期 2026 年 11 月 19 日 星期三 今日导语 今天有一件事验证了我自己设的判据：horizon 的 issue 数，第一次转负了。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709442455398432803</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>GitHub</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 04:20:58 +0000</pubDate>
-      <dc:creator>一条Go</dc:creator>
-    </item>
-    <item>
-      <title>Vercel AI SDK 6 完整教程系列 - 第二部分:结构化数据与工具调用</title>
-      <link>https://juejin.cn/post/7709516157925769243</link>
-      <description>接续基础入门篇，介绍 Vercel AI SDK 6 如何用 system 与 messages 控制模型，用 generateObject 和 Zod 做结构化输出，并用 tools 完成多步调用。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709516157925769243</guid>
-      <category>chinese</category>
-      <category>tech</category>
       <category>前端</category>
-      <category>JavaScript</category>
       <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6875939f3a9b4b90ac5fd700fc174d50~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rOv5rO3:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701859&amp;x-signature=XtJYjijarz4w7pfRGfP7KgI0PlU%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 04:37:50 +0000</pubDate>
-      <dc:creator>泯泷</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 08:03:23 +0000</pubDate>
+      <dc:creator>张明君64451</dc:creator>
     </item>
     <item>
-      <title>Android 消息机制剖析：从 Handler 投递到 Looper 循环的全链路</title>
-      <link>https://juejin.cn/post/7709471731404554280</link>
-      <description>本文剖析 Handler 源码，梳理消息时序排队、Looper 线程隔离与阻塞唤醒及消息池复用机制。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709471731404554280</guid>
+      <title>一行 asLiveData，背后是一座生命周期的桥</title>
+      <link>https://juejin.cn/post/7710067769202819082</link>
+      <description>一、全貌：一次调用经过的三层 先把调用链摊开，后面逐层拆： 三个文件、三个角色，一层比一层靠近引擎： 层 所在文件 角色 asLiveData FlowLiveData.kt 把 Flow 包装成 {</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710067769202819082</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>Android</category>
-      <category>juejin</category>
-      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d746952abf424b429da85a3ff6474af8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6Zuo55m9:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701859&amp;x-signature=vq5kaUVf4i%2BMGoJ%2BaqXR3vKRsIg%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 05:14:33 +0000</pubDate>
-      <dc:creator>雨白</dc:creator>
-    </item>
-    <item>
-      <title>给Deepseek Harness装上插件市场，从此插件无忧</title>
-      <link>https://juejin.cn/post/7709537202951585818</link>
-      <description>前阵子折腾 DeepSeek Harness（下面简称 DSH），想给 dsh web 装几个社区插件。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709537202951585818</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>后端</category>
+      <category>Kotlin</category>
       <category>Java</category>
-      <category>程序员</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 05:19:39 +0000</pubDate>
-      <dc:creator>SimonKing</dc:creator>
+      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/7746c3d6f99f4993932d15c33819f23b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgaGFpX2FuZHJvaWQ=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787498&amp;x-signature=WXZ0iIpu1TYT%2BBpX2ZD81HjJL%2B8%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 05:52:07 +0000</pubDate>
+      <dc:creator>hai_android</dc:creator>
     </item>
     <item>
-      <title>云原生开源项目周报（2026 / 11.09 — 11.16）</title>
-      <link>https://juejin.cn/post/7709669159076347954</link>
-      <description>![1.png](tos-cn-i-73owjymdk6/daffceb3ac394db890a4b16e9dc6da05) ![2.png](tos-cn-i-73owjymdk6/7182c6ac</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709669159076347954</guid>
+      <title>阿里云 AI 网关 x 联想百应：构建 Token Plan 平台&amp;词元宝 Token Key 产品，让模型服务走向规模化运营</title>
+      <link>https://juejin.cn/post/7710074735883436041</link>
+      <description>为支撑不同用户、模型和服务来源的统一管理，联想百应采用阿里云云原生 API 网关、AI 网关与日志服务 SLS，构建 Token Plan 与词元宝的模型服务承载和治理体系，为模型接入、调用管理、用量</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710074735883436041</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>云原生</category>
-      <category>开源</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 05:23:43 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 08:11:49 +0000</pubDate>
       <dc:creator>阿里云云原生</dc:creator>
     </item>
     <item>
-      <title>防抖节流、并发控制、指数退避重试——我把它收进了一个库 async-concurrency-kit</title>
-      <link>https://juejin.cn/post/7709506192402153526</link>
-      <description>一、一个库覆盖 6 个高频场景 二、pLimit：并发控制的经典实现 并发限制的核心是「计数器 + 队列」：超过上限的任务进队列排队，前面有任务完成就放一个出来</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709506192402153526</guid>
+      <title>Java 在 PDF 中查找关键词：获取页码和坐标，并高亮匹配结果</title>
+      <link>https://juejin.cn/post/7710125642352279603</link>
+      <description>一份采购合同里，「付款期限」可能出现在正文，也可能在补充条款里再提一次。审阅时，只知道合同里出现过这个词还不够，往往还要确认它在哪几页、每页出现几次。把命中的文字标出来，发给同事核对也更方便。 下面用</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710125642352279603</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>前端</category>
+      <category>Java</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 03:05:54 +0000</pubDate>
-      <dc:creator>lcy_24</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 08:12:55 +0000</pubDate>
+      <dc:creator>用户372157426135</dc:creator>
     </item>
     <item>
-      <title>GPT6.2“买家秀”来了，吼吼呵呵！</title>
-      <link>https://juejin.cn/post/7709526633031942186</link>
-      <description>OpenAI 最强模型的“买家秀”来了！ “卖家秀”看得很爽，各种效果非常好，让我对 GPT-6.2 Astra 有了一丝尊敬和期待。 然后，我看了一下网络口碑不是很好啊，主流媒体都是批评的态度，据说</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709526633031942186</guid>
+      <title>每天一个开源项目#162 NGINX：流式响应背后的缓冲、背压与重试</title>
+      <link>https://juejin.cn/post/7710078262642950163</link>
+      <description>NGINX怎样影响流式接口的输出节奏？本文沿事件循环与上游回调拆解响应缓冲、背压、读超时和重试边界，并用本地SSE示例说明配置取舍，避免把关闭缓冲误当成完整的流式方案。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710078262642950163</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>人工智能</category>
+      <category>GitHub</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e8b7415a51da4488b9e03c63c80599a8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55Sy57u05pav:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701858&amp;x-signature=l7xpqcYJ112b5p%2B9yIPNTLjXQNw%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 05:28:52 +0000</pubDate>
-      <dc:creator>甲维斯</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 08:13:53 +0000</pubDate>
+      <dc:creator>dong_junshuai</dc:creator>
     </item>
     <item>
-      <title>SolidJS 2.0 正式发布：异步成为响应式的一部分</title>
-      <link>https://juejin.cn/post/7709606490415415336</link>
-      <description>11 月 16 日，SolidJS 创始人 Ryan Carniato 在官方博客发表了 《Solid 2.0 - The Long Hold》，宣布 SolidJS 2.0 正式进入稳定版</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709606490415415336</guid>
+      <title>别再用“AI 说完成了”：一套可复算的 Agent 验收流水线</title>
+      <link>https://juejin.cn/post/7709773907109281801</link>
+      <description>别再用“AI 说完成了”：一套可复算的 Agent 验收流水线：做 AI Agent 自动化，最难的不是让它跑起来，而是让它**每次跑完都能证明自己真的跑对了**。 我们这条流水线跑在 Windows</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709773907109281801</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>前端</category>
+      <category>后端</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 05:29:56 +0000</pubDate>
-      <dc:creator>parade岁月</dc:creator>
+      <pubDate>Thu, 19 Nov 2026 18:37:50 +0000</pubDate>
+      <dc:creator>宇先生本人号</dc:creator>
     </item>
     <item>
-      <title>让 AI Agent 和 征程6 台架高效、稳定、安全地协作</title>
-      <link>https://juejin.cn/post/7709696748432654371</link>
-      <description>本文设计并迭代了一款面向征程6台架的交互工具benchctl，聚焦远程执行中的可验证、可恢复与权限可控。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709696748432654371</guid>
+      <title>一个不上传数据的工具，怎么知道自己有没有人用</title>
+      <link>https://juejin.cn/post/7709761919901417506</link>
+      <description>这个问题被问过不止一次，你们天天说本地处理，那我怎么知道你没把对话发走。 我没打算用一句"我们不会"把它答过去。本地那个 SQLite 文件的路径在下面，你可以自己打开看。 表结构在仓库里，perso</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709761919901417506</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>安全</category>
-      <category>算法</category>
-      <category>自动驾驶</category>
+      <category>架构</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/bdf63b3637504f90acd601441eafaabf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Zyw5bmz57q_5byA5Y-R6ICF:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701858&amp;x-signature=7yNAYi1Ek5QmkX0oLSsEyAVbiOw%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 06:09:43 +0000</pubDate>
-      <dc:creator>地平线开发者</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 00:24:40 +0000</pubDate>
+      <dc:creator>知白映川</dc:creator>
     </item>
     <item>
-      <title>为了快 30 倍，我把构建工具换成了 Rust，结果团队差点连班都加不了</title>
-      <link>https://juejin.cn/post/7709679151841722409</link>
-      <description>去年底，我力排众议，主导把团队的构建工具从 Webpack 迁到了 Rspack。 理由很充分：冷启动构建从 45 秒降到 2 秒，HMR 从秒级进入毫秒级，官方 benchmark 写着“约 20</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709679151841722409</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>前端</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 06:11:05 +0000</pubDate>
-      <dc:creator>涛涛ing</dc:creator>
-    </item>
-    <item>
-      <title>10 万条数据滚动不卡？聊聊我写的虚拟列表组件 vue-virtualize</title>
-      <link>https://juejin.cn/post/7709679151841853481</link>
-      <description>一、先看效果 10 万条数据，滚动丝滑，DOM 节点始终只有几十个 二、核心原理：撑高 + 定位 + 只渲染窗口</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709679151841853481</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>前端</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 06:26:05 +0000</pubDate>
-      <dc:creator>lcy_24</dc:creator>
-    </item>
-    <item>
-      <title>Vercel AI SDK 6 完整教程系列 - 第一部分:基础入门篇</title>
-      <link>https://juejin.cn/post/7709703371808079922</link>
-      <description>为什么换个模型就要重写半个项目？本文介绍 Vercel AI SDK 6 基础入门：统一抽象切换 GPT 与 Claude，以及 generateText 文本生成和 streamText 流式输出。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709703371808079922</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>前端</category>
-      <category>JavaScript</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/87a99a86dcac4861bf051ba9346aa9bf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rOv5rO3:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701858&amp;x-signature=BT2TaopE61Wi4EUkvFZCCT7c8II%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 06:29:37 +0000</pubDate>
-      <dc:creator>泯泷</dc:creator>
-    </item>
-    <item>
-      <title>把可观测做成基础设施：阿里云 Elasticsearch 监控链路的一次彻底重构</title>
-      <link>https://juejin.cn/post/7709531960893620262</link>
-      <description>老架构为什么难以稳定；重构坚持了哪些原则；数据如何收敛进云监控 2.0 并以 CloudLens for Elasticsearch 交付；以及这份数据为什么能被程序——包括 STAROps 数字员工</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709531960893620262</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>人工智能</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 06:40:24 +0000</pubDate>
-      <dc:creator>阿里云大数据AI技术</dc:creator>
-    </item>
-    <item>
-      <title>动态组件与异步组件</title>
-      <link>https://juejin.cn/post/7709526633032335402</link>
-      <description>系统讲解 Vue 3 动态组件、KeepAlive 状态缓存与异步组件按需加载，通过页签实战掌握加载反馈、失败重试和预加载。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709526633032335402</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>Vue.js</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/9bd3e3f9df9845099b9508d2a1f0218a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rSL5rSL5oqA5pyv56yU6K6w:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701858&amp;x-signature=4CgvFaNrDgk%2BTz4Ht1HmKRppVnY%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 06:42:49 +0000</pubDate>
-      <dc:creator>洋洋技术笔记</dc:creator>
-    </item>
-    <item>
-      <title>第一次写 DSH 插件：跟着自己的喜好实现个简单的代码管理插件</title>
-      <link>https://juejin.cn/post/7709669159077330994</link>
-      <description>记录第一次去摸它的插件注入机制，也是第一次把一个完整的 Git 图形面板搬进一个 AI 对话工具里。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709669159077330994</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>前端</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 06:55:01 +0000</pubDate>
-      <dc:creator>叫个啥呢</dc:creator>
-    </item>
-    <item>
-      <title>AI 热点日报（2026-11-19）：Anthropic 全球史上最大 IPO 上市，谷歌发布 Gemini 4 Neon</title>
-      <link>https://juejin.cn/post/7709679151842246697</link>
-      <description>AI 热点日报（2026-11-19）：Anthropic 全球史上最大 IPO 上市，谷歌发布 Gemini 4 Neon 模型与技术 1. 谷歌发布 Gemini 4 Neon：主打编程与企业工作</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709679151842246697</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>人工智能</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 07:00:50 +0000</pubDate>
-      <dc:creator>墨林陌</dc:creator>
-    </item>
-    <item>
-      <title>Agent Harness 工程（I5）：权限与沙箱——让否决改变控制流</title>
-      <link>https://juejin.cn/post/7709425536502923304</link>
-      <description>权限与沙箱不是两件事：I5 让 deny 真正改变控制流，ask 没有答案就拒绝，审批决定先落盘、再执行，模型默认只看见低风险的工具，再用工作区、子进程、凭证和脱敏四条边界兜住放行后的调用。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709425536502923304</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>Agent</category>
-      <category>LLM</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 00:32:51 +0000</pubDate>
-      <dc:creator>cheerfunfun</dc:creator>
-    </item>
-    <item>
-      <title>AI 带来的新生意｜稀土掘金 X-Lab 年度大会招募开启</title>
-      <link>https://juejin.cn/post/7709680714968580159</link>
-      <description>AI 带来的新生意，会长在哪些具体需求里？ 一项小商家过去负担不起的服务，一个因为成本做不出来的互动创意，一件家庭里反复协调却一直没有合适工具的事——这些需求一直都在，只是过去服务起来太贵、太难。当</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709680714968580159</guid>
+      <title>【agent评测】：真实系统演示工具调用长什么样，用例怎么设计，怎么测</title>
+      <link>https://juejin.cn/post/7709708111436103680</link>
+      <description>工具调用怎么测（真实系统演示） 今天用真实系统给大家看一下：工具调用长什么样，用例怎么设计，怎么测。 对着的是 Agent Platform 的「工具调用」「对话测试」「调用记录」三页，以及 skil</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709708111436103680</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>前端</category>
       <category>后端</category>
-      <category>VibeCoding</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 06:59:23 +0000</pubDate>
-      <dc:creator>掘金酱</dc:creator>
-    </item>
-    <item>
-      <title>移动端 rem 适配</title>
-      <link>https://juejin.cn/post/7709471731405078568</link>
-      <description>移动端 rem 适配：搞懂 rootValue、根字号与尺寸换算 “你们项目是如何做屏幕适配的？” 整理这个问题时，我发现最容易混淆的是：源码明明写的是 px，为什么页面能随着宽度变化？</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709471731405078568</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>前端</category>
-      <category>面试</category>
-      <category>Vue.js</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/9230fc50ee964a3ea74e5839c4e73f0f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5p-Q5ZOI5Y6L5Yqb5aSn:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701858&amp;x-signature=L3UG1RAPHW7gRzB%2BBSwc7FdAyc8%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 07:01:31 +0000</pubDate>
-      <dc:creator>某哈压力大</dc:creator>
-    </item>
-    <item>
-      <title>关于 Paimon-Rust 的写操作(细节)</title>
-      <link>https://juejin.cn/post/7709696748433096739</link>
-      <description>深入讲解在paimon-rust中写入和提交两阶段更多的细节和内核，针对前篇paimon-rust写入链路的补充。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709696748433096739</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>后端</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6bf3869ae4e14806bcabdc1bfa397e03~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ICD5ouJ5Lmf55av54uC:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701858&amp;x-signature=1g%2BRjcQeLeBUBHCICOY5yKgBzWU%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 07:00:04 +0000</pubDate>
-      <dc:creator>考拉也疯狂</dc:creator>
-    </item>
-    <item>
-      <title>8万星开源HyperFrames，我用WorkBuddy免费模型做了3条视频</title>
-      <link>https://juejin.cn/post/7709609115640184883</link>
-      <description>这几天 GitHub 上的 HyperFrames 开源项目蹿到了八万多星，一个月涨了两万多，背后是做 AI 视频的 HeyGen。 大家好，我是小虎。 这可是做视频的神器啊，不想付费用生视频大模型，</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709609115640184883</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>AI编程</category>
-      <category>AIGC</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8cd4ccb4de454a3981f9ef9f1eb92bfc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5bCP6JmOQUnnlJ_mtLs=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701858&amp;x-signature=Ewp%2BC55CHCqRfOtzPpCzKQJ97qs%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 07:13:47 +0000</pubDate>
-      <dc:creator>小虎AI生活</dc:creator>
-    </item>
-    <item>
-      <title>手写 vLLM 分页 KV Cache（三）：引用计数、写时复制（CoW）与前缀缓存</title>
-      <link>https://juejin.cn/post/7709537202938658854</link>
-      <description>纯 C++17 手写 vLLM 分页 KV Cache：拆解前缀命中、序列分叉与空闲块“复活”三大共享入口；剖析尾块写时复制（CoW）常数级拷贝原理，解析链式前缀哈希与双字段惰性失效策略。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709537202938658854</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>人工智能</category>
       <category>GitHub</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/701e801020aa4a94829b26e75203ffa6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgbGFveWV5ZTgzMQ==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701858&amp;x-signature=%2FQAnXyiAlIkYwYiRu5LjTn9DmNE%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 01:32:48 +0000</pubDate>
-      <dc:creator>laoyeye831</dc:creator>
+      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/adec8eebd93745ae92251d34bfc86946~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rWL6K-V5ZGY5ZGo5ZGo:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787498&amp;x-signature=XYvmpk%2FjE3FSrvtUOnedNN58wrA%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 00:46:37 +0000</pubDate>
+      <dc:creator>测试员周周</dc:creator>
     </item>
     <item>
-      <title>Jev 拆解：不写字、只判断，一个「决策模型」如何接管 LLM 最贵的那一步</title>
-      <link>https://juejin.cn/post/7709605428526743592</link>
-      <description>先说结论： Jev 不是「更小的 LLM」，它是一个接口不同的模型：输入 state 加一组带类型的问题，输出选项概率，不做 token 生成。 快和便宜来自「一次前向 + 所有问题并行求值」，但官方</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709605428526743592</guid>
+      <title>用 SQL 排查支付故障，OpenTelemetry 接入 Databend Cloud 实战</title>
+      <link>https://juejin.cn/post/7710066355727319055</link>
+      <description>排查一次支付故障，找到报错日志只是开始。还要沿着调用链看时间花在了哪里，再确认失败的请求涉及哪些订单。如果日志存在 Elasticsearch 或 Loki，链路存在 Jaeger 或 Tempo，指</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710066355727319055</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>大数据</category>
+      <category>数据库</category>
+      <category>SQL</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 08:24:18 +0000</pubDate>
+      <dc:creator>Databend</dc:creator>
+    </item>
+    <item>
+      <title>12 个工具调用改成并发，耗时从 94 秒掉到 23 秒：DeepSeek 并行调用工程细节</title>
+      <link>https://juejin.cn/post/7709758398561501220</link>
+      <description>我把 Agent 的 12 个工具调用改成并发后，耗时从 94 秒掉到 23 秒：DeepSeek 并行 function calling 的工程细节 上个月我们内部那个代码巡检 Agent 上线，产</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709758398561501220</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>前端</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 01:05:04 +0000</pubDate>
+      <dc:creator>费曼学习法</dc:creator>
+    </item>
+    <item>
+      <title>榜单换个算法就洗牌：不是模型退步，是名次没有分辨率</title>
+      <link>https://juejin.cn/post/7709802672981049382</link>
+      <description>同一批分数，六种聚合口径给出两个第一名；删掉一个测试维度，第一名换成第三个。名次是聚合函数的输出，不是能力的刻度。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709802672981049382</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Rails</category>
+      <category>LLM</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 01:21:06 +0000</pubDate>
+      <dc:creator>不要试图纠正别人</dc:creator>
+    </item>
+    <item>
+      <title>Agent 工具面裁剪：动态暴露与渐进披露（附 Python 代码）</title>
+      <link>https://juejin.cn/post/7709784289286012943</link>
+      <description>一、问题背景：工具接得越多，Agent 反而越容易选错 一个常见的演进路径是这样的：起初给 Agent 挂 6 个工具（文件读写、终端、网页抓取、数据库查询、消息通知），每次都能干净利落地选对；后来接</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709784289286012943</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>人工智能</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 01:21:27 +0000</pubDate>
+      <dc:creator>Hrain</dc:creator>
+    </item>
+    <item>
+      <title>我给 MCP 长任务加进度条，五步只显示了一步</title>
+      <link>https://juejin.cn/post/7709805842757419044</link>
+      <description>上一篇结尾我写了句话：写架构建议的时候最危险的一句话就是"代价不大"，因为说这话的人通常没量过。 那篇量完，长任务这条线我以为是收尾了：任务原语解决超时和取消，持久化解决重启，拆解的账也算清楚了。三个</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709805842757419044</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>程序员</category>
+      <category>人工智能</category>
+      <category>JavaScript</category>
+      <category>juejin</category>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/84d46834f3804269bc354a58af6df1e4~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQUnliY3nq6_lt6XnqIvni64=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787498&amp;x-signature=WMxasa%2FSzryUV%2BT%2FoNwUwiE72XY%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 01:41:02 +0000</pubDate>
+      <dc:creator>AI前端工程狮</dc:creator>
+    </item>
+    <item>
+      <title>qpdf四个结构开关逐个开，只有对象流明显省</title>
+      <link>https://juejin.cn/post/7709820531274121256</link>
+      <description>qpdf 12.4.0四个结构开关逐个开：对象流让10页纯文字PDF小4.15%，Flate九级重压单开小1.11%，删未引用资源单开体积不变，附图映无损结构档对照</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709820531274121256</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>前端</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 01:55:12 +0000</pubDate>
+      <dc:creator>修炼的dance</dc:creator>
+    </item>
+    <item>
+      <title>别再让Agent互相传话：多Agent协作的3个致命错误（附120行可运行代码）</title>
+      <link>https://juejin.cn/post/7709765280441368619</link>
+      <description>别再让 Agent 互相传话：多 Agent 协作的 3 个致命错误（附 120 行可运行代码） 一、为什么你的多 Agent 越拆越乱 一个真实的排查现场：订单接口要补空值保护，需求拆给三个 Age</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709765280441368619</guid>
+      <category>chinese</category>
+      <category>tech</category>
       <category>Agent</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/9f71324b9326432b9a3c82c6922cf967~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg57Gz5bCP6Jm-:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701858&amp;x-signature=gvpFjhW8D0CQ5TTl9FIugAetFQc%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 03:08:37 +0000</pubDate>
-      <dc:creator>米小虾</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 01:55:27 +0000</pubDate>
+      <dc:creator>Jvav练习生</dc:creator>
     </item>
     <item>
-      <title>ai-code-review 全链路：让 AI 来审 AI 的代码</title>
-      <link>https://juejin.cn/post/7709320811032100874</link>
-      <description>AI 写码远超人 review 的速度，我们把评审本身工程化：规则拆成团队底线+项目自定义，CI 跑 LLM 语义评审，结果分发评论、卡片、看板，评审意见 AI 自己修自己回。全链路拆解。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709320811032100874</guid>
+      <title>抽取器怎么判断“这家不做这个”：婚摄官网字段缺失的三种形态（2026）</title>
+      <link>https://juejin.cn/post/7709810036448460854</link>
+      <description>字段抽取的难处不在于"抽不到"，而在于抽不到的时候要分清是哪种抽不到。三种情况的改法完全不同： 信息存在，但只存在于图片或 PDF 里（图里存在） 信息存在，但两处说法矛盾（表述冲突） 信息从未存在，</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709810036448460854</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>AI编程</category>
-      <category>CI/CD</category>
+      <category>AIGC</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b551d2b966cd499f9a43d784856155ab~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5bel56iL5bCP55m96I-c:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701856&amp;x-signature=aifF%2Bp%2Ffg7fgQ6FNkpF%2FgyDFaeE%3D" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 18 Nov 2026 08:43:19 +0000</pubDate>
-      <dc:creator>工程小白菜</dc:creator>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e6e22e3b7b6a41e69f93838fed2a507e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5b6Q5byA5rOJ:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787498&amp;x-signature=PmN1luJTZ65Atw%2Bmi7P2F0QLt4Y%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 01:59:57 +0000</pubDate>
+      <dc:creator>徐开泉</dc:creator>
     </item>
     <item>
-      <title>美国自然历史博物馆 x JuiceFS：PB 级科研存储实践</title>
-      <link>https://juejin.cn/post/7709678057096364070</link>
-      <description>在天体物理学和基因组学等前沿科学领域，海量数据集的高吞吐量读取和对数据完整性问题的零容忍，是计算分析的生命线。美国自然历史博物馆（AMNH）科学计算团队基于 S3 协议兼容的开放存储网络（OSN），使</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709678057096364070</guid>
+      <title>SQL Server 2008 系统存储过程手册（sp_ / xp_ 分类速查，适配 10.0 / 10.5）</title>
+      <link>https://juejin.cn/post/7710055816711569408</link>
+      <description>系统存储过程存放在 master.sys，前缀 sp_；扩展存储过程 xp_（DLL实现，2008支持，新版逐步废弃） 标注【已弃用】：2008还能跑，微软推荐改用标准T-SQL语法 ......</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710055816711569408</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>后端</category>
-      <category>人工智能</category>
+      <category>SQL Server</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 08:10:39 +0000</pubDate>
-      <dc:creator>JuiceFS</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 08:35:52 +0000</pubDate>
+      <dc:creator>学以智用</dc:creator>
     </item>
     <item>
-      <title>第一次使用银河麒麟：从 Windows 迁移到国产 Linux 桌面的入门指南</title>
-      <link>https://juejin.cn/post/7709526633033039914</link>
-      <description>--- title: 第一次使用银河麒麟：从 Windows 迁移到国产 Linux 桌面的入门指南 date: 2026-11-19 tags: [银河麒麟, Linux, 信创, 新手入门, 桌面</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709526633033039914</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>后端</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e57aaeab22084916a804d86a9316ff7f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5pmL6K-t5omL6K6w:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701856&amp;x-signature=NGPsZwamq41SwnVqs4rFRqqIUmo%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 08:03:00 +0000</pubDate>
-      <dc:creator>晋语手记</dc:creator>
-    </item>
-    <item>
-      <title>没完了，Nginx又报新漏洞！</title>
-      <link>https://juejin.cn/post/7709706988456361993</link>
-      <description>背景 今天Nginx又爆出新的漏洞，Xint团队发布的博客内容公布了5个新的Nginx漏洞，其中还发现一个Linux的内核漏洞可以和Nginx的漏洞组合利用，进而获取到宿主机的root权限。原文标题如</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709706988456361993</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>Nginx</category>
-      <category>运维</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/401595f3b2d2445f8093241eee6881bb~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgdG9ueWRm:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701856&amp;x-signature=2901Nah3RpR3L8BUbgw9zVpSHI0%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 08:09:14 +0000</pubDate>
-      <dc:creator>tonydf</dc:creator>
-    </item>
-    <item>
-      <title>从生成到决策：AgenticOps 决策模型的能力实测</title>
-      <link>https://juejin.cn/post/7709678057096413222</link>
-      <description>本文已收录到开源项目 Alibaba Cloud AI Agent Handbook 的决策模型专题，该专题已汇总了决策模型综述，以及我们在智能体评测、AgenticOps、工单分诊助手等方面的实践，</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709678057096413222</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>Agent</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 08:14:58 +0000</pubDate>
-      <dc:creator>阿里云云原生</dc:creator>
-    </item>
-    <item>
-      <title>让 Agent 学会诊断 Elasticsearch：一套证据绑定的智能运维方法论</title>
-      <link>https://juejin.cn/post/7709698565857558555</link>
-      <description>云监控让数据可观测，Elasticsearch 技能让结论可核验，STAROps 让能力进入日常值班流程。三者结合，才能从一次问答走向持续的运维能力。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709698565857558555</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>人工智能</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 08:22:48 +0000</pubDate>
-      <dc:creator>阿里云大数据AI技术</dc:creator>
-    </item>
-    <item>
-      <title>前端样式-弹窗淡入淡出，为什么你的 `transition` 一直不生效</title>
-      <link>https://juejin.cn/post/7709704974808629298</link>
-      <description>先看三个场景，你大概踩过其中一个： 弹窗打开是淡入加缩放，挺精致；点关闭，「啪」一下没了，完全没有淡出。 你照着教程抄了 transition: display .3s allow-discrete，</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709704974808629298</guid>
+      <title>Flutter IM 即时聊天应用开发：从 0 到 1 实</title>
+      <link>https://juejin.cn/post/7709824739238068234</link>
+      <description>在当今的移动开发领域，即时通讯（IM）功能已经成为许多 App 的标配。无论是一对一聊天、群聊还是实时消息推送，这些功能都需要开发者深入掌握底层架构设计以及平台特性。本文将以 Flutter 为技术栈</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709824739238068234</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>CSS</category>
-      <category>HTML</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 02:12:07 +0000</pubDate>
+      <dc:creator>吴长建先生</dc:creator>
+    </item>
+    <item>
+      <title>OpenRaft 自定义 Membership，按部署拓扑选择 Quorum</title>
+      <link>https://juejin.cn/post/7710066355727499279</link>
+      <description>自定义 Membership 与 Databend 元数据服务 OpenRaft 最近加入了自定义 membership，让应用决定选举或提交必须等待哪些节点。4 个节点的集群可以在取得 2 份复制确</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710066355727499279</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>数据库</category>
+      <category>大数据</category>
+      <category>数据分析</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 08:37:16 +0000</pubDate>
+      <dc:creator>Databend</dc:creator>
+    </item>
+    <item>
+      <title>agent 不报错才最吓人：自研编码工具半年，我踩了 10 个"看着正常"的运行时坑</title>
+      <link>https://juejin.cn/post/7709824739238264842</link>
+      <description>agent 不报错才最吓人：自研编码工具半年，我踩了 10 个"看着正常"的运行时坑 前言 今年 6 月起，我给自己造一个 AI 编码工具：终端里跟大模型对话，它能读代码、改文件、跑命令、自己多轮干活</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709824739238264842</guid>
+      <category>chinese</category>
+      <category>tech</category>
       <category>前端</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 08:20:31 +0000</pubDate>
-      <dc:creator>htzyl206</dc:creator>
-    </item>
-    <item>
-      <title>手搓 Agent（四）：长点记性——上下文满了怎么办，怎么记住上一次</title>
-      <link>https://juejin.cn/post/7709609115639545907</link>
-      <description>模型没有记忆功能，记性全靠在上下文上做文章。这一篇讲两件事：一次对话里装不下怎么办，有裁剪、压缩、外置三条出路；重启之后怎么不忘，靠一个记忆文件加“记”和“查”两个动作。附六十多行可运行代码。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709609115639545907</guid>
-      <category>chinese</category>
-      <category>tech</category>
       <category>人工智能</category>
-      <category>前端</category>
-      <category>后端</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/cbd888cb7fdd48e581d064a126a03c74~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Y2B5pyJ5YWr5LiD:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701856&amp;x-signature=qc4fXMDRGw6SXYpahJXnYICko28%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 05:56:13 +0000</pubDate>
-      <dc:creator>十有八七</dc:creator>
-    </item>
-    <item>
-      <title>1126B的Demo实操——虹软ArcFace SDK（RV1126BP ARM64 V5.0）交叉编译与运行指南</title>
-      <link>https://juejin.cn/post/7709706988456329225</link>
-      <description>本文将带你从零开始，完成该 SDK 自带 C++ Demo的交叉编译与板端运行，涵盖人脸检测、特征提取、人脸注册与 1:N 比对、年龄/性别/活体/口罩检测、红外活体检测等功能。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709706988456329225</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>代码规范</category>
-      <category>程序员</category>
-      <category>人工智能</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 08:08:13 +0000</pubDate>
-      <dc:creator>进击的丸子</dc:creator>
-    </item>
-    <item>
-      <title>git刷新远程分支列表</title>
-      <link>https://juejin.cn/post/7709752676367679514</link>
-      <description>前言 如果说要更新远程仓库 origin 的引用并清理本地已过时的远程跟踪分支 命令 执行 这个时候就会同步远程分支到本地 总结 可以执行该命令刷新远程分支列表</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709752676367679514</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>后端</category>
-      <category>Git</category>
-      <category>GitLab</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 08:47:15 +0000</pubDate>
-      <dc:creator>考虑考虑</dc:creator>
-    </item>
-    <item>
-      <title>给 Antigravity 搓了个「主 Carbon + 副 Neon」混合编排插件：让顶配模型当包工头，快手模型并发干活</title>
-      <link>https://juejin.cn/post/7709702143690965043</link>
-      <description>针对 Antigravity 官方缺少主 Carbon 副 Neon 编排预设的痛点，基于 PreInvocation Hook 与原生 Swarm 实现了一个零依赖开源插件：选 Carbon 自动变</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709702143690965043</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>开源</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0bcdc7a910f540e1a5cea15cb737e388~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgWWVhdXR1bW4=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701856&amp;x-signature=Nfjz%2BoViVgPBDF5YfTEIyR%2F5aco%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 08:02:06 +0000</pubDate>
-      <dc:creator>Yeautumn</dc:creator>
-    </item>
-    <item>
-      <title>平凯数据库 × 圣诺云数：让治理数据实时可用、跨域可信流通</title>
-      <link>https://juejin.cn/post/7709712919903043626</link>
-      <description>近日，河北圣诺联合科技有限公司（以下简称“圣诺联合”）与平凯星辰完成产品互认证。经严格联合测试，圣诺联合自主研发的圣诺云数大数据治理平台与平凯数据库（TiDB 企业版）实现产品兼容。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709712919903043626</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>TiDB</category>
-      <category>数据库</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 09:04:18 +0000</pubDate>
-      <dc:creator>平凯数据库</dc:creator>
-    </item>
-    <item>
-      <title>挚文集团（陌陌、探探）从 MySQL 分库分表到 TiDB 实时统一架构的实践</title>
-      <link>https://juejin.cn/post/7709712919903109162</link>
-      <description>当社交业务同时面对国内和海外两个市场、交易和审核两类负载、在线和离线两套链路，挚文集团用 TiDB 替代了传统的复杂架构，缩短的不只是查询时间，还有从数据产生到业务决策的周期。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709712919903109162</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>TiDB</category>
-      <category>数据库</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c8907df7a5f04aac8f7a2352e275e8c2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5bmz5Yev5pWw5o2u5bqT:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701856&amp;x-signature=YKRTm3fQlFpwz16SghD8SQGU1RQ%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 09:07:46 +0000</pubDate>
-      <dc:creator>平凯数据库</dc:creator>
-    </item>
-    <item>
-      <title>PHP 8.6 最新发布：语法更新、实用函数与升级要点</title>
-      <link>https://juejin.cn/post/7709704974809202738</link>
-      <description>HP 8.6 有哪些新功能？本文结合代码示例，介绍部分函数应用、readonly 属性默认值、Time\Duration、新增实用函数及 I/O 改进，并梳理升级注意事项。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709704974809202738</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>后端</category>
-      <category>PHP</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 09:19:08 +0000</pubDate>
-      <dc:creator>ServBay</dc:creator>
-    </item>
-    <item>
-      <title>世界目光聚焦中国：底层技术、Linux、数据库的破局逻辑</title>
-      <link>https://juejin.cn/post/7709752676368285722</link>
-      <description>世界目光之所以转向中国的底层技术，并非因为某一款产品的参数突然领先，而是因为一条不同于传统路径的破局逻辑正在变得清晰：用开源化解根技术的封闭性，用真实场景倒逼架构重构，再用人才把技术选择变成可持续的生</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709752676368285722</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>数据库</category>
-      <category>Linux</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 09:29:20 +0000</pubDate>
-      <dc:creator>GeW</dc:creator>
-    </item>
-    <item>
-      <title>AgentLoop × Qoder：采集自动装，审计直接问</title>
-      <link>https://juejin.cn/post/7709752676368564250</link>
-      <description>AI Coding 和办公 Agent 已经成为组织的日常工具，管理者随之需要回答一些具体问题：团队在用哪些 Agent，每天消耗多少 Token，这些 Token 花在了什么工作上，Agent 执行</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709752676368564250</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>云原生</category>
       <category>Agent</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 09:46:25 +0000</pubDate>
-      <dc:creator>阿里云云原生</dc:creator>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/14e4cb8d17f3449caf012e9dd9037dcd~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5qiK5bCP6IKG:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787498&amp;x-signature=WRoFNCHHTNmYLhDbZSq58ViEoZE%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 02:24:35 +0000</pubDate>
+      <dc:creator>樊小肆</dc:creator>
     </item>
     <item>
-      <title>Netty 4.2.x 源码深度解析 (二十四)：池化内存分配 —— PoolArena、PoolChunk 与 PoolSubpage</title>
-      <link>https://juejin.cn/post/7709719643250376755</link>
-      <description>Netty 的 ByteBuf 用双索引读写模型、动态扩容与引用计数解决了 JDK ByteBuffer 的核心痛点。而"池化（Pooled）"与"堆外（Direct）"两条正交维度交汇之处，正是 N</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709719643250376755</guid>
+      <title>vue 表格组件 vxe-table 实现 Excel 双击填充柄向下复制填充功能</title>
+      <link>https://juejin.cn/post/7710060704158236712</link>
+      <description>在 Excel 中，双击单元格右下角的填充柄，会自动把当前值向下填充到相邻数据区域的末尾。vxe-table 通过 areaConfig.extendByDblclickCopy 提供了等价能力：双击</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710060704158236712</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>后端</category>
-      <category>Java</category>
-      <category>架构</category>
+      <category>Vue.js</category>
       <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b4fc8f93a6574d628f418f4b35419d98~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rex5YWl5LqR5qCI:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701856&amp;x-signature=4bw%2F9d1cxH%2BS3UThFHWHxk7ilZQ%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 10:08:30 +0000</pubDate>
-      <dc:creator>深入云栈</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 08:40:27 +0000</pubDate>
+      <dc:creator>自由的云h</dc:creator>
     </item>
     <item>
-      <title>卡尔曼到底在算什么：从一维到它的变式以及工程版卡尔曼滤波算法C语言实现</title>
-      <link>https://juejin.cn/post/7709530253697941546</link>
-      <description>卡尔曼滤波常被说得很神秘。可当它只估一个量的时候，结果为什么不比一条普通滤波更强——那它真正多出来的本事是什么？</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709530253697941546</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>算法</category>
-      <category>C语言</category>
-      <category>嵌入式</category>
-      <category>juejin</category>
-      <enclosure url="https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ca06c190bde041369170c4ba90801333~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgWndhd2E=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701856&amp;x-signature=N%2F1%2FPzwCzPQSroHtg3EAASiGEZw%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 00:59:18 +0000</pubDate>
-      <dc:creator>Zwawa</dc:creator>
-    </item>
-    <item>
-      <title>产品 RAG 知识库与 AI 顾问 设计与实现</title>
-      <link>https://juejin.cn/post/7709442455398154275</link>
-      <description>设计结构图 下图是这套「产品 RAG 知识库 + AI 顾问」的系统结构：谁调用谁、数据怎么流动、向量从哪来。三条访问路径最终都汇聚到 $lib/server/products.js 这唯一一份实现。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709442455398154275</guid>
+      <title>手机直连卫星，射频前端到底要解决什么？</title>
+      <link>https://juejin.cn/post/7709820531274743848</link>
+      <description>各位好！我是鲸鹏芯海的謓泽。 你有没有想过，手机直连卫星这件事，听起来只是 "把基站搬到了 550 公里高的天上"。但基站搬上去了，手机没换。手机里那套射频前端，还是为地面基站准备的。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709820531274743848</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>前端</category>
       <category>后端</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 03:46:32 +0000</pubDate>
-      <dc:creator>Swot</dc:creator>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/555111a34d0c4815a78bc049e26d7262~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6bK46bmP6Iqv5rW35b6u55S15a2Q56eR5oqA5LiK5rW35pyJ6ZmQ5YWs5Y-4:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787498&amp;x-signature=1NrOV%2FuxHlQZHpqXdkkYKlYbJFA%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 02:44:29 +0000</pubDate>
+      <dc:creator>鲸鹏芯海微电子科技上海有限公司</dc:creator>
     </item>
     <item>
-      <title>阿里云 Milvus 场景中心｜一键部署你的AI应用</title>
-      <link>https://juejin.cn/post/7709702143692292147</link>
-      <description>Milvus 场景中心把围绕Milvus 的通用客户需求做成可部署的场景模板。需要交付给新客户时，可以沿用已经验证过的流程，单独部署实例。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709702143692292147</guid>
+      <title>通配符 Bundle ID 和精确 Bundle ID 怎么选，推送、iCloud 能不能用通配符</title>
+      <link>https://juejin.cn/post/7710078262643245075</link>
+      <description>通配符 Bundle ID（com.xxx.*）一份描述文件能管一批 App，但推送、iCloud 这类能力配不了。讲它和精确 Bundle ID 怎么选，用 Appuploader 怎么建。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710078262643245075</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>iOS</category>
+      <category>后端</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 08:42:11 +0000</pubDate>
+      <dc:creator>开心就好2025</dc:creator>
+    </item>
+    <item>
+      <title>Environment类</title>
+      <link>https://juejin.cn/post/7710132945276649498</link>
+      <description>Environment 是什么 org.springframework.core.env.Environment 是 Spring 对运行时环境配置的统一抽象，合并了所有配置来源： 系统属性 环境变量</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710132945276649498</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>后端</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 08:45:18 +0000</pubDate>
+      <dc:creator>tann</dc:creator>
+    </item>
+    <item>
+      <title>Java 与 Python 在大模型与智能体领域的选型</title>
+      <link>https://juejin.cn/post/7709820531274874920</link>
+      <description>一、结论先行 Python 在大模型与智能体领域整体更成熟，尤其在前沿框架、工具链和社区生态上仍明显领先；Java 尚未追平，但正在企业级生产落地这一特定维度快速补齐。 更准确的判断不是“Java 能</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709820531274874920</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Python</category>
+      <category>Java</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 02:51:56 +0000</pubDate>
+      <dc:creator>用户5481784590950</dc:creator>
+    </item>
+    <item>
+      <title>别只把 AI 聊天当成「又一个网页」：把状态驱动的陪伴内核接到你自己的项目里</title>
+      <link>https://juejin.cn/post/7709810036449198134</link>
+      <description>开源 companion-core：性格×心情先 decide 意图，silence 不调模型；LLM/存储可插，可接到 Bot、游戏 NPC 或自有后端。仓库 Web 只是宿主示例，不是唯一用法。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709810036449198134</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>AI编程</category>
+      <category>juejin</category>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3efd681f00154b0986fc044476d55a2f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgWWFuaXNKaWFuZw==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787498&amp;x-signature=82Chl%2BV8g1MkvpT8f174or%2FDnAA%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 03:03:46 +0000</pubDate>
+      <dc:creator>YanisJiang</dc:creator>
+    </item>
+    <item>
+      <title>Gemini Tool Retrieval：工具越来越多，Agent 如何按需读取参数说明？</title>
+      <link>https://juejin.cn/post/7709817287637860386</link>
+      <description>1. 概要 给 Agent 接入工具时，开发者通常需要提供工具名称、用途和参数结构。 只有几个工具时，这些说明并不显眼。扩展到几十、上百个工具后，参数结构、字段解释和枚举值会占用越来越多上下文；</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709817287637860386</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>人工智能</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 10:30:03 +0000</pubDate>
-      <dc:creator>阿里云大数据AI技术</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 03:20:03 +0000</pubDate>
+      <dc:creator>用户98602396561</dc:creator>
     </item>
     <item>
-      <title>JavaScript URL 状态同步</title>
-      <link>https://juejin.cn/post/7709680621744767016</link>
-      <description>在搜索列表和后台筛选页面中，用户可能选择分类、输入关键词、切换排序方式，再把当前页面分享给同事。如果筛选条件只存在 JavaScript 内存里，刷新页面后状态就会丢失，浏览器前进和后退按钮也难以得到</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709680621744767016</guid>
+      <title>给 Agent 一张地图，而不是一座迷宫：前端 monorepo 目录结构重构实录</title>
+      <link>https://juejin.cn/post/7710053374062608438</link>
+      <description>引言 当项目同时包含 Agent 应用和管理后台，且希望 AI Agent 能稳定参与迭代时，目录结构的设计目标会发生根本变化。传统目录结构服务的是"人类开发者的协作与长期维护"，而 AI 稳定迭代的</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710053374062608438</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>前端</category>
+      <category>Agent</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 08:54:43 +0000</pubDate>
+      <dc:creator>小龙6666</dc:creator>
+    </item>
+    <item>
+      <title>python第7课. 输入与输出</title>
+      <link>https://juejin.cn/post/7710132945276829722</link>
+      <description>程序输出有几种显示方式；数据既可以输出供人阅读的形式，也可以写入文件备用。本章探讨一些可用的方式。 7.1. 更复杂的输出格式 到目前为止我们已遇到过两种写入值的方式: 表达式语句 和 print()</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710132945276829722</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>前端</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 08:57:25 +0000</pubDate>
+      <dc:creator>小欣前端实战</dc:creator>
+    </item>
+    <item>
+      <title>深入浅出RAG——第20章：端到端实战：企业级知识库问答系统</title>
+      <link>https://juejin.cn/post/7710067769204064266</link>
+      <description>从零构建一个完整的企业知识库问答系统，涵盖Monorepo项目结构、数据管道、混合检索与重排序、Self-Reflective RAG、Agent查询、流式输出与缓存、评估体系、可观测性和运维部署。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710067769204064266</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>人工智能</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 06:51:31 +0000</pubDate>
+      <dc:creator>深海鱼在掘金</dc:creator>
+    </item>
+    <item>
+      <title>用 Agent 做可靠的软件交付</title>
+      <link>https://juejin.cn/post/7710078262643490835</link>
+      <description>最近看了 Lauren Tan 在公开演讲之后，受益匪浅。自己也变成一个grok bot 的重度用户，只需要告诉他我要干嘛,最后都能收获一个很不错的结果。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710078262643490835</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>后端</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 09:07:49 +0000</pubDate>
+      <dc:creator>lizhongxuan</dc:creator>
+    </item>
+    <item>
+      <title>在 Windows 95 上写前端</title>
+      <link>https://juejin.cn/post/7710055816711929856</link>
+      <description>在 Windows 95 上写前端 上一篇在 Windows 95 上跑通了 Fun 的核心、FFI 和机器码。那是一次自下而上的测试，从解释器一直探到可执行内存。这一篇换个方向，从上往下问：1995</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710055816711929856</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>前端</category>
       <category>JavaScript</category>
+      <category>Windows</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 10:29:12 +0000</pubDate>
-      <dc:creator>小y的笔记</dc:creator>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/39a673cb7aa74b07b891a4c78c04b706~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgRnVubGFuZw==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787498&amp;x-signature=TDGi7zJrHvORPd1Yzj8U%2Fl38rIE%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 09:07:38 +0000</pubDate>
+      <dc:creator>Funlang</dc:creator>
     </item>
     <item>
-      <title>Agent 研发工作系统：面向多需求并行端到端开发的设计与实践</title>
-      <link>https://juejin.cn/post/7709725715793510415</link>
-      <description>“修复搜索结果重复，并在预发验证。” 以这个需求场景为例，看似只是一次代码修改，实际却有一串问题需要回答：去重发生在最终响应，还是上游候选池？原有顺序和字段是否保留？本地测试通过后，预发运行的是否正是</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709725715793510415</guid>
+      <title>10.对象关系行为</title>
+      <link>https://juejin.cn/post/7710084602303397931</link>
+      <description>对象关系行为 1.介绍 对象-关系行为模式，是指在业务事务运行期间，专门用于管理内存领域对象与底层关系型数据库之间数据拉取、状态追踪、内存去重与批量写回行为的一套架构套路 行为模式解决的就是"在业务操</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710084602303397931</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>人工智能</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 10:32:04 +0000</pubDate>
-      <dc:creator>京东云开发者</dc:creator>
-    </item>
-    <item>
-      <title>我造了一个 Java 能力包：让 AI 直接调用你的业务代码</title>
-      <link>https://juejin.cn/post/7709702143692161075</link>
-      <description>我造了一个 Java 能力包：让 AI 直接调用你的业务代码 大家好，我是小巫。 今天不聊概念，聊一个我自己造、自己天天在用的东西——um-sdk。 它解决的问题很朴素：Java 项目里那些反反复复要</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709702143692161075</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>前端</category>
       <category>后端</category>
-      <category>Java</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 10:25:05 +0000</pubDate>
-      <dc:creator>小巫编程室</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 09:11:12 +0000</pubDate>
+      <dc:creator>季风1132</dc:creator>
     </item>
     <item>
-      <title>手搓 Agent（五）：学会翻书——RAG，先查资料再回答</title>
-      <link>https://juejin.cn/post/7709755322558431242</link>
-      <description>资料多到读不完，换个说法又搜不到。这一篇讲 RAG：嵌入怎么把“意思相近”变成能算的数，建库和查询两条流水线，找不准时查哪三关，关键词和向量怎么合用，再把检索做成工具交给 Agent。附百行代码</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709755322558431242</guid>
+      <title>Agent 工程：慢的不一定是模型，答案对了也可能算失败</title>
+      <link>https://juejin.cn/post/7710125642332094515</link>
+      <description>Agent 出问题多半是归错了层：30 秒里模型只占 3 秒，答案对了路由错也判失败。Hit Rate 管上限，MRR 管位置。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710125642332094515</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>人工智能</category>
+      <category>面试</category>
+      <category>juejin</category>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/45cff9c6e9164a9cabbd2e753f819065~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5a6L6ImzX0FJ5bqU55So5byA5Y-R:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=U5VuJDoVWYG6lapvRnb9cumcWW4%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 07:26:31 +0000</pubDate>
+      <dc:creator>宋艳_AI应用开发</dc:creator>
+    </item>
+    <item>
+      <title>花椒语音房联机五子棋：Go 服务端如何保证一回合只落一颗子</title>
+      <link>https://juejin.cn/post/7710074735884042249</link>
+      <description>花椒语音房的联机五子棋里，确认请求可能撞上超时调度。我们用 Go 服务端的房间事务锁裁定落子，再用双人对局、断线重连和观战页验证同一回合只生效一次。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710074735884042249</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Go</category>
+      <category>WebSocket</category>
+      <category>juejin</category>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d2f8170188ac4a73967a263cd6c531ca~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6Iqx5qSS5oqA5pyv:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=jZ0Yp8cwWMB44MTY32LpOuenRb4%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 09:21:19 +0000</pubDate>
+      <dc:creator>花椒技术</dc:creator>
+    </item>
+    <item>
+      <title>AI编程越来越强，为什么软件漏洞却是一个没少？MySQL又爆高危漏洞了</title>
+      <link>https://juejin.cn/post/7710053374062723126</link>
+      <description>Oracle披露CVE-2026-114952 MySQL高危漏洞，CVSS评分高达9.1分。本文从一线研发与吃瓜视角出发，剖析AI编程与AI代码审计提效之后软件漏洞依然存在的原因</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710053374062723126</guid>
+      <category>chinese</category>
+      <category>tech</category>
       <category>后端</category>
-      <category>前端</category>
+      <category>MySQL</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/22d7dc9b58af4321b58303bb816d7a22~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Y2B5pyJ5YWr5LiD:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701855&amp;x-signature=2ng16ceR1Xi7K%2FVYDDwiJA2ef%2FQ%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 10:44:29 +0000</pubDate>
-      <dc:creator>十有八七</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 09:22:43 +0000</pubDate>
+      <dc:creator>ServBay</dc:creator>
     </item>
     <item>
-      <title>消息丢了、重复消费了，MQ 这套账该怎么算</title>
-      <link>https://juejin.cn/post/7709506192402710582</link>
-      <description>用 MQ 做异步解耦，最常被问的两个问题： 消息会不会丢？ 会不会重复消费？ 这两个问题的答案有点反直觉：消息一定会丢，也一定会重复。工程上要做的是"丢了能发现、重复了不坏事"。 这篇把消息从生产到消</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709506192402710582</guid>
+      <title>TaurusDB 慢 SQL 智能诊断：用大模型辅助调优</title>
+      <link>https://juejin.cn/post/7710090550490382346</link>
+      <description>数据库自动整理诊断上下文，大模型提供调优建议，用户验证后实施。 分析慢查询，只看 SQL 文本还不够。同一条查询，在不同的数据规模和索引条件下，执行效率可能相差很大。大模型也需要了解数据库采用了什么执</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710090550490382346</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>游戏</category>
+      <category>后端</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 03:40:30 +0000</pubDate>
-      <dc:creator>珍猪吃饲料</dc:creator>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/cffb047474a44f9c84e2563b58c94b10~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Y2O5Li65LqR5byA5Y-R6ICF6IGU55uf:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=MxBZrdmP%2BRZ%2BbLSGVM6xdRDsgUc%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 09:18:41 +0000</pubDate>
+      <dc:creator>华为云开发者联盟</dc:creator>
     </item>
     <item>
-      <title>随手备忘录手记 04｜HarmonyOS 7.0新特性实验：物品图鉴的加载逻辑</title>
-      <link>https://juejin.cn/post/7709752415158960147</link>
-      <description>1. 前言 站在玄关打开“随手备忘录”时，我通常只看三件东西：钥匙、工牌、雨伞。物品图鉴有它的用途，但这一刻，我并没有打算翻开它。 界面可以把两个动作分得很清楚，代码却未必如此。首页为了取得一个公共定</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709752415158960147</guid>
+      <title>读技术文档，先用哪个 AI？模型指南筛选与 GPT-6.2 Astra 实操</title>
+      <link>https://juejin.cn/post/7709919334517702675</link>
+      <description>模型更新很快，读技术文档该先用哪个 AI？本文通过 SwanArc 模型指南查看最新对比，按任务与质量、费用偏好筛选候选，再用 GPT-6.2 Astra 将一份 12 页 PDF 整理成汇报提纲。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709919334517702675</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>HarmonyOS</category>
-      <category>华为</category>
-      <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/199159414bb042ddadbe5eecad26b8ad~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgS2V2aW5DaGFvcw==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701855&amp;x-signature=dwTYzEILHzoiu%2BaExGPApdva5WM%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 10:48:52 +0000</pubDate>
-      <dc:creator>KevinChaos</dc:creator>
-    </item>
-    <item>
-      <title>给 DeepSeek Harness 做多会话工作台：四格原生会话、Agent 脉络图与压缩预警</title>
-      <link>https://juejin.cn/post/7709697282351005738</link>
-      <description>DSH 原生界面只能盯一个会话。我用插件补了四格并行工作区、基于 parentSession 的 Agent 链路图、照搬官方公式的压缩预警，以及压缩前的交接协议。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709697282351005738</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>DeepSeek</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 10:53:21 +0000</pubDate>
-      <dc:creator>世界是一片荒原</dc:creator>
-    </item>
-    <item>
-      <title>Google 重返第一梯队</title>
-      <link>https://juejin.cn/post/7709719643250884659</link>
-      <description>昨晚 Google 发布新模型 Neon，我通宵测试完，发了个 X，就俩字：很强。 我单方面宣布，Google 重返第一梯队。 诸位可以翻翻我过往的文章，从年初的时候，我就就一直反复说，Gemini</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709719643250884659</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>AIGC</category>
       <category>人工智能</category>
-      <category>Google</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 11:09:18 +0000</pubDate>
-      <dc:creator>stormzhangV</dc:creator>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/dd21f6fd6e954c25814664d23a117c10~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgU3dhbkFyY-aKgOacr-eslOiusA==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=GYIo1v1rQNTrLtFMh34l1U6CPak%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 07:51:30 +0000</pubDate>
+      <dc:creator>SwanArc技术笔记</dc:creator>
     </item>
     <item>
-      <title>用 unslop 拯救 AI 生成网页的塑料感，7 分钟重构落地实测</title>
-      <link>https://juejin.cn/post/7709697282351120426</link>
-      <description>AI 生成的前端网页往往充满光斑、渐变与大圆角按钮。本文实测开源设计工具 unslop，通过审计和九轮微调，7 分钟内完成去塑料感重构。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709697282351120426</guid>
+      <title>从 metadata 键到独立列</title>
+      <link>https://juejin.cn/post/7709919334517768211</link>
+      <description>本文讲述Actor归属系统从metadata JSON键、namespace前缀编码到独立数据库列的演进历程。三个阶段分别引入SQL精度不足、编码不一致、语义污染等问题，最终以独立列实现精确匹配与统一</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709919334517768211</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>前端</category>
-      <category>人工智能</category>
       <category>AI编程</category>
+      <category>Agent</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 11:20:35 +0000</pubDate>
-      <dc:creator>孟健AI编程</dc:creator>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/5894fe65814c414f893dba706dfd41c3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgcWluZ2xvbmdjbg==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=PwSbUMcDD1R6fTovRQIIsb2Q1sc%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 07:57:38 +0000</pubDate>
+      <dc:creator>qinglongcn</dc:creator>
     </item>
     <item>
-      <title>Java4Shell 实测：EPYC 一跑就中招，关掉 Base64 硬件加速，1KB 解码慢 14 倍</title>
-      <link>https://juejin.cn/post/7709755322558742538</link>
-      <description>Temurin 17.0.21/21.0.13 在 EPYC 实测：官方 PoC 逐项复现；关掉 Base64 加速异常写消失，1KB 解码慢 14 倍。社区修复包未同步，先靠这开关过渡。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709755322558742538</guid>
+      <title>Kafka源码深度剖析：KafkaProducer最终如何处理响应</title>
+      <link>https://juejin.cn/post/7710069393501552682</link>
+      <description>这篇回答一个实际问题：你在业务代码里写了 producer.send(record, callback)，当 Broker 返回成功时，这个 callback 到底是在哪个线程、以什么顺序、拿到什么参</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710069393501552682</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>Java</category>
-      <category>安全</category>
-      <category>性能优化</category>
+      <category>Kafka</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 11:51:49 +0000</pubDate>
-      <dc:creator>Flynt</dc:creator>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/230594d4c20d4ec580219fbad7796f96~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgc3Rhcnp5:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=cM9FNQkgHn9WUJX2yWaU2TKjj78%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 08:03:49 +0000</pubDate>
+      <dc:creator>starzy</dc:creator>
     </item>
     <item>
-      <title>永别了，程序员！(转）</title>
-      <link>https://juejin.cn/post/7705987138957328427</link>
-      <description>我们这一代程序员是幸福的。 1995年以来，互联网的普及迅速打破了生产、流通、消费、服务等所有环节的效率壁垒，全球有史以来最大规模的信息化转型，让每一头会写代码的“猪”都在风口里飞了起来。 2001年</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7705987138957328427</guid>
+      <title>AI Agent 如何进入实时交易系统：货拉拉的三个实践与一套工程方法论</title>
+      <link>https://juejin.cn/post/7710060982517432356</link>
+      <description>当 AI Agent 从“回答问题”走向“直接改变业务状态”，真正的挑战不再是模型能不能思考，而是它能否在实时交易系统里可靠地行动，并带来可衡量的业务结果。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710060982517432356</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>程序员</category>
+      <category>Agent</category>
+      <category>后端</category>
+      <category>架构</category>
       <category>juejin</category>
-      <pubDate>Mon, 09 Nov 2026 03:23:36 +0000</pubDate>
-      <dc:creator>XCaptain</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 09:28:07 +0000</pubDate>
+      <dc:creator>货拉拉技术</dc:creator>
     </item>
     <item>
-      <title>Kling Image 4.0来了！8K和组图直出，电商人的提效神器？</title>
-      <link>https://juejin.cn/post/7709697282351202346</link>
-      <description>兄弟们！大的来了！ 可灵的新图像模型 Kling Image 4.0 来了，这次能直接出原生8K图了。 不光如此，它的组图功能，也让我们不用一张一张反复交代同样的要求。 今儿老金顺着这个东西，教你 有</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709697282351202346</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>人工智能</category>
-      <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6966f7be6962442cbf9e1eb3c50902a3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ICB6YeR5bim5L2g546pQUk=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701855&amp;x-signature=QJfSGicR20a2emlGG0xNC7d9UOM%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 11:52:58 +0000</pubDate>
-      <dc:creator>老金带你玩AI</dc:creator>
-    </item>
-    <item>
-      <title>定档12.16-12.18！FORCE原动力大会上海见！</title>
-      <link>https://juejin.cn/post/7709719643251130419</link>
-      <description>2026 火山引擎 FORCE 原动力大会 12.16–18 上海世博中心举办。豆包大模型持续迭代，Agent 赋能产业，大会升级为三天，分享 AI 前沿技术与落地实践，开放报名。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709719643251130419</guid>
+      <title>码率涨 3.9 倍，费用一分没多：Seedance 的隐藏参数</title>
+      <link>https://juejin.cn/post/7709811371852841000</link>
+      <description>结论先放这 创建工作流里，除了提示词、分辨率、比例、时长，还有一个开关： 取值只有两个：standard（默认）和 high。 开了之后，同样一条视频，码率平均涨到 3.9 倍，token 一个没多。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709811371852841000</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>人工智能</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 12:16:18 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 08:28:25 +0000</pubDate>
+      <dc:creator>安爹前沿AI</dc:creator>
+    </item>
+    <item>
+      <title>四面统一：记忆/Session/观测/Cron</title>
+      <link>https://juejin.cn/post/7710078262643277843</link>
+      <description>本文指出 Actor 边界不局限于记忆隔离，覆盖 Memory、Session、Observe、Cron 四大子系统：记忆管控用户隐私偏好，会话防止 checkpoint 越权，观测面保护工具调用与文</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710078262643277843</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>AI编程</category>
+      <category>Agent</category>
+      <category>juejin</category>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e600e0d7443b4c08a19dfc846991c5e5~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgcWluZ2xvbmdjbg==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=SkWzq0VLW5pCiQo7H4OliQdeL10%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 08:45:40 +0000</pubDate>
+      <dc:creator>qinglongcn</dc:creator>
+    </item>
+    <item>
+      <title>iOS 性能分析在 Windows 上怎么做，用 KXBuild 的 kxdevice 替代 Instruments</title>
+      <link>https://juejin.cn/post/7710060704158679080</link>
+      <description>Windows 上没有 Instruments 也能做 iOS 性能分析。用 KXBuild 的 kxdevice 对真机采样，按启动慢、掉帧、内存上涨、CPU 高四类定位，附模板命令对照表。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710060704158679080</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>后端</category>
+      <category>iOS</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 09:34:21 +0000</pubDate>
+      <dc:creator>我是谁的程序员</dc:creator>
+    </item>
+    <item>
+      <title>没有 JSX，也能在 Go 里写 React 风格 GUI：Tenon 的架构与性能实践</title>
+      <link>https://juejin.cn/post/7710132945277141018</link>
+      <description>Go 写 GUI，能不能也像写 React 一样？ 我们希望可以用函数组件组织界面，用 Hooks 管理状态，用 Flexbox 完成布局，同时保留 Go 的类型系统、工具链和部署体验。Tenon 就</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710132945277141018</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Go</category>
+      <category>juejin</category>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/78bcb760bff64ea39f8b374748c2421e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5paQ5rOi6YKj5aWR5pWw5YiX:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=df95s35CSiK1fiiSwk0Bc4hWDq4%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 09:39:43 +0000</pubDate>
+      <dc:creator>斐波那契数列</dc:creator>
+    </item>
+    <item>
+      <title>深入浅出RAG——第21章：回顾与展望</title>
+      <link>https://juejin.cn/post/7710127723485872137</link>
+      <description>全专栏知识体系回顾，梳理从入门到生产的 RAG 完整学习路径，并展望 Graph RAG、本体增强、LLM Wiki、Multimodal RAG 等八个前沿方向，提供持续学习的技术路线图。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710127723485872137</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>人工智能</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 09:18:11 +0000</pubDate>
+      <dc:creator>深海鱼在掘金</dc:creator>
+    </item>
+    <item>
+      <title>Linux 服务器 top 命令详解</title>
+      <link>https://juejin.cn/post/7709852956686090282</link>
+      <description>Linux 服务器 top 命令详解 top 是 Linux 服务器最常用的实时性能监控工具，主要用于查看 CPU、内存、Swap、系统负载以及进程资源占用情况。 对于运行 Nginx、Java Sp</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709852956686090282</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Linux</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 02:43:15 +0000</pubDate>
+      <dc:creator>江无行者</dc:creator>
+    </item>
+    <item>
+      <title>Windows 11 右键打开 Cmder 2.0：从找不到菜单到默认使用 Cmder</title>
+      <link>https://juejin.cn/post/7709872556610551844</link>
+      <description>下载 Cmder 2.0 后，我想在资源管理器里右键打开它。注册了菜单，却在右键列表里找不到；后来发现，借助 Windows Terminal 自带的“在终端中打开”，可以更方便地进入 Cmder 环</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709872556610551844</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>后端</category>
+      <category>前端</category>
+      <category>人工智能</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 02:46:34 +0000</pubDate>
+      <dc:creator>aleimu</dc:creator>
+    </item>
+    <item>
+      <title>我给 agent 加了一道闸，拦住了自己差点删掉的构建目录</title>
+      <link>https://juejin.cn/post/7709810036449607734</link>
+      <description>在 MCP 配置里把 server 命令包一层，用一份 YAML 决定 agent 哪些工具调用不许做。 fail-closed、可审计、不联网。附 30 秒自测命令。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709810036449607734</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>MCP</category>
+      <category>juejin</category>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3082f567135d4eefb7d472223e22033b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgbGVlcg==:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=7NOiOH53v7l1ZIBR5utwtBiItys%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 03:36:35 +0000</pubDate>
+      <dc:creator>leer</dc:creator>
+    </item>
+    <item>
+      <title>豆包工作，3 个月，800 万，20 亿</title>
+      <link>https://juejin.cn/post/7710069393502683178</link>
+      <description>豆包工作上线三个月交出亮眼成绩单：日活跃用户（DAU）突破 800 万，企业客户年度经常性收入（ARR）突破 20 亿元。从个人办公到企业落地，AI 工作助手的增长速度正在被重新定义。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710069393502683178</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>人工智能</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 09:56:30 +0000</pubDate>
       <dc:creator>火山引擎Agent社区</dc:creator>
     </item>
     <item>
-      <title>Cloudflare 开源的这套神级安全审计 Skill 太好用了！</title>
-      <link>https://juejin.cn/post/7709755274685055003</link>
-      <description>前两天刷到 Cloudflare 开源了一套给编程 Agent 用的安全审计 Skill，名字叫做 security-audit-skill。 我立马用自己的项目试了一波， Cloudflare 之前</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709755274685055003</guid>
+      <title>WebRTC 延迟怎么调试：从 ICE 到 jitter buffer 的六个观测点</title>
+      <link>https://juejin.cn/post/7710060704158515240</link>
+      <description>WebRTC 延迟怎么调试：从 ICE 到 jitter buffer 的六个观测点 一次 500 人的线上分享里，讲师端一切正常，观众端画面比声音慢约 1.4 秒，评论区刷成一片。事后复盘发现，编码</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710060704158515240</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>前端</category>
-      <category>后端</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/badfbffdea2b4191a7e68ab51d1f9b58~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgSmF2YUd1aWRl:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701855&amp;x-signature=9tf9Hd5sdMXZko%2FPDw3rB7Tgaxs%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 12:27:42 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 09:11:24 +0000</pubDate>
+      <dc:creator>niceyayale</dc:creator>
+    </item>
+    <item>
+      <title>理解 JavaScript 作用域链、return 与闭包</title>
+      <link>https://juejin.cn/post/7710090550490415114</link>
+      <description>理解 JavaScript 作用域链、return 与闭包 前言 前面我们学习了预编译、AO/GO、执行上下文与 V8 调用栈。而作用域链、闭包就是建立在这套机制之上的核心知识点。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710090550490415114</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>JavaScript</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 09:21:43 +0000</pubDate>
+      <dc:creator>凌晨三点说晚安</dc:creator>
+    </item>
+    <item>
+      <title>跨端框架对比：从性能、动态化、AI 能力看 Kuikly / Flutter / React Native</title>
+      <link>https://juejin.cn/post/7710132945277239322</link>
+      <description>跨端选型时，本文从性能，动态化能力和 AI 辅助研发效率这三个维度去分析几个主流框架，希望带来帮助。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710132945277239322</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>客户端</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 09:45:52 +0000</pubDate>
+      <dc:creator>Seekie</dc:creator>
+    </item>
+    <item>
+      <title>Gemini 真的变强了，写代码做视频的能力接近 Claude Opus5.5 了！</title>
+      <link>https://juejin.cn/post/7710094508159074342</link>
+      <description>我之前对 Gemini 的偏见太大了。对不起啊，你不是“美国大豆包”，我错了。。。 最近，我又重新了开通了 Gemini 家的会员，实际用了几天，远远超过我的语气。 速度快，给的量也比较大，搭配 Co</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710094508159074342</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>前端</category>
+      <category>AI编程</category>
+      <category>juejin</category>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/fdaf35ce460d452a84cdb31bba9183fa~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgSmF2YUd1aWRl:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=gIvMl6o1vqSc8CE2nyquyNsfKsk%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 10:00:43 +0000</pubDate>
       <dc:creator>JavaGuide</dc:creator>
     </item>
     <item>
-      <title>当 RPA 遇上 Agent：MUA 混合执行 Workflow 深度拆解</title>
-      <link>https://juejin.cn/post/7709755274685071387</link>
-      <description>本文讲解 OS Agent 三种执行模式：AgentRun 在线决策、ScriptRun 沉淀固定脚本、ChainRun 串联两者。以天气巡检案例演示流程搭建与实测对比，分享企业自动化落地思路。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709755274685071387</guid>
+      <title>告别频繁锁屏：5行 PowerShell 脚本实现 Windows 自动防休眠</title>
+      <link>https://juejin.cn/post/7709859987846447131</link>
+      <description>用 Windows 自带的 **PowerShell** 写一个轻量级唤醒脚本。只需 5 行代码，零依赖、纯绿色。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709859987846447131</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>人工智能</category>
+      <category>命令行</category>
+      <category>Windows</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 12:34:24 +0000</pubDate>
-      <dc:creator>火山引擎Agent社区</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 03:10:55 +0000</pubDate>
+      <dc:creator>甲乙丙丁的冰</dc:creator>
     </item>
     <item>
-      <title>肝了一周，我把 Super Agent 的架构融入到了我的 AI Native 工作台中</title>
-      <link>https://juejin.cn/post/7709708111435153408</link>
-      <description>从救火队长，到当到老板，把 Router-Worker 架构融入到我的 AI Native 工作台。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709708111435153408</guid>
+      <title>C# 集合类型全览：从 List&lt;T&gt; 到 FrozenDictionary，配一组实测数据</title>
+      <link>https://juejin.cn/post/7710090070661365810</link>
+      <description>上周翻一个老模块的代码，100 万条 int 先装箱塞进 ArrayList，再序列化上传。我顺手把它和 List&lt;int&gt; 各跑了一遍：GC 统计的存活内存 30.9MB 对 3.8MB，差了八倍。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710090070661365810</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>后端</category>
+      <category>juejin</category>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e19fa2743d874adfa68d783415f71967~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rqQ5Yqo5Yqb5oqA5pyv5qCI:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=laVEtF2OBVKrFKWBAFmnH7AVE2c%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 07:23:53 +0000</pubDate>
+      <dc:creator>源动力技术栈</dc:creator>
+    </item>
+    <item>
+      <title>时间序列分析：按日、周、月进行趋势统计</title>
+      <link>https://juejin.cn/post/7710090070661873714</link>
+      <description>本文使用 pandas 处理日期字段、构造时间索引，并通过 resample 按日、周、月进行统计。文章还会说明空档日期、重复时间戳、时区、边界标签、缺失值和时间粒度选择等问题，最后通过订单数据构建一</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710090070661873714</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>pandas</category>
+      <category>数据分析</category>
+      <category>juejin</category>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/154870e22de0407abbc048add5fa9543~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5byI5qCI5b2V:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=HWgrmwdHQMe3mwxFoF4EEIafhTI%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 07:49:31 +0000</pubDate>
+      <dc:creator>弈栈录</dc:creator>
+    </item>
+    <item>
+      <title>NpcMgr NPC管理器（Lua 传奇MMO服务端）</title>
+      <link>https://juejin.cn/post/7710055816712273920</link>
+      <description>职责：地图NPC实例生成、刷新/销毁、NPC对话脚本、商店打开、传送、任务交互、NPC临时刷新（活动NPC）、GM指令，和ShopMgr、QuestMgr联动。 1. 配表 npc_cfg 2. 内存</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710055816712273920</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>游戏开发</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 10:07:53 +0000</pubDate>
+      <dc:creator>房西杭</dc:creator>
+    </item>
+    <item>
+      <title>产品情报局 11 | AI 数据湖 LAS：打造大模型时代多模态数据底座</title>
+      <link>https://juejin.cn/post/7710073999841411107</link>
+      <description>它定位为大模型时代企业级 AI 全托管数据底座云服务。 区别于传统面向结构化业务的数据湖，LAS 原生为 AI 场景设计。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710073999841411107</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>后端</category>
+      <category>前端</category>
+      <category>juejin</category>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2a5928319fc34a1db0162adb83ea6c9b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg54Gr5bGx5byV5pOO5ZKMVEHnmoTotoXnuqfmi43moaPku6w=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=rESSpEs5OA3BeJIH4HcBMojKRZI%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 10:09:47 +0000</pubDate>
+      <dc:creator>火山引擎和TA的超级拍档们</dc:creator>
+    </item>
+    <item>
+      <title>【Spring Insight 技术分享】跨服务调用链路是怎么串起来的？</title>
+      <link>https://juejin.cn/post/7710060704158990376</link>
+      <description>分布式系统排障时，最怕的是：我明明调了 /order/create，可观测里却只看到某个下游接口。 Spring Insight 走的是轻量路线：业务侧加一个 Starter，旁边起一个</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710060704158990376</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>后端</category>
+      <category>Spring</category>
+      <category>开源</category>
+      <category>juejin</category>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0fc3d95bfbfe4dbf90a0684cd0d15768~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6IuP5rih6IuH:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=OfVgSHLpi8PI4YRi%2FpEhwRJrYMA%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 10:10:37 +0000</pubDate>
+      <dc:creator>苏渡苇</dc:creator>
+    </item>
+    <item>
+      <title>你的 Skill 越多越蠢？Token 上下文爆炸的求生指南</title>
+      <link>https://juejin.cn/post/7710090550490742794</link>
+      <description>当 Skill 数量到 500 个以上，关键词匹配会遇到物理极限。碰撞概率指数增长，遍历效率崩溃，加一个 Skill 可能让另一个 Skill 的路由变差。解法是用语义搜索替代关键词遍历</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710090550490742794</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Agent</category>
+      <category>机器学习</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 09:53:36 +0000</pubDate>
+      <dc:creator>塑料铲子</dc:creator>
+    </item>
+    <item>
+      <title>C++ 播放器接进 Electron,画面走原生窗口</title>
+      <link>https://juejin.cn/post/7710084602303889451</link>
+      <description>C++ 播放器接进 Electron:原生扩展要按 Electron 自带 Node 的 ABI 重建,播放器放主进程,画面用无边框透明窗口浮在网页位置上。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710084602303889451</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>音视频开发</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 10:14:38 +0000</pubDate>
+      <dc:creator>天天不在551</dc:creator>
+    </item>
+    <item>
+      <title>Arch 系用 greetd 实现开机自动进 Plasma Wayland，注销自动回桌面</title>
+      <link>https://juejin.cn/post/7709855110055641122</link>
+      <description>适用场景 无人值守主机、串流主机、单用户机器。目标是：开机自动进桌面，注销后自动重新进入，不依赖 SDDM / PLM，避免 KDE 登录管理器的耦合和卡死问题。 前置条件 Arch 系系统，已安装</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7709855110055641122</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Linux</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 03:23:24 +0000</pubDate>
+      <dc:creator>aningx</dc:creator>
+    </item>
+    <item>
+      <title>理解 JavaScript 对象、原型与包装类</title>
+      <link>https://juejin.cn/post/7710090550490710026</link>
+      <description>理解 JavaScript 对象、原型与包装类 前言 前面我们学习了作用域链、闭包、执行上下文。而对象、原型 prototype / __proto__、包装类就是建立在 JS 对象机制之上的核心知识</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710090550490710026</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>JavaScript</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 09:48:07 +0000</pubDate>
+      <dc:creator>凌晨三点说晚安</dc:creator>
+    </item>
+    <item>
+      <title>Go 语言内存管理机制详解</title>
+      <link>https://juejin.cn/post/7710053374063149110</link>
+      <description>一、总览：内存管理就干两件事 Go 程序运行时，内存管理只解决两个核心问题： 问题 通俗说法 Go 的答案 怎么给程序分内存（分配） 顾客来买东西，货从哪拿最快 三级缓存分配器（mcache → mc</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710053374063149110</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Go</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 10:48:03 +0000</pubDate>
+      <dc:creator>里海_go</dc:creator>
+    </item>
+    <item>
+      <title>2026 Vue 生态分析：底层重写了一遍，升级却几乎零成本</title>
+      <link>https://juejin.cn/post/7710140388782424102</link>
+      <description>Vue 3.6 仍在 RC，但渲染、响应式、构建三层底层已被替换。本文用一张分层地图和可复现的本机实测，讲清该升什么、不该升什么，以及那些性能数字到底该怎么读。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710140388782424102</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Vue.js</category>
+      <category>juejin</category>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c3d108eeb7b147f2bb0036a76a05505e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3NDUxNDE5NDI5MzIy:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=hk2ThJQJVZ2dhrCFIDLf0dGo48k%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 10:38:10 +0000</pubDate>
+      <dc:creator>用户451419429322</dc:creator>
+    </item>
+    <item>
+      <title>codex 接本地模型，单次输出卡在 3208 token：一份照着做就能改的完整教程</title>
+      <link>https://juejin.cn/post/7710109647361572864</link>
+      <description>codex 接本地模型时输出卡在 3208 token。用 model_catalog_json 补元数据，把 truncation_policy.limit 改成 16384，长输出不再被截断。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710109647361572864</guid>
       <category>chinese</category>
       <category>tech</category>
       <category>AI编程</category>
-      <category>AIGC</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 12:56:21 +0000</pubDate>
-      <dc:creator>LV技术派</dc:creator>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/9acbe35679044d6cbac36a9f792f48a9~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6YOR5LiW5b2V:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=ePwVqEVCCEaM05Qxbpk%2FRkaY07k%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 10:50:23 +0000</pubDate>
+      <dc:creator>郑世录</dc:creator>
     </item>
     <item>
-      <title>一天一个开源项目（第263篇）：江山时序 —— 纯静态的中国历史交互地图，从三家分晋拖到今天，还能让 AI 查地名</title>
-      <link>https://juejin.cn/post/7709762277485953034</link>
-      <description>江山时序（Jiangshan Atlas）是一个纯静态的中国历史交互舆图网站，覆盖公元前 403 年到今天约 2400 年、18 个历史时期。拖动时间轴看疆域变迁，点古城看历代沿革，搜人物看行迹</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709762277485953034</guid>
+      <title>EMR Serverless StarRocks 产品介绍：从统一 OLAP 走向多模态分析与检索</title>
+      <link>https://juejin.cn/post/7710140388782784550</link>
+      <description>构建 Lakehouse 原生 OLAP 引擎，一直是 StarRocks 的首要方向。用户可以把业务数据留在开放湖表里，直接用 StarRocks 做多表关联、聚合和交互式分析。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710140388782784550</guid>
       <category>chinese</category>
       <category>tech</category>
+      <category>人工智能</category>
+      <category>juejin</category>
+      <pubDate>Fri, 20 Nov 2026 11:39:41 +0000</pubDate>
+      <dc:creator>阿里云大数据AI技术</dc:creator>
+    </item>
+    <item>
+      <title>接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定</title>
+      <link>https://juejin.cn/post/7710134286455668799</link>
+      <description>火山引擎 IGA Pages 集成 AI 加速网关，串联模型接入、服务端调用与应用部署，自动配置模型地址和API Key，无需自建代理，密钥保留在服务端，兼容OpenAI协议，支持不改代码切换模型。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710134286455668799</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>人工智能</category>
+      <category>juejin</category>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f63a76a4f2044845a1f31f60f86f75e6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5a2X6IqC6Lez5Yqo6KeG6aKR5LqR5oqA5pyv5Zui6Zif:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=OoQAZMdhokH4EUimd8CYyJNWKnQ%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 12:12:37 +0000</pubDate>
+      <dc:creator>字节跳动视频云技术团队</dc:creator>
+    </item>
+    <item>
+      <title>单例设计模式：从 Java/Kotlin 实现到 Android 实战</title>
+      <link>https://juejin.cn/post/7710140388783161382</link>
+      <description>本文详解单例模式在 Java（饿汉、DCL、静态内部类、枚举）与 Kotlin 中的常见实现及原理，并实战封装线程安全的 Android 全局 ToastManager。</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710140388783161382</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>Android</category>
+      <category>juejin</category>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c768c63f9d1a456aaf285989b93e833c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6Zuo55m9:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=TvtMp%2FvFzwkaG8Xk0WURNzjAe%2FM%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 12:43:17 +0000</pubDate>
+      <dc:creator>雨白</dc:creator>
+    </item>
+    <item>
+      <title>开源AutoClip切直播：1小时48分出19段，整月API只花0.08元</title>
+      <link>https://juejin.cn/post/7710134632901607460</link>
+      <description>孟健试用开源AI剪辑工具AutoClip，把1小时48分的直播自动转写、挑高光、导出19段竖屏短片，耗时约5分钟，阿里云百炼整月费用0.08元。对比他手切的6条，有4条命中</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710134632901607460</guid>
+      <category>chinese</category>
+      <category>tech</category>
+      <category>AIGC</category>
+      <category>人工智能</category>
       <category>开源</category>
       <category>juejin</category>
-      <enclosure url="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/44d10147ede14457a36c5caa81645bf3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Yas5aWHTGFi:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795701855&amp;x-signature=rIvDH%2Ft42iI6miUabKVIO3BeRiM%3D" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 19 Nov 2026 13:10:17 +0000</pubDate>
-      <dc:creator>冬奇Lab</dc:creator>
+      <enclosure url="https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c29d7a2fa42540fa9f3c8f7b7e32fa37~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5a2f5YGlQUnnvJbnqIs=:q75.awebp?rk3s=f64ab15b&amp;x-expires=1795787497&amp;x-signature=d4EwsZrYprgkFCglut5veke8hRg%3D" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 20 Nov 2026 13:18:33 +0000</pubDate>
+      <dc:creator>孟健AI编程</dc:creator>
     </item>
     <item>
-      <title>【轻量化复刻大模型 / KIMI K3】Optimizer 交互式演示</title>
-      <link>https://juejin.cn/post/7709708111435186176</link>
-      <description>【轻量化复刻大模型 / KIMI K3】Optimizer 交互式演示 0x01 实现概述 1.1 做了什么 1.2 如何运行 1.3 图例 0x02 核心数学 2.1 总体公式 2.2 子机制分解</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709708111435186176</guid>
+      <title>京东又开源一款新框架，用起来真优雅！</title>
+      <link>https://juejin.cn/post/7710126647600906290</link>
+      <description>目录 优势 何时使用 开始使用 配置端 应用端 开源地址 DripTable 是京东零售推出的一款用于企业级中后台的动态列表解决方案，项目基于 React 和 JSON Schema，旨在通过简单配置</description>
+      <guid isPermaLink="true">https://juejin.cn/post/7710126647600906290</guid>
       <category>chinese</category>
       <category>tech</category>
-      <category>算法</category>
-      <category>人工智能</category>
-      <category>机器学习</category>
+      <category>后端</category>
       <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 13:17:15 +0000</pubDate>
-      <dc:creator>罗西的思考</dc:creator>
-    </item>
-    <item>
-      <title>蓝牙之设备角色与连接</title>
-      <link>https://juejin.cn/post/7709755274685333531</link>
-      <description>蓝牙设备连上后怎样交换数据？从中心与外围角色、建连时序、连接事件讲到连接间隔、延迟、监督超时和子速率，并区分链路连接、业务就绪、配对绑定与重连。</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709755274685333531</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>蓝牙</category>
-      <category>Android</category>
-      <category>Flutter</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 13:44:17 +0000</pubDate>
-      <dc:creator>好的佩奇</dc:creator>
-    </item>
-    <item>
-      <title>为什么越来越多人用 Spring AI ？</title>
-      <link>https://juejin.cn/post/7709781930410360858</link>
-      <description>Spring AI简介 Spring AI是Spring生态面向人工智能领域的官方扩展，旨在让Java开发者无需深入机器学习底层，就能像使用Spring MVC、Spring Data一样自然地构建A</description>
-      <guid isPermaLink="true">https://juejin.cn/post/7709781930410360858</guid>
-      <category>chinese</category>
-      <category>tech</category>
-      <category>Spring</category>
-      <category>juejin</category>
-      <pubDate>Thu, 19 Nov 2026 13:50:11 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 13:21:41 +0000</pubDate>
       <dc:creator>皮皮林551</dc:creator>
     </item>
   </channel>
