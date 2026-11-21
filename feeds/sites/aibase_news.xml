@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Custom RSS Fetcher</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:47:12 +0000</lastBuildDate>
-    <item>
-      <title>Huawei Cloud to Release First Ascend-Native Embodied World Model CloudRoboWM1.2</title>
-      <link>https://news.aibase.com/news/32326</link>
-      <description>Huawei Cloud will host an online launch on Nov 16, 14:00-15:30, releasing CloudRoboWM1.2, its first Ascend-native embodied world model, to scale embodied intelligence from labs to industries. Wu Xiaodong, Liu Liu, and Ding Zhibin will present.....</description>
-      <guid isPermaLink="true">https://news.aibase.com/news/32326</guid>
-      <category>Chinese</category>
-      <category>tech</category>
-      <category>aibase_news</category>
-      <enclosure url="https://pic.chinaz.com/picmap/thumb/201909091011483926_0.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Nov 2026 01:09:42 +0000</pubDate>
-      <dc:creator>AIBase</dc:creator>
-    </item>
+    <lastBuildDate>Sat, 21 Nov 2026 13:11:41 +0000</lastBuildDate>
     <item>
       <title>Google Gemini4Carbon Comes to WorkBuddy, Million-Token Context Opens to Pro Users</title>
       <link>https://news.aibase.com/news/32327</link>
@@ -1192,6 +1180,17 @@
       <category>aibase_news</category>
       <enclosure url="https://pic.chinaz.com/picmap/thumb/202412271704357904_2.jpg" length="0" type="image/jpeg"/>
       <pubDate>Fri, 20 Nov 2026 07:16:37 +0000</pubDate>
+      <dc:creator>AIBase</dc:creator>
+    </item>
+    <item>
+      <title>Before Opening Up the 70B Weights, Tencent First Gave Hy4 a Safety Checkup</title>
+      <link>https://news.aibase.com/news/32446</link>
+      <description>On Nov 20, Tencent open-sourced Hy4 weights on GitHub, Hugging Face, ModelScope and GitCode. The full Hunyuan LLM series (Hy3 preview, Hy3, Hy4 preview, Hy4, Hy4 flash) is now open. Released Nov 4, Hy4 uses MoE with 770B total/49B active params and a 1M+ context window.....</description>
+      <guid isPermaLink="true">https://news.aibase.com/news/32446</guid>
+      <category>Chinese</category>
+      <category>tech</category>
+      <category>aibase_news</category>
+      <pubDate>Fri, 20 Nov 2026 08:16:29 +0000</pubDate>
       <dc:creator>AIBase</dc:creator>
     </item>
     <item>
